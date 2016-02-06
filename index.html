@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<!--
+Some of the following code adapted/taken from:
+
+http://stackoverflow.com/questions/30686166/dimple-overlaid-the-new-plot-after-selecting-from-a-dropdown-menu-solution
+
+http://jsfiddle.net/rn3nc/1/
+
+http://stackoverflow.com/questions/1950038/jquery-fire-event-if-css-class-changed
+
+http://cssmenumaker.com/menu/indented-horizontal-menu
+
+http://stackoverflow.com/questions/23530434/in-dimple-how-do-you-change-the-order-of-the-series-ina-legend
+
+http://stackoverflow.com/questions/30434627/how-to-change-the-position-and-size-of-the-tooltip-in-dimple-js
+
+http://annapawlicka.com/pretty-charts-with-dimple-js/
+  -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+
+  <style>
+    circle.dimple-series-1 {
+      fill: red;
+    }
+
+    h1 {
+      text-align: center;
+      font-family: "Arial", Helvetica, sans-serif;
+      position: absolute;
+      top: 10px;
+      width: 100%;
+      color: white;
+    }
+
+    p {
+      text-align: left;
+      font-family: "Arial", Helvetica, sans-serif;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-top: 10px;
+      padding-bottom: 10px
+    }
+
+    img {
+      width =100%;
+      display: block;
+    }
+
+    /* Add tint to title image so it is inline with page colour scheme*/
+    .tint {
+      position: relative;
+      width: 100%;
+    }
+
+    .tint:before {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(0,255,275, 0.3);
+      transition: all .3s linear;
+      box-shadow: rgba(0,0,0,.2) 3px 5px 5px;
+    }
+
+  </style>
+    </head>
+<body>
+  <div class="image">
+    <div class="tint">
+      <img src="../images/titanic.jpg" height="150" width="100%"/>
+      <h1> Titanic Survivor and Fatality Counts</h1>
+    </div>
+  </div>
+
+  <div class = "intro">
+    <p>On 10 April 1912 the RMS Titanic set sail on its maiden voyage carrying 1317 passengers. Four days later, after striking an iceberg, the Titanic sank. The visualization below explores the survivor and fatality counts for the Titanic passengers on that fateful voyage. The most notable aspect of the data is the disproportionate number of men who did not survive. While this seems to be a direct result of a "women and children" first policy, the data suggest -- if we take cabin class as a proxy for economic status -- that perhaps it was more of a "women, rich, and children" policy that was followed.</p>
+  </div>
+
+  <div class="menu" id='cssmenu'>
+    <ul class="nav" id="varSelect">
+    <li class='active' value="Sex"><a href="#"><span>Sex</span></a></li>
+    <li value="Cabin Class"><a href="#"><span>Cabin Class</span></a></li>
+    <li value="Age"><a href="#"><span>Age</span></a></li>
+    <li value="Embarked"><a href="#"><span>Place of Embarkation</span></a></li>
+  </ul>
+  </div>
+
+  <script type="text/javascript">
+
+    // make selected menu item active which in turn invokes 
+    // function change() which will redraw chart with 
+    // selected menu item as x-axis variable
+    var selector = '.nav li';
+    var elems = document.querySelectorAll(selector);
+
+    var makeActive = function () {
+      for (var i = 0; i < elems.length; i++)
+          elems[i].classList.remove('active');
+          this.classList.add('active');
+          $(document).trigger("change");
+      };
+      for (var i = 0; i < elems.length; i++)
+          elems[i].addEventListener('mousedown', makeActive);
+        
+    "use strict";
+    var margin = 50,
+        width = 1400 - margin,
+        height = 700 - margin;
+        
+    var svg = dimple.newSvg("body", "100%", height);
+    //width, height);
+
+    // create variable from which to extract value for 
+    // variable selected via the menu
+    var dropdown = d3.select("#varSelect"); 
+
+    // function to redraw chart whenever a menu item is selected
+    var change = function() {
+      svg.selectAll("*").remove();
+      var source = dropdown.select(".active").attr("value");
+
+      // load the data
+      d3.tsv("data/titanic.tsv", function(data) {
+
+        var myChart = new dimple.chart(svg, data);
+        var x = myChart.addCategoryAxis("x", ["Survived", source]); 
+        var y = myChart.addMeasureAxis("y", "count");
+        var mySeries = myChart.addSeries([source], dimple.plot.bar);
+
+        // change default tooltip style and behaviour 
+        mySeries.addEventHandler("mouseover", function (e) {
+          var cx = parseFloat(e.selectedShape.attr("x"));
+          var cxWidth = parseFloat(e.selectedShape.attr("width"));
+          var cy = parseFloat(e.selectedShape.attr("y"));
+
+          // set size and coordinates of tooltip
+          var width = 120;
+          var height = 50;
+          var xPop = (cx +width + 10 < svg.attr("width")) ? cx: cx ;
+          var yPop = (cy - height / 2 < 0) ? 15: cy - height / 2;
+
+          popup = svg.append("g");
+
+          // change style of tooltip
+          popup
+              .append("rect")
+              .attr("x", xPop + 5)
+              .attr("y", yPop - 5)
+              .attr("width", 150)
+              .attr("height", height)
+              .attr("width", width)
+              .attr("rx", 5)
+              .attr("ry", 5)
+              .style("fill", "white")
+              .style("stroke", "#36b0b6")
+              .style("stroke-width", 2);
+
+          // add appropriate text to tooltip
+          popup
+            .append('text')
+            .attr('x', xPop + 10)
+            .attr('y', yPop + 10)
+            .append('tspan')
+            .attr('x', xPop + 10)
+            .attr('y', yPop + 20)
+            .text(
+              dropdown.select(".active").attr("value") + ': ' + e.seriesValue[0])
+            .style("font-family", "sans-serif")
+            .style("font-size", 10)
+            .append('tspan')
+            .attr('x', xPop + 10)
+            .attr('y', yPop + 40)
+            .text("Count: " + e.yValue)
+            .style("font-family", "sans-serif")
+            .style("font-size", 10);
+        });
+
+
+        // Clear tolltip on exit
+        mySeries.addEventHandler("mouseleave", function (e) {
+            if (popup !== null) {
+              popup.remove();
+            };
+        });
+
+        var myLegend = myChart.addLegend("10%", "5%", "60%", "20%", "Right", mySeries);
+
+        // change order of legend to match order of bars in chart
+        myLegend._getEntries_old = myLegend._getEntries;
+        myLegend._getEntries = function () {
+          return myLegend._getEntries_old.apply(this, arguments).reverse();
+        };
+
+        // add effects to how the bars on drawn 
+        myChart.staggerDraw = true;
+        myChart.ease = "bounce";
+
+        // select custom colour scheme
+        myChart.defaultColors = [
+          new dimple.color("#36B0B6"),
+          new dimple.color("#3C36B5"),
+          new dimple.color("#B536AF"),
+          new dimple.color("#B53C36"),
+          new dimple.color("#AFB536"),
+          new dimple.color("#36B53C")
+            ];
+
+        myChart.draw(1000);
+
+        // change style of axis labels
+        x.titleShape.style("font-size", "20");
+        x.shapes.selectAll("text").style("font-size", 15);
+        x.titleShape.attr("y", height - 5);
+
+        y.titleShape.text("Count"); 
+        y.titleShape.style("font-family", "sans-serif");
+        y.titleShape.style("font-size", "20");
+
+        // redraw chart when browser window is resized so chart is responsive
+        window.onresize = function () {
+              myChart.draw(0, true);
+            }
+
+      });
+    }
+    
+    // call function change() when 'document' changes
+    // this happens when a menu item is selected (<li> class changes to active)
+    // and then the chart is redrawn with the newly selected variable
+    $(document).on("change", change);
+    change();
+  </script>
+
+</body>
+</html>

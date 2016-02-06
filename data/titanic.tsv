@@ -1,0 +1,1308 @@
+Cabin Class	name	Sex	ind_age	sibsp	parch	ticket	fare	cabin	Embarked	boat	body	home.dest	Survived	count	Age
+First	Allen, Miss. Elisabeth Walton	Female	29	0	0	24160	211.3375	B5	Southampton	2	NA	St Louis, MO	Survived	1	15-30
+First	Allison, Master. Hudson Trevor	Male	0.92	1	2	113781	151.55	C22 C26	Southampton	11	NA	Montreal, PQ / Chesterville, ON	Survived	1	0-15
+First	Allison, Miss. Helen Loraine	Female	2	1	2	113781	151.55	C22 C26	Southampton		NA	Montreal, PQ / Chesterville, ON	Did not survive	1	0-15
+First	Allison, Mr. Hudson Joshua Creighton	Male	30	1	2	113781	151.55	C22 C26	Southampton		135	Montreal, PQ / Chesterville, ON	Did not survive	1	15-30
+First	Allison, Mrs. Hudson J C (Bessie Waldo Daniels)	Female	25	1	2	113781	151.55	C22 C26	Southampton		NA	Montreal, PQ / Chesterville, ON	Did not survive	1	15-30
+First	Anderson, Mr. Harry	Male	48	0	0	19952	26.55	E12	Southampton	3	NA	New York, NY	Survived	1	45-60
+First	Andrews, Miss. Kornelia Theodosia	Female	63	1	0	13502	77.9583	D7	Southampton	10	NA	Hudson, NY	Survived	1	over 60
+First	Andrews, Mr. Thomas Jr	Male	39	0	0	112050	0	A36	Southampton		NA	Belfast, NI	Did not survive	1	30-45
+First	Appleton, Mrs. Edward Dale (Charlotte Lamson)	Female	53	2	0	11769	51.4792	C101	Southampton	D	NA	Bayside, Queens, NY	Survived	1	45-60
+First	Artagaveytia, Mr. Ramon	Male	71	0	0	PC 17609	49.5042		Cherbourg		22	Montevideo, Uruguay	Did not survive	1	over 60
+First	Astor, Col. John Jacob	Male	47	1	0	PC 17757	227.525	C62 C64	Cherbourg		124	New York, NY	Did not survive	1	45-60
+First	Astor, Mrs. John Jacob (Madeleine Talmadge Force)	Female	18	1	0	PC 17757	227.525	C62 C64	Cherbourg	4	NA	New York, NY	Survived	1	15-30
+First	Aubart, Mme. Leontine Pauline	Female	24	0	0	PC 17477	69.3	B35	Cherbourg	9	NA	Paris, France	Survived	1	15-30
+First	Barber, Miss. Ellen "Nellie"	Female	26	0	0	19877	78.85		Southampton	6	NA		Survived	1	15-30
+First	Barkworth, Mr. Algernon Henry Wilson	Male	80	0	0	27042	30	A23	Southampton	B	NA	Hessle, Yorks	Survived	1	over 60
+First	Baumann, Mr. John D	Male	NA	0	0	PC 17318	25.925		Southampton		NA	New York, NY	Did not survive	1	No age recorded
+First	Baxter, Mr. Quigg Edmond	Male	24	0	1	PC 17558	247.5208	B58 B60	Cherbourg		NA	Montreal, PQ	Did not survive	1	15-30
+First	Baxter, Mrs. James (Helene DeLaudeniere Chaput)	Female	50	0	1	PC 17558	247.5208	B58 B60	Cherbourg	6	NA	Montreal, PQ	Survived	1	45-60
+First	Bazzani, Miss. Albina	Female	32	0	0	11813	76.2917	D15	Cherbourg	8	NA		Survived	1	30-45
+First	Beattie, Mr. Thomson	Male	36	0	0	13050	75.2417	C6	Cherbourg	A	NA	Winnipeg, MN	Did not survive	1	30-45
+First	Beckwith, Mr. Richard Leonard	Male	37	1	1	11751	52.5542	D35	Southampton	5	NA	New York, NY	Survived	1	30-45
+First	Beckwith, Mrs. Richard Leonard (Sallie Monypeny)	Female	47	1	1	11751	52.5542	D35	Southampton	5	NA	New York, NY	Survived	1	45-60
+First	Behr, Mr. Karl Howell	Male	26	0	0	111369	30	C148	Cherbourg	5	NA	New York, NY	Survived	1	15-30
+First	Bidois, Miss. Rosalie	Female	42	0	0	PC 17757	227.525		Cherbourg	4	NA		Survived	1	30-45
+First	Bird, Miss. Ellen	Female	29	0	0	PC 17483	221.7792	C97	Southampton	8	NA		Survived	1	15-30
+First	Birnbaum, Mr. Jakob	Male	25	0	0	13905	26		Cherbourg		148	San Francisco, CA	Did not survive	1	15-30
+First	Bishop, Mr. Dickinson H	Male	25	1	0	11967	91.0792	B49	Cherbourg	7	NA	Dowagiac, MI	Survived	1	15-30
+First	Bishop, Mrs. Dickinson H (Helen Walton)	Female	19	1	0	11967	91.0792	B49	Cherbourg	7	NA	Dowagiac, MI	Survived	1	15-30
+First	Bissette, Miss. Amelia	Female	35	0	0	PC 17760	135.6333	C99	Southampton	8	NA		Survived	1	30-45
+First	Bjornstrom-Steffansson, Mr. Mauritz Hakan	Male	28	0	0	110564	26.55	C52	Southampton	D	NA	Stockholm, Sweden / Washington, DC	Survived	1	15-30
+First	Blackwell, Mr. Stephen Weart	Male	45	0	0	113784	35.5	T	Southampton		NA	Trenton, NJ	Did not survive	1	30-45
+First	Blank, Mr. Henry	Male	40	0	0	112277	31	A31	Cherbourg	7	NA	Glen Ridge, NJ	Survived	1	30-45
+First	Bonnell, Miss. Caroline	Female	30	0	0	36928	164.8667	C7	Southampton	8	NA	Youngstown, OH	Survived	1	15-30
+First	Bonnell, Miss. Elizabeth	Female	58	0	0	113783	26.55	C103	Southampton	8	NA	Birkdale, England Cleveland, Ohio	Survived	1	45-60
+First	Borebank, Mr. John James	Male	42	0	0	110489	26.55	D22	Southampton		NA	London / Winnipeg, MB	Did not survive	1	30-45
+First	Bowen, Miss. Grace Scott	Female	45	0	0	PC 17608	262.375		Cherbourg	4	NA	Cooperstown, NY	Survived	1	30-45
+First	Bowerman, Miss. Elsie Edith	Female	22	0	1	113505	55	E33	Southampton	6	NA	St Leonards-on-Sea, England Ohio	Survived	1	15-30
+First	Bradley, Mr. George ("George Arthur Brayton")	Male	NA	0	0	111427	26.55		Southampton	9	NA	Los Angeles, CA	Survived	1	No age recorded
+First	Brady, Mr. John Bertram	Male	41	0	0	113054	30.5	A21	Southampton		NA	Pomeroy, WA	Did not survive	1	30-45
+First	Brandeis, Mr. Emil	Male	48	0	0	PC 17591	50.4958	B10	Cherbourg		208	Omaha, NE	Did not survive	1	45-60
+First	Brewe, Dr. Arthur Jackson	Male	NA	0	0	112379	39.6		Cherbourg		NA	Philadelphia, PA	Did not survive	1	No age recorded
+First	Brown, Mrs. James Joseph (Margaret Tobin)	Female	44	0	0	PC 17610	27.7208	B4	Cherbourg	6	NA	Denver, CO	Survived	1	30-45
+First	Brown, Mrs. John Murray (Caroline Lane Lamson)	Female	59	2	0	11769	51.4792	C101	Southampton	D	NA	Belmont, MA	Survived	1	45-60
+First	Bucknell, Mrs. William Robert (Emma Eliza Ward)	Female	60	0	0	11813	76.2917	D15	Cherbourg	8	NA	Philadelphia, PA	Survived	1	45-60
+First	Burns, Miss. Elizabeth Margaret	Female	41	0	0	16966	134.5	E40	Cherbourg	3	NA		Survived	1	30-45
+First	Butt, Major. Archibald Willingham	Male	45	0	0	113050	26.55	B38	Southampton		NA	Washington, DC	Did not survive	1	30-45
+First	Cairns, Mr. Alexander	Male	NA	0	0	113798	31		Southampton		NA		Did not survive	1	No age recorded
+First	Calderhead, Mr. Edward Pennington	Male	42	0	0	PC 17476	26.2875	E24	Southampton	5	NA	New York, NY	Survived	1	30-45
+First	Candee, Mrs. Edward (Helen Churchill Hungerford)	Female	53	0	0	PC 17606	27.4458		Cherbourg	6	NA	Washington, DC	Survived	1	45-60
+First	Cardeza, Mr. Thomas Drake Martinez	Male	36	0	1	PC 17755	512.3292	B51 B53 B55	Cherbourg	3	NA	Austria-Hungary / Germantown, Philadelphia, PA	Survived	1	30-45
+First	Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)	Female	58	0	1	PC 17755	512.3292	B51 B53 B55	Cherbourg	3	NA	Germantown, Philadelphia, PA	Survived	1	45-60
+First	Carlsson, Mr. Frans Olof	Male	33	0	0	695	5	B51 B53 B55	Southampton		NA	New York, NY	Did not survive	1	30-45
+First	Carrau, Mr. Francisco M	Male	28	0	0	113059	47.1		Southampton		NA	Montevideo, Uruguay	Did not survive	1	15-30
+First	Carrau, Mr. Jose Pedro	Male	17	0	0	113059	47.1		Southampton		NA	Montevideo, Uruguay	Did not survive	1	15-30
+First	Carter, Master. William Thornton II	Male	11	1	2	113760	120	B96 B98	Southampton	4	NA	Bryn Mawr, PA	Survived	1	0-15
+First	Carter, Miss. Lucile Polk	Female	14	1	2	113760	120	B96 B98	Southampton	4	NA	Bryn Mawr, PA	Survived	1	0-15
+First	Carter, Mr. William Ernest	Male	36	1	2	113760	120	B96 B98	Southampton	C	NA	Bryn Mawr, PA	Survived	1	30-45
+First	Carter, Mrs. William Ernest (Lucile Polk)	Female	36	1	2	113760	120	B96 B98	Southampton	4	NA	Bryn Mawr, PA	Survived	1	30-45
+First	Case, Mr. Howard Brown	Male	49	0	0	19924	26		Southampton		NA	Ascot, Berkshire / Rochester, NY	Did not survive	1	45-60
+First	Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)	Female	NA	0	0	17770	27.7208		Cherbourg	5	NA	New York, NY	Survived	1	No age recorded
+First	Cavendish, Mr. Tyrell William	Male	36	1	0	19877	78.85	C46	Southampton		172	Little Onn Hall, Staffs	Did not survive	1	30-45
+First	Cavendish, Mrs. Tyrell William (Julia Florence Siegel)	Female	76	1	0	19877	78.85	C46	Southampton	6	NA	Little Onn Hall, Staffs	Survived	1	over 60
+First	Chaffee, Mr. Herbert Fuller	Male	46	1	0	W.E.P. 5734	61.175	E31	Southampton		NA	Amenia, ND	Did not survive	1	45-60
+First	Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)	Female	47	1	0	W.E.P. 5734	61.175	E31	Southampton	4	NA	Amenia, ND	Survived	1	45-60
+First	Chambers, Mr. Norman Campbell	Male	27	1	0	113806	53.1	E8	Southampton	5	NA	New York, NY / Ithaca, NY	Survived	1	15-30
+First	Chambers, Mrs. Norman Campbell (Bertha Griggs)	Female	33	1	0	113806	53.1	E8	Southampton	5	NA	New York, NY / Ithaca, NY	Survived	1	30-45
+First	Chaudanson, Miss. Victorine	Female	36	0	0	PC 17608	262.375	B61	Cherbourg	4	NA		Survived	1	30-45
+First	Cherry, Miss. Gladys	Female	30	0	0	110152	86.5	B77	Southampton	8	NA	London, England	Survived	1	15-30
+First	Chevre, Mr. Paul Romaine	Male	45	0	0	PC 17594	29.7	A9	Cherbourg	7	NA	Paris, France	Survived	1	30-45
+First	Chibnall, Mrs. (Edith Martha Bowerman)	Female	NA	0	1	113505	55	E33	Southampton	6	NA	St Leonards-on-Sea, England Ohio	Survived	1	No age recorded
+First	Chisholm, Mr. Roderick Robert Crispin	Male	NA	0	0	112051	0		Southampton		NA	Liverpool, England / Belfast	Did not survive	1	No age recorded
+First	Clark, Mr. Walter Miller	Male	27	1	0	13508	136.7792	C89	Cherbourg		NA	Los Angeles, CA	Did not survive	1	15-30
+First	Clark, Mrs. Walter Miller (Virginia McDowell)	Female	26	1	0	13508	136.7792	C89	Cherbourg	4	NA	Los Angeles, CA	Survived	1	15-30
+First	Cleaver, Miss. Alice	Female	22	0	0	113781	151.55		Southampton	11	NA		Survived	1	15-30
+First	Clifford, Mr. George Quincy	Male	NA	0	0	110465	52	A14	Southampton		NA	Stoughton, MA	Did not survive	1	No age recorded
+First	Colley, Mr. Edward Pomeroy	Male	47	0	0	5727	25.5875	E58	Southampton		NA	Victoria, BC	Did not survive	1	45-60
+First	Compton, Miss. Sara Rebecca	Female	39	1	1	PC 17756	83.1583	E49	Cherbourg	14	NA	Lakewood, NJ	Survived	1	30-45
+First	Compton, Mr. Alexander Taylor Jr	Male	37	1	1	PC 17756	83.1583	E52	Cherbourg		NA	Lakewood, NJ	Did not survive	1	30-45
+First	Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)	Female	64	0	2	PC 17756	83.1583	E45	Cherbourg	14	NA	Lakewood, NJ	Survived	1	over 60
+First	Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)	Female	55	2	0	11770	25.7	C101	Southampton	2	NA	New York, NY	Survived	1	45-60
+First	Crafton, Mr. John Bertram	Male	NA	0	0	113791	26.55		Southampton		NA	Roachdale, IN	Did not survive	1	No age recorded
+First	Crosby, Capt. Edward Gifford	Male	70	1	1	WE/P 5735	71	B22	Southampton		269	Milwaukee, WI	Did not survive	1	over 60
+First	Crosby, Miss. Harriet R	Female	36	0	2	WE/P 5735	71	B22	Southampton	7	NA	Milwaukee, WI	Survived	1	30-45
+First	Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)	Female	64	1	1	112901	26.55	B26	Southampton	7	NA	Milwaukee, WI	Survived	1	over 60
+First	Cumings, Mr. John Bradley	Male	39	1	0	PC 17599	71.2833	C85	Cherbourg		NA	New York, NY	Did not survive	1	30-45
+First	Cumings, Mrs. John Bradley (Florence Briggs Thayer)	Female	38	1	0	PC 17599	71.2833	C85	Cherbourg	4	NA	New York, NY	Survived	1	30-45
+First	Daly, Mr. Peter Denis 	Male	51	0	0	113055	26.55	E17	Southampton	5 9	NA	Lima, Peru	Survived	1	45-60
+First	Daniel, Mr. Robert Williams	Male	27	0	0	113804	30.5		Southampton	3	NA	Philadelphia, PA	Survived	1	15-30
+First	Daniels, Miss. Sarah	Female	33	0	0	113781	151.55		Southampton	8	NA		Survived	1	30-45
+First	Davidson, Mr. Thornton	Male	31	1	0	F.C. 12750	52	B71	Southampton		NA	Montreal, PQ	Did not survive	1	30-45
+First	Davidson, Mrs. Thornton (Orian Hays)	Female	27	1	2	F.C. 12750	52	B71	Southampton	3	NA	Montreal, PQ	Survived	1	15-30
+First	Dick, Mr. Albert Adrian	Male	31	1	0	17474	57	B20	Southampton	3	NA	Calgary, AB	Survived	1	30-45
+First	Dick, Mrs. Albert Adrian (Vera Gillespie)	Female	17	1	0	17474	57	B20	Southampton	3	NA	Calgary, AB	Survived	1	15-30
+First	Dodge, Dr. Washington	Male	53	1	1	33638	81.8583	A34	Southampton	13	NA	San Francisco, CA	Survived	1	45-60
+First	Dodge, Master. Washington	Male	4	0	2	33638	81.8583	A34	Southampton	5	NA	San Francisco, CA	Survived	1	0-15
+First	Dodge, Mrs. Washington (Ruth Vidaver)	Female	54	1	1	33638	81.8583	A34	Southampton	5	NA	San Francisco, CA	Survived	1	45-60
+First	Douglas, Mr. Walter Donald	Male	50	1	0	PC 17761	106.425	C86	Cherbourg		62	Deephaven, MN / Cedar Rapids, IA	Did not survive	1	45-60
+First	Douglas, Mrs. Frederick Charles (Mary Helene Baxter)	Female	27	1	1	PC 17558	247.5208	B58 B60	Cherbourg	6	NA	Montreal, PQ	Survived	1	15-30
+First	Douglas, Mrs. Walter Donald (Mahala Dutton)	Female	48	1	0	PC 17761	106.425	C86	Cherbourg	2	NA	Deephaven, MN / Cedar Rapids, IA	Survived	1	45-60
+First	Duff Gordon, Lady. (Lucille Christiana Sutherland) ("Mrs Morgan")	Female	48	1	0	11755	39.6	A16	Cherbourg	1	NA	London / Paris	Survived	1	45-60
+First	Duff Gordon, Sir. Cosmo Edmund ("Mr Morgan")	Male	49	1	0	PC 17485	56.9292	A20	Cherbourg	1	NA	London / Paris	Survived	1	45-60
+First	Dulles, Mr. William Crothers	Male	39	0	0	PC 17580	29.7	A18	Cherbourg		133	Philadelphia, PA	Did not survive	1	30-45
+First	Earnshaw, Mrs. Boulton (Olive Potter)	Female	23	0	1	11767	83.1583	C54	Cherbourg	7	NA	Mt Airy, Philadelphia, PA	Survived	1	15-30
+First	Endres, Miss. Caroline Louise	Female	38	0	0	PC 17757	227.525	C45	Cherbourg	4	NA	New York, NY	Survived	1	30-45
+First	Eustis, Miss. Elizabeth Mussey	Female	54	1	0	36947	78.2667	D20	Cherbourg	4	NA	Brookline, MA	Survived	1	45-60
+First	Evans, Miss. Edith Corse	Female	36	0	0	PC 17531	31.6792	A29	Cherbourg		NA	New York, NY	Did not survive	1	30-45
+First	Farthing, Mr. John	Male	NA	0	0	PC 17483	221.7792	C95	Southampton		NA		Did not survive	1	No age recorded
+First	Flegenheim, Mrs. Alfred (Antoinette)	Female	NA	0	0	PC 17598	31.6833		Southampton	7	NA	New York, NY	Survived	1	No age recorded
+First	Fleming, Miss. Margaret	Female	NA	0	0	17421	110.8833		Cherbourg	4	NA		Survived	1	No age recorded
+First	Flynn, Mr. John Irwin ("Irving")	Male	36	0	0	PC 17474	26.3875	E25	Southampton	5	NA	Brooklyn, NY	Survived	1	30-45
+First	Foreman, Mr. Benjamin Laventall	Male	30	0	0	113051	27.75	C111	Cherbourg		NA	New York, NY	Did not survive	1	15-30
+First	Fortune, Miss. Alice Elizabeth	Female	24	3	2	19950	263	C23 C25 C27	Southampton	10	NA	Winnipeg, MB	Survived	1	15-30
+First	Fortune, Miss. Ethel Flora	Female	28	3	2	19950	263	C23 C25 C27	Southampton	10	NA	Winnipeg, MB	Survived	1	15-30
+First	Fortune, Miss. Mabel Helen	Female	23	3	2	19950	263	C23 C25 C27	Southampton	10	NA	Winnipeg, MB	Survived	1	15-30
+First	Fortune, Mr. Charles Alexander	Male	19	3	2	19950	263	C23 C25 C27	Southampton		NA	Winnipeg, MB	Did not survive	1	15-30
+First	Fortune, Mr. Mark	Male	64	1	4	19950	263	C23 C25 C27	Southampton		NA	Winnipeg, MB	Did not survive	1	over 60
+First	Fortune, Mrs. Mark (Mary McDougald)	Female	60	1	4	19950	263	C23 C25 C27	Southampton	10	NA	Winnipeg, MB	Survived	1	45-60
+First	Francatelli, Miss. Laura Mabel	Female	30	0	0	PC 17485	56.9292	E36	Cherbourg	1	NA		Survived	1	15-30
+First	Franklin, Mr. Thomas Parham	Male	NA	0	0	113778	26.55	D34	Southampton		NA	Westcliff-on-Sea, Essex	Did not survive	1	No age recorded
+First	Frauenthal, Dr. Henry William	Male	50	2	0	PC 17611	133.65		Southampton	5	NA	New York, NY	Survived	1	45-60
+First	Frauenthal, Mr. Isaac Gerald	Male	43	1	0	17765	27.7208	D40	Cherbourg	5	NA	New York, NY	Survived	1	30-45
+First	Frauenthal, Mrs. Henry William (Clara Heinsheimer)	Female	NA	1	0	PC 17611	133.65		Southampton	5	NA	New York, NY	Survived	1	No age recorded
+First	Frolicher, Miss. Hedwig Margaritha	Female	22	0	2	13568	49.5	B39	Cherbourg	5	NA	Zurich, Switzerland	Survived	1	15-30
+First	Frolicher-Stehli, Mr. Maxmillian	Male	60	1	1	13567	79.2	B41	Cherbourg	5	NA	Zurich, Switzerland	Survived	1	45-60
+First	Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)	Female	48	1	1	13567	79.2	B41	Cherbourg	5	NA	Zurich, Switzerland	Survived	1	45-60
+First	Fry, Mr. Richard	Male	NA	0	0	112058	0	B102	Southampton		NA		Did not survive	1	No age recorded
+First	Futrelle, Mr. Jacques Heath	Male	37	1	0	113803	53.1	C123	Southampton		NA	Scituate, MA	Did not survive	1	30-45
+First	Futrelle, Mrs. Jacques Heath (Lily May Peel)	Female	35	1	0	113803	53.1	C123	Southampton	D	NA	Scituate, MA	Survived	1	30-45
+First	Gee, Mr. Arthur H	Male	47	0	0	111320	38.5	E63	Southampton		275	St Anne's-on-Sea, Lancashire	Did not survive	1	45-60
+First	Geiger, Miss. Amalie	Female	35	0	0	113503	211.5	C130	Cherbourg	4	NA		Survived	1	30-45
+First	Gibson, Miss. Dorothy Winifred	Female	22	0	1	112378	59.4		Cherbourg	7	NA	New York, NY	Survived	1	15-30
+First	Gibson, Mrs. Leonard (Pauline C Boeson)	Female	45	0	1	112378	59.4		Cherbourg	7	NA	New York, NY	Survived	1	30-45
+First	Giglio, Mr. Victor	Male	24	0	0	PC 17593	79.2	B86	Cherbourg		NA		Did not survive	1	15-30
+First	Goldenberg, Mr. Samuel L	Male	49	1	0	17453	89.1042	C92	Cherbourg	5	NA	Paris, France / New York, NY	Survived	1	45-60
+First	Goldenberg, Mrs. Samuel L (Edwiga Grabowska)	Female	NA	1	0	17453	89.1042	C92	Cherbourg	5	NA	Paris, France / New York, NY	Survived	1	No age recorded
+First	Goldschmidt, Mr. George B	Male	71	0	0	PC 17754	34.6542	A5	Cherbourg		NA	New York, NY	Did not survive	1	over 60
+First	Gracie, Col. Archibald IV	Male	53	0	0	113780	28.5	C51	Cherbourg	B	NA	Washington, DC	Survived	1	45-60
+First	Graham, Miss. Margaret Edith	Female	19	0	0	112053	30	B42	Southampton	3	NA	Greenwich, CT	Survived	1	15-30
+First	Graham, Mr. George Edward	Male	38	0	1	PC 17582	153.4625	C91	Southampton		147	Winnipeg, MB	Did not survive	1	30-45
+First	Graham, Mrs. William Thompson (Edith Junkins)	Female	58	0	1	PC 17582	153.4625	C125	Southampton	3	NA	Greenwich, CT	Survived	1	45-60
+First	Greenfield, Mr. William Bertram	Male	23	0	1	PC 17759	63.3583	D10 D12	Cherbourg	7	NA	New York, NY	Survived	1	15-30
+First	Greenfield, Mrs. Leo David (Blanche Strouse)	Female	45	0	1	PC 17759	63.3583	D10 D12	Cherbourg	7	NA	New York, NY	Survived	1	30-45
+First	Guggenheim, Mr. Benjamin	Male	46	0	0	PC 17593	79.2	B82 B84	Cherbourg		NA	New York, NY	Did not survive	1	45-60
+First	Harder, Mr. George Achilles	Male	25	1	0	11765	55.4417	E50	Cherbourg	5	NA	Brooklyn, NY	Survived	1	15-30
+First	Harder, Mrs. George Achilles (Dorothy Annan)	Female	25	1	0	11765	55.4417	E50	Cherbourg	5	NA	Brooklyn, NY	Survived	1	15-30
+First	Harper, Mr. Henry Sleeper	Male	48	1	0	PC 17572	76.7292	D33	Cherbourg	3	NA	New York, NY	Survived	1	45-60
+First	Harper, Mrs. Henry Sleeper (Myna Haxtun)	Female	49	1	0	PC 17572	76.7292	D33	Cherbourg	3	NA	New York, NY	Survived	1	45-60
+First	Harrington, Mr. Charles H	Male	NA	0	0	113796	42.4		Southampton		NA		Did not survive	1	No age recorded
+First	Harris, Mr. Henry Birkhardt	Male	45	1	0	36973	83.475	C83	Southampton		NA	New York, NY	Did not survive	1	30-45
+First	Harris, Mrs. Henry Birkhardt (Irene Wallach)	Female	35	1	0	36973	83.475	C83	Southampton	D	NA	New York, NY	Survived	1	30-45
+First	Harrison, Mr. William	Male	40	0	0	112059	0	B94	Southampton		110		Did not survive	1	30-45
+First	Hassab, Mr. Hammad	Male	27	0	0	PC 17572	76.7292	D49	Cherbourg	3	NA		Survived	1	15-30
+First	Hawksford, Mr. Walter James	Male	NA	0	0	16988	30	D45	Southampton	3	NA	Kingston, Surrey	Survived	1	No age recorded
+First	Hays, Miss. Margaret Bechstein	Female	24	0	0	11767	83.1583	C54	Cherbourg	7	NA	New York, NY	Survived	1	15-30
+First	Hays, Mr. Charles Melville	Male	55	1	1	12749	93.5	B69	Southampton		307	Montreal, PQ	Did not survive	1	45-60
+First	Hays, Mrs. Charles Melville (Clara Jennings Gregg)	Female	52	1	1	12749	93.5	B69	Southampton	3	NA	Montreal, PQ	Survived	1	45-60
+First	Head, Mr. Christopher	Male	42	0	0	113038	42.5	B11	Southampton		NA	London / Middlesex	Did not survive	1	30-45
+First	Hilliard, Mr. Herbert Henry	Male	NA	0	0	17463	51.8625	E46	Southampton		NA	Brighton, MA	Did not survive	1	No age recorded
+First	Hipkins, Mr. William Edward	Male	55	0	0	680	50	C39	Southampton		NA	London / Birmingham	Did not survive	1	45-60
+First	Hippach, Miss. Jean Gertrude	Female	16	0	1	111361	57.9792	B18	Cherbourg	4	NA	Chicago, IL	Survived	1	15-30
+First	Hippach, Mrs. Louis Albert (Ida Sophia Fischer)	Female	44	0	1	111361	57.9792	B18	Cherbourg	4	NA	Chicago, IL	Survived	1	30-45
+First	Hogeboom, Mrs. John C (Anna Andrews)	Female	51	1	0	13502	77.9583	D11	Southampton	10	NA	Hudson, NY	Survived	1	45-60
+First	Holverson, Mr. Alexander Oskar	Male	42	1	0	113789	52		Southampton		38	New York, NY	Did not survive	1	30-45
+First	Holverson, Mrs. Alexander Oskar (Mary Aline Towner)	Female	35	1	0	113789	52		Southampton	8	NA	New York, NY	Survived	1	30-45
+First	Homer, Mr. Harry ("Mr E Haven")	Male	35	0	0	111426	26.55		Cherbourg	15	NA	Indianapolis, IN	Survived	1	30-45
+First	Hoyt, Mr. Frederick Maxfield	Male	38	1	0	19943	90	C93	Southampton	D	NA	New York, NY /  Stamford CT	Survived	1	30-45
+First	Hoyt, Mr. William Fisher	Male	NA	0	0	PC 17600	30.6958		Cherbourg	14	NA	New York, NY	Did not survive	1	No age recorded
+First	Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)	Female	35	1	0	19943	90	C93	Southampton	D	NA	New York, NY /  Stamford CT	Survived	1	30-45
+First	Isham, Miss. Ann Elizabeth	Female	50	0	0	PC 17595	28.7125	C49	Cherbourg		NA	Paris, France New York, NY	Did not survive	1	45-60
+First	Ismay, Mr. Joseph Bruce	Male	49	0	0	112058	0	B52 B54 B56	Southampton	C	NA	Liverpool	Survived	1	45-60
+First	Jones, Mr. Charles Cresson	Male	46	0	0	694	26		Southampton		80	Bennington, VT	Did not survive	1	45-60
+First	Julian, Mr. Henry Forbes	Male	50	0	0	113044	26	E60	Southampton		NA	London	Did not survive	1	45-60
+First	Keeping, Mr. Edwin	Male	32.5	0	0	113503	211.5	C132	Cherbourg		45		Did not survive	1	30-45
+First	Kent, Mr. Edward Austin	Male	58	0	0	11771	29.7	B37	Cherbourg		258	Buffalo, NY	Did not survive	1	45-60
+First	Kenyon, Mr. Frederick R	Male	41	1	0	17464	51.8625	D21	Southampton		NA	Southington / Noank, CT	Did not survive	1	30-45
+First	Kenyon, Mrs. Frederick R (Marion)	Female	NA	1	0	17464	51.8625	D21	Southampton	8	NA	Southington / Noank, CT	Survived	1	No age recorded
+First	Kimball, Mr. Edwin Nelson Jr	Male	42	1	0	11753	52.5542	D19	Southampton	5	NA	Boston, MA	Survived	1	30-45
+First	Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)	Female	45	1	0	11753	52.5542	D19	Southampton	5	NA	Boston, MA	Survived	1	30-45
+First	Klaber, Mr. Herman	Male	NA	0	0	113028	26.55	C124	Southampton		NA	Portland, OR	Did not survive	1	No age recorded
+First	Kreuchen, Miss. Emilie	Female	39	0	0	24160	211.3375		Southampton	2	NA		Survived	1	30-45
+First	Leader, Dr. Alice (Farnham)	Female	49	0	0	17465	25.9292	D17	Southampton	8	NA	New York, NY	Survived	1	45-60
+First	LeRoy, Miss. Bertha	Female	30	0	0	PC 17761	106.425		Cherbourg	2	NA		Survived	1	15-30
+First	Lesurer, Mr. Gustave J	Male	35	0	0	PC 17755	512.3292	B101	Cherbourg	3	NA		Survived	1	30-45
+First	Lewy, Mr. Ervin G	Male	NA	0	0	PC 17612	27.7208		Cherbourg		NA	Chicago, IL	Did not survive	1	No age recorded
+First	Lindeberg-Lind, Mr. Erik Gustaf ("Mr Edward Lingrey")	Male	42	0	0	17475	26.55		Southampton		NA	Stockholm, Sweden	Did not survive	1	30-45
+First	Lindstrom, Mrs. Carl Johan (Sigrid Posse)	Female	55	0	0	112377	27.7208		Cherbourg	6	NA	Stockholm, Sweden	Survived	1	45-60
+First	Lines, Miss. Mary Conover	Female	16	0	1	PC 17592	39.4	D28	Southampton	9	NA	Paris, France	Survived	1	15-30
+First	Lines, Mrs. Ernest H (Elizabeth Lindsey James)	Female	51	0	1	PC 17592	39.4	D28	Southampton	9	NA	Paris, France	Survived	1	45-60
+First	Long, Mr. Milton Clyde	Male	29	0	0	113501	30	D6	Southampton		126	Springfield, MA	Did not survive	1	15-30
+First	Longley, Miss. Gretchen Fiske	Female	21	0	0	13502	77.9583	D9	Southampton	10	NA	Hudson, NY	Survived	1	15-30
+First	Loring, Mr. Joseph Holland	Male	30	0	0	113801	45.5		Southampton		NA	London / New York, NY	Did not survive	1	15-30
+First	Lurette, Miss. Elise	Female	58	0	0	PC 17569	146.5208	B80	Cherbourg		NA		Survived	1	45-60
+First	Madill, Miss. Georgette Alexandra	Female	15	0	1	24160	211.3375	B5	Southampton	2	NA	St Louis, MO	Survived	1	0-15
+First	Maguire, Mr. John Edward	Male	30	0	0	110469	26	C106	Southampton		NA	Brockton, MA	Did not survive	1	15-30
+First	Maioni, Miss. Roberta	Female	16	0	0	110152	86.5	B79	Southampton	8	NA		Survived	1	15-30
+First	Marechal, Mr. Pierre	Male	NA	0	0	11774	29.7	C47	Cherbourg	7	NA	Paris, France	Survived	1	No age recorded
+First	Marvin, Mr. Daniel Warner	Male	19	1	0	113773	53.1	D30	Southampton		NA	New York, NY	Did not survive	1	15-30
+First	Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)	Female	18	1	0	113773	53.1	D30	Southampton	10	NA	New York, NY	Survived	1	15-30
+First	Mayne, Mlle. Berthe Antonine ("Mrs de Villiers")	Female	24	0	0	PC 17482	49.5042	C90	Cherbourg	6	NA	Belgium  Montreal, PQ	Survived	1	15-30
+First	McCaffry, Mr. Thomas Francis	Male	46	0	0	13050	75.2417	C6	Cherbourg		292	Vancouver, BC	Did not survive	1	45-60
+First	McCarthy, Mr. Timothy J	Male	54	0	0	17463	51.8625	E46	Southampton		175	Dorchester, MA	Did not survive	1	45-60
+First	McGough, Mr. James Robert	Male	36	0	0	PC 17473	26.2875	E25	Southampton	7	NA	Philadelphia, PA	Survived	1	30-45
+First	Meyer, Mr. Edgar Joseph	Male	28	1	0	PC 17604	82.1708		Cherbourg		NA	New York, NY	Did not survive	1	15-30
+First	Meyer, Mrs. Edgar Joseph (Leila Saks)	Female	NA	1	0	PC 17604	82.1708		Cherbourg	6	NA	New York, NY	Survived	1	No age recorded
+First	Millet, Mr. Francis Davis	Male	65	0	0	13509	26.55	E38	Southampton		249	East Bridgewater, MA	Did not survive	1	over 60
+First	Minahan, Dr. William Edward	Male	44	2	0	19928	90	C78	Queenstown		230	Fond du Lac, WI	Did not survive	1	30-45
+First	Minahan, Miss. Daisy E	Female	33	1	0	19928	90	C78	Queenstown	14	NA	Green Bay, WI	Survived	1	30-45
+First	Minahan, Mrs. William Edward (Lillian E Thorpe)	Female	37	1	0	19928	90	C78	Queenstown	14	NA	Fond du Lac, WI	Survived	1	30-45
+First	Mock, Mr. Philipp Edmund	Male	30	1	0	13236	57.75	C78	Cherbourg	11	NA	New York, NY	Survived	1	15-30
+First	Molson, Mr. Harry Markland	Male	55	0	0	113787	30.5	C30	Southampton		NA	Montreal, PQ	Did not survive	1	45-60
+First	Moore, Mr. Clarence Bloomfield	Male	47	0	0	113796	42.4		Southampton		NA	Washington, DC	Did not survive	1	45-60
+First	Natsch, Mr. Charles H	Male	37	0	1	PC 17596	29.7	C118	Cherbourg		NA	Brooklyn, NY	Did not survive	1	30-45
+First	Newell, Miss. Madeleine	Female	31	1	0	35273	113.275	D36	Cherbourg	6	NA	Lexington, MA	Survived	1	30-45
+First	Newell, Miss. Marjorie	Female	23	1	0	35273	113.275	D36	Cherbourg	6	NA	Lexington, MA	Survived	1	15-30
+First	Newell, Mr. Arthur Webster	Male	58	0	2	35273	113.275	D48	Cherbourg		122	Lexington, MA	Did not survive	1	45-60
+First	Newsom, Miss. Helen Monypeny	Female	19	0	2	11752	26.2833	D47	Southampton	5	NA	New York, NY	Survived	1	15-30
+First	Nicholson, Mr. Arthur Ernest	Male	64	0	0	693	26		Southampton		263	Isle of Wight, England	Did not survive	1	over 60
+First	Oliva y Ocana, Dona. Fermina	Female	39	0	0	PC 17758	108.9	C105	Cherbourg	8	NA		Survived	1	30-45
+First	Omont, Mr. Alfred Fernand	Male	NA	0	0	F.C. 12998	25.7417		Cherbourg	7	NA	Paris, France	Survived	1	No age recorded
+First	Ostby, Miss. Helene Ragnhild	Female	22	0	1	113509	61.9792	B36	Cherbourg	5	NA	Providence, RI	Survived	1	15-30
+First	Ostby, Mr. Engelhart Cornelius	Male	65	0	1	113509	61.9792	B30	Cherbourg		234	Providence, RI	Did not survive	1	over 60
+First	Ovies y Rodriguez, Mr. Servando	Male	28.5	0	0	PC 17562	27.7208	D43	Cherbourg		189	?Havana, Cuba	Did not survive	1	15-30
+First	Parr, Mr. William Henry Marsh	Male	NA	0	0	112052	0		Southampton		NA	Belfast	Did not survive	1	No age recorded
+First	Partner, Mr. Austen	Male	45.5	0	0	113043	28.5	C124	Southampton		166	Surbiton Hill, Surrey	Did not survive	1	45-60
+First	Payne, Mr. Vivian Ponsonby	Male	23	0	0	12749	93.5	B24	Southampton		NA	Montreal, PQ	Did not survive	1	15-30
+First	Pears, Mr. Thomas Clinton	Male	29	1	0	113776	66.6	C2	Southampton		NA	Isleworth, England	Did not survive	1	15-30
+First	Pears, Mrs. Thomas (Edith Wearne)	Female	22	1	0	113776	66.6	C2	Southampton	8	NA	Isleworth, England	Survived	1	15-30
+First	Penasco y Castellana, Mr. Victor de Satode	Male	18	1	0	PC 17758	108.9	C65	Cherbourg		NA	Madrid, Spain	Did not survive	1	15-30
+First	Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)	Female	17	1	0	PC 17758	108.9	C65	Cherbourg	8	NA	Madrid, Spain	Survived	1	15-30
+First	Perreault, Miss. Anne	Female	30	0	0	12749	93.5	B73	Southampton	3	NA		Survived	1	15-30
+First	Peuchen, Major. Arthur Godfrey	Male	52	0	0	113786	30.5	C104	Southampton	6	NA	Toronto, ON	Survived	1	45-60
+First	Porter, Mr. Walter Chamberlain	Male	47	0	0	110465	52	C110	Southampton		207	Worcester, MA	Did not survive	1	45-60
+First	Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)	Female	56	0	1	11767	83.1583	C50	Cherbourg	7	NA	Mt Airy, Philadelphia, PA	Survived	1	45-60
+First	Reuchlin, Jonkheer. John George	Male	38	0	0	19972	0		Southampton		NA	Rotterdam, Netherlands	Did not survive	1	30-45
+First	Rheims, Mr. George Alexander Lucien	Male	NA	0	0	PC 17607	39.6		Southampton	A	NA	Paris /  New York, NY	Survived	1	No age recorded
+First	Ringhini, Mr. Sante	Male	22	0	0	PC 17760	135.6333		Cherbourg		232		Did not survive	1	15-30
+First	Robbins, Mr. Victor	Male	NA	0	0	PC 17757	227.525		Cherbourg		NA		Did not survive	1	No age recorded
+First	Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)	Female	43	0	1	24160	211.3375	B3	Southampton	2	NA	St Louis, MO	Survived	1	30-45
+First	Roebling, Mr. Washington Augustus II	Male	31	0	0	PC 17590	50.4958	A24	Southampton		NA	Trenton, NJ	Did not survive	1	30-45
+First	Romaine, Mr. Charles Hallace ("Mr C Rolmane")	Male	45	0	0	111428	26.55		Southampton	9	NA	New York, NY	Survived	1	30-45
+First	Rood, Mr. Hugh Roscoe	Male	NA	0	0	113767	50	A32	Southampton		NA	Seattle, WA	Did not survive	1	No age recorded
+First	Rosenbaum, Miss. Edith Louise	Female	33	0	0	PC 17613	27.7208	A11	Cherbourg	11	NA	Paris, France	Survived	1	30-45
+First	Rosenshine, Mr. George ("Mr George Thorne")	Male	46	0	0	PC 17585	79.2		Cherbourg		16	New York, NY	Did not survive	1	45-60
+First	Ross, Mr. John Hugo	Male	36	0	0	13049	40.125	A10	Cherbourg		NA	Winnipeg, MB	Did not survive	1	30-45
+First	Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)	Female	33	0	0	110152	86.5	B77	Southampton	8	NA	London  Vancouver, BC	Survived	1	30-45
+First	Rothschild, Mr. Martin	Male	55	1	0	PC 17603	59.4		Cherbourg		NA	New York, NY	Did not survive	1	45-60
+First	Rothschild, Mrs. Martin (Elizabeth L. Barrett)	Female	54	1	0	PC 17603	59.4		Cherbourg	6	NA	New York, NY	Survived	1	45-60
+First	Rowe, Mr. Alfred G	Male	33	0	0	113790	26.55		Southampton		109	London	Did not survive	1	30-45
+First	Ryerson, Master. John Borie	Male	13	2	2	PC 17608	262.375	B57 B59 B63 B66	Cherbourg	4	NA	Haverford, PA / Cooperstown, NY	Survived	1	0-15
+First	Ryerson, Miss. Emily Borie	Female	18	2	2	PC 17608	262.375	B57 B59 B63 B66	Cherbourg	4	NA	Haverford, PA / Cooperstown, NY	Survived	1	15-30
+First	Ryerson, Miss. Susan Parker "Suzette"	Female	21	2	2	PC 17608	262.375	B57 B59 B63 B66	Cherbourg	4	NA	Haverford, PA / Cooperstown, NY	Survived	1	15-30
+First	Ryerson, Mr. Arthur Larned	Male	61	1	3	PC 17608	262.375	B57 B59 B63 B66	Cherbourg		NA	Haverford, PA / Cooperstown, NY	Did not survive	1	over 60
+First	Ryerson, Mrs. Arthur Larned (Emily Maria Borie)	Female	48	1	3	PC 17608	262.375	B57 B59 B63 B66	Cherbourg	4	NA	Haverford, PA / Cooperstown, NY	Survived	1	45-60
+First	Saalfeld, Mr. Adolphe	Male	NA	0	0	19988	30.5	C106	Southampton	3	NA	Manchester, England	Survived	1	No age recorded
+First	Sagesser, Mlle. Emma	Female	24	0	0	PC 17477	69.3	B35	Cherbourg	9	NA		Survived	1	15-30
+First	Salomon, Mr. Abraham L	Male	NA	0	0	111163	26		Southampton	1	NA	New York, NY	Survived	1	No age recorded
+First	Schabert, Mrs. Paul (Emma Mock)	Female	35	1	0	13236	57.75	C28	Cherbourg	11	NA	New York, NY	Survived	1	30-45
+First	Serepeca, Miss. Augusta	Female	30	0	0	113798	31		Cherbourg	4	NA		Survived	1	15-30
+First	Seward, Mr. Frederic Kimber	Male	34	0	0	113794	26.55		Southampton	7	NA	New York, NY	Survived	1	30-45
+First	Shutes, Miss. Elizabeth W	Female	40	0	0	PC 17582	153.4625	C125	Southampton	3	NA	New York, NY / Greenwich CT	Survived	1	30-45
+First	Silverthorne, Mr. Spencer Victor	Male	35	0	0	PC 17475	26.2875	E24	Southampton	5	NA	St Louis, MO	Survived	1	30-45
+First	Silvey, Mr. William Baird	Male	50	1	0	13507	55.9	E44	Southampton		NA	Duluth, MN	Did not survive	1	45-60
+First	Silvey, Mrs. William Baird (Alice Munger)	Female	39	1	0	13507	55.9	E44	Southampton	11	NA	Duluth, MN	Survived	1	30-45
+First	Simonius-Blumer, Col. Oberst Alfons	Male	56	0	0	13213	35.5	A26	Cherbourg	3	NA	Basel, Switzerland	Survived	1	45-60
+First	Sloper, Mr. William Thompson	Male	28	0	0	113788	35.5	A6	Southampton	7	NA	New Britain, CT	Survived	1	15-30
+First	Smart, Mr. John Montgomery	Male	56	0	0	113792	26.55		Southampton		NA	New York, NY	Did not survive	1	45-60
+First	Smith, Mr. James Clinch	Male	56	0	0	17764	30.6958	A7	Cherbourg		NA	St James, Long Island, NY	Did not survive	1	45-60
+First	Smith, Mr. Lucien Philip	Male	24	1	0	13695	60	C31	Southampton		NA	Huntington, WV	Did not survive	1	15-30
+First	Smith, Mr. Richard William	Male	NA	0	0	113056	26	A19	Southampton		NA	Streatham, Surrey	Did not survive	1	No age recorded
+First	Smith, Mrs. Lucien Philip (Mary Eloise Hughes)	Female	18	1	0	13695	60	C31	Southampton	6	NA	Huntington, WV	Survived	1	15-30
+First	Snyder, Mr. John Pillsbury	Male	24	1	0	21228	82.2667	B45	Southampton	7	NA	Minneapolis, MN	Survived	1	15-30
+First	Snyder, Mrs. John Pillsbury (Nelle Stevenson)	Female	23	1	0	21228	82.2667	B45	Southampton	7	NA	Minneapolis, MN	Survived	1	15-30
+First	Spedden, Master. Robert Douglas	Male	6	0	2	16966	134.5	E34	Cherbourg	3	NA	Tuxedo Park, NY	Survived	1	0-15
+First	Spedden, Mr. Frederic Oakley	Male	45	1	1	16966	134.5	E34	Cherbourg	3	NA	Tuxedo Park, NY	Survived	1	30-45
+First	Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)	Female	40	1	1	16966	134.5	E34	Cherbourg	3	NA	Tuxedo Park, NY	Survived	1	30-45
+First	Spencer, Mr. William Augustus	Male	57	1	0	PC 17569	146.5208	B78	Cherbourg		NA	Paris, France	Did not survive	1	45-60
+First	Spencer, Mrs. William Augustus (Marie Eugenie)	Female	NA	1	0	PC 17569	146.5208	B78	Cherbourg	6	NA	Paris, France	Survived	1	No age recorded
+First	Stahelin-Maeglin, Dr. Max	Male	32	0	0	13214	30.5	B50	Cherbourg	3	NA	Basel, Switzerland	Survived	1	30-45
+First	Stead, Mr. William Thomas	Male	62	0	0	113514	26.55	C87	Southampton		NA	Wimbledon Park, London / Hayling Island, Hants	Did not survive	1	over 60
+First	Stengel, Mr. Charles Emil Henry	Male	54	1	0	11778	55.4417	C116	Cherbourg	1	NA	Newark, NJ	Survived	1	45-60
+First	Stengel, Mrs. Charles Emil Henry (Annie May Morris)	Female	43	1	0	11778	55.4417	C116	Cherbourg	5	NA	Newark, NJ	Survived	1	30-45
+First	Stephenson, Mrs. Walter Bertram (Martha Eustis)	Female	52	1	0	36947	78.2667	D20	Cherbourg	4	NA	Haverford, PA	Survived	1	45-60
+First	Stewart, Mr. Albert A	Male	NA	0	0	PC 17605	27.7208		Cherbourg		NA	Gallipolis, Ohio / ? Paris / New York	Did not survive	1	No age recorded
+First	Straus, Mr. Isidor	Male	67	1	0	PC 17483	221.7792	C55 C57	Southampton		96	New York, NY	Did not survive	1	over 60
+First	Straus, Mrs. Isidor (Rosalie Ida Blun)	Female	63	1	0	PC 17483	221.7792	C55 C57	Southampton		NA	New York, NY	Did not survive	1	over 60
+First	Sutton, Mr. Frederick	Male	61	0	0	36963	32.3208	D50	Southampton		46	Haddenfield, NJ	Did not survive	1	over 60
+First	Swift, Mrs. Frederick Joel (Margaret Welles Barron)	Female	48	0	0	17466	25.9292	D17	Southampton	8	NA	Brooklyn, NY	Survived	1	45-60
+First	Taussig, Miss. Ruth	Female	18	0	2	110413	79.65	E68	Southampton	8	NA	New York, NY	Survived	1	15-30
+First	Taussig, Mr. Emil	Male	52	1	1	110413	79.65	E67	Southampton		NA	New York, NY	Did not survive	1	45-60
+First	Taussig, Mrs. Emil (Tillie Mandelbaum)	Female	39	1	1	110413	79.65	E67	Southampton	8	NA	New York, NY	Survived	1	30-45
+First	Taylor, Mr. Elmer Zebley	Male	48	1	0	19996	52	C126	Southampton	5 7	NA	London /  East Orange, NJ	Survived	1	45-60
+First	Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)	Female	NA	1	0	19996	52	C126	Southampton	5 7	NA	London /  East Orange, NJ	Survived	1	No age recorded
+First	Thayer, Mr. John Borland	Male	49	1	1	17421	110.8833	C68	Cherbourg		NA	Haverford, PA	Did not survive	1	45-60
+First	Thayer, Mr. John Borland Jr	Male	17	0	2	17421	110.8833	C70	Cherbourg	B	NA	Haverford, PA	Survived	1	15-30
+First	Thayer, Mrs. John Borland (Marian Longstreth Morris)	Female	39	1	1	17421	110.8833	C68	Cherbourg	4	NA	Haverford, PA	Survived	1	30-45
+First	Thorne, Mrs. Gertrude Maybelle	Female	NA	0	0	PC 17585	79.2		Cherbourg	D	NA	New York, NY	Survived	1	No age recorded
+First	Tucker, Mr. Gilbert Milligan Jr	Male	31	0	0	2543	28.5375	C53	Cherbourg	7	NA	Albany, NY	Survived	1	30-45
+First	Uruchurtu, Don. Manuel E	Male	40	0	0	PC 17601	27.7208		Cherbourg		NA	Mexico City, Mexico	Did not survive	1	30-45
+First	Van der hoef, Mr. Wyckoff	Male	61	0	0	111240	33.5	B19	Southampton		245	Brooklyn, NY	Did not survive	1	over 60
+First	Walker, Mr. William Anderson	Male	47	0	0	36967	34.0208	D46	Southampton		NA	East Orange, NJ	Did not survive	1	45-60
+First	Ward, Miss. Anna	Female	35	0	0	PC 17755	512.3292		Cherbourg	3	NA		Survived	1	30-45
+First	Warren, Mr. Frank Manley	Male	64	1	0	110813	75.25	D37	Cherbourg		NA	Portland, OR	Did not survive	1	over 60
+First	Warren, Mrs. Frank Manley (Anna Sophia Atkinson)	Female	60	1	0	110813	75.25	D37	Cherbourg	5	NA	Portland, OR	Survived	1	45-60
+First	Weir, Col. John	Male	60	0	0	113800	26.55		Southampton		NA	England Salt Lake City, Utah	Did not survive	1	45-60
+First	White, Mr. Percival Wayland	Male	54	0	1	35281	77.2875	D26	Southampton		NA	Brunswick, ME	Did not survive	1	45-60
+First	White, Mr. Richard Frasar	Male	21	0	1	35281	77.2875	D26	Southampton		169	Brunswick, ME	Did not survive	1	15-30
+First	White, Mrs. John Stuart (Ella Holmes)	Female	55	0	0	PC 17760	135.6333	C32	Cherbourg	8	NA	New York, NY / Briarcliff Manor NY	Survived	1	45-60
+First	Wick, Miss. Mary Natalie	Female	31	0	2	36928	164.8667	C7	Southampton	8	NA	Youngstown, OH	Survived	1	30-45
+First	Wick, Mr. George Dennick	Male	57	1	1	36928	164.8667		Southampton		NA	Youngstown, OH	Did not survive	1	45-60
+First	Wick, Mrs. George Dennick (Mary Hitchcock)	Female	45	1	1	36928	164.8667		Southampton	8	NA	Youngstown, OH	Survived	1	30-45
+First	Widener, Mr. George Dunton	Male	50	1	1	113503	211.5	C80	Cherbourg		NA	Elkins Park, PA	Did not survive	1	45-60
+First	Widener, Mr. Harry Elkins	Male	27	0	2	113503	211.5	C82	Cherbourg		NA	Elkins Park, PA	Did not survive	1	15-30
+First	Widener, Mrs. George Dunton (Eleanor Elkins)	Female	50	1	1	113503	211.5	C80	Cherbourg	4	NA	Elkins Park, PA	Survived	1	45-60
+First	Willard, Miss. Constance	Female	21	0	0	113795	26.55		Southampton	8 10	NA	Duluth, MN	Survived	1	15-30
+First	Williams, Mr. Charles Duane	Male	51	0	1	PC 17597	61.3792		Cherbourg		NA	Geneva, Switzerland / Radnor, PA	Did not survive	1	45-60
+First	Williams, Mr. Richard Norris II	Male	21	0	1	PC 17597	61.3792		Cherbourg	A	NA	Geneva, Switzerland / Radnor, PA	Survived	1	15-30
+First	Williams-Lambert, Mr. Fletcher Fellows	Male	NA	0	0	113510	35	C128	Southampton		NA	London, England	Did not survive	1	No age recorded
+First	Wilson, Miss. Helen Alice	Female	31	0	0	16966	134.5	E39 E41	Cherbourg	3	NA		Survived	1	30-45
+First	Woolner, Mr. Hugh	Male	NA	0	0	19947	35.5	C52	Southampton	D	NA	London, England	Survived	1	No age recorded
+First	Wright, Mr. George	Male	62	0	0	113807	26.55		Southampton		NA	Halifax, NS	Did not survive	1	over 60
+First	Young, Miss. Marie Grice	Female	36	0	0	PC 17760	135.6333	C32	Cherbourg	8	NA	New York, NY / Washington, DC	Survived	1	30-45
+Second	Abelson, Mr. Samuel	Male	30	1	0	P/PP 3381	24		Cherbourg		NA	Russia New York, NY	Did not survive	1	15-30
+Second	Abelson, Mrs. Samuel (Hannah Wizosky)	Female	28	1	0	P/PP 3381	24		Cherbourg	10	NA	Russia New York, NY	Survived	1	15-30
+Second	Aldworth, Mr. Charles Augustus	Male	30	0	0	248744	13		Southampton		NA	Bryn Mawr, PA, USA	Did not survive	1	15-30
+Second	Andrew, Mr. Edgardo Samuel	Male	18	0	0	231945	11.5		Southampton		NA	Buenos Aires, Argentina / New Jersey, NJ	Did not survive	1	15-30
+Second	Andrew, Mr. Frank Thomas	Male	25	0	0	C.A. 34050	10.5		Southampton		NA	Cornwall, England Houghton, MI	Did not survive	1	15-30
+Second	Angle, Mr. William A	Male	34	1	0	226875	26		Southampton		NA	Warwick, England	Did not survive	1	30-45
+Second	Angle, Mrs. William A (Florence "Mary" Agnes Hughes)	Female	36	1	0	226875	26		Southampton	11	NA	Warwick, England	Survived	1	30-45
+Second	Ashby, Mr. John	Male	57	0	0	244346	13		Southampton		NA	West Hoboken, NJ	Did not survive	1	45-60
+Second	Bailey, Mr. Percy Andrew	Male	18	0	0	29108	11.5		Southampton		NA	Penzance, Cornwall / Akron, OH	Did not survive	1	15-30
+Second	Baimbrigge, Mr. Charles Robert	Male	23	0	0	C.A. 31030	10.5		Southampton		NA	Guernsey	Did not survive	1	15-30
+Second	Ball, Mrs. (Ada E Hall)	Female	36	0	0	28551	13	D	Southampton	10	NA	Bristol, Avon / Jacksonville, FL	Survived	1	30-45
+Second	Banfield, Mr. Frederick James	Male	28	0	0	C.A./SOTON 34068	10.5		Southampton		NA	Plymouth, Dorset / Houghton, MI	Did not survive	1	15-30
+Second	Bateman, Rev. Robert James	Male	51	0	0	S.O.P. 1166	12.525		Southampton		174	Jacksonville, FL	Did not survive	1	45-60
+Second	Beane, Mr. Edward	Male	32	1	0	2908	26		Southampton	13	NA	Norwich / New York, NY	Survived	1	30-45
+Second	Beane, Mrs. Edward (Ethel Clarke)	Female	19	1	0	2908	26		Southampton	13	NA	Norwich / New York, NY	Survived	1	15-30
+Second	Beauchamp, Mr. Henry James	Male	28	0	0	244358	26		Southampton		NA	England	Did not survive	1	15-30
+Second	Becker, Master. Richard F	Male	1	2	1	230136	39	F4	Southampton	11	NA	Guntur, India / Benton Harbour, MI	Survived	1	0-15
+Second	Becker, Miss. Marion Louise	Female	4	2	1	230136	39	F4	Southampton	11	NA	Guntur, India / Benton Harbour, MI	Survived	1	0-15
+Second	Becker, Miss. Ruth Elizabeth	Female	12	2	1	230136	39	F4	Southampton	13	NA	Guntur, India / Benton Harbour, MI	Survived	1	0-15
+Second	Becker, Mrs. Allen Oliver (Nellie E Baumgardner)	Female	36	0	3	230136	39	F4	Southampton	11	NA	Guntur, India / Benton Harbour, MI	Survived	1	30-45
+Second	Beesley, Mr. Lawrence	Male	34	0	0	248698	13	D56	Southampton	13	NA	London	Survived	1	30-45
+Second	Bentham, Miss. Lilian W	Female	19	0	0	28404	13		Southampton	12	NA	Rochester, NY	Survived	1	15-30
+Second	Berriman, Mr. William John	Male	23	0	0	28425	13		Southampton		NA	St Ives, Cornwall / Calumet, MI	Did not survive	1	15-30
+Second	Botsford, Mr. William Hull	Male	26	0	0	237670	13		Southampton		NA	Elmira, NY / Orange, NJ	Did not survive	1	15-30
+Second	Bowenur, Mr. Solomon	Male	42	0	0	211535	13		Southampton		NA	London	Did not survive	1	30-45
+Second	Bracken, Mr. James H	Male	27	0	0	220367	13		Southampton		NA	Lake Arthur, Chavez County, NM	Did not survive	1	15-30
+Second	Brown, Miss. Amelia "Mildred"	Female	24	0	0	248733	13	F33	Southampton	11	NA	London / Montreal, PQ	Survived	1	15-30
+Second	Brown, Miss. Edith Eileen	Female	15	0	2	29750	39		Southampton	14	NA	Cape Town, South Africa / Seattle, WA	Survived	1	0-15
+Second	Brown, Mr. Thomas William Solomon	Male	60	1	1	29750	39		Southampton		NA	Cape Town, South Africa / Seattle, WA	Did not survive	1	45-60
+Second	Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)	Female	40	1	1	29750	39		Southampton	14	NA	Cape Town, South Africa / Seattle, WA	Survived	1	30-45
+Second	Bryhl, Miss. Dagmar Jenny Ingeborg 	Female	20	1	0	236853	26		Southampton	12	NA	Skara, Sweden / Rockford, IL	Survived	1	15-30
+Second	Bryhl, Mr. Kurt Arnold Gottfrid	Male	25	1	0	236853	26		Southampton		NA	Skara, Sweden / Rockford, IL	Did not survive	1	15-30
+Second	Buss, Miss. Kate	Female	36	0	0	27849	13		Southampton	9	NA	Sittingbourne, England / San Diego, CA	Survived	1	30-45
+Second	Butler, Mr. Reginald Fenton	Male	25	0	0	234686	13		Southampton		97	Southsea, Hants	Did not survive	1	15-30
+Second	Byles, Rev. Thomas Roussel Davids	Male	42	0	0	244310	13		Southampton		NA	London	Did not survive	1	30-45
+Second	Bystrom, Mrs. (Karolina)	Female	42	0	0	236852	13		Southampton		NA	New York, NY	Survived	1	30-45
+Second	Caldwell, Master. Alden Gates	Male	0.83	0	2	248738	29		Southampton	13	NA	Bangkok, Thailand / Roseville, IL	Survived	1	0-15
+Second	Caldwell, Mr. Albert Francis	Male	26	1	1	248738	29		Southampton	13	NA	Bangkok, Thailand / Roseville, IL	Survived	1	15-30
+Second	Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)	Female	22	1	1	248738	29		Southampton	13	NA	Bangkok, Thailand / Roseville, IL	Survived	1	15-30
+Second	Cameron, Miss. Clear Annie	Female	35	0	0	F.C.C. 13528	21		Southampton	14	NA	Mamaroneck, NY	Survived	1	30-45
+Second	Campbell, Mr. William	Male	NA	0	0	239853	0		Southampton		NA	Belfast	Did not survive	1	No age recorded
+Second	Carbines, Mr. William	Male	19	0	0	28424	13		Southampton		18	St Ives, Cornwall / Calumet, MI	Did not survive	1	15-30
+Second	Carter, Mrs. Ernest Courtenay (Lilian Hughes)	Female	44	1	0	244252	26		Southampton		NA	London	Did not survive	1	30-45
+Second	Carter, Rev. Ernest Courtenay	Male	54	1	0	244252	26		Southampton		NA	London	Did not survive	1	45-60
+Second	Chapman, Mr. Charles Henry	Male	52	0	0	248731	13.5		Southampton		130	Bronx, NY	Did not survive	1	45-60
+Second	Chapman, Mr. John Henry	Male	37	1	0	SC/AH 29037	26		Southampton		17	Cornwall / Spokane, WA	Did not survive	1	30-45
+Second	Chapman, Mrs. John Henry (Sara Elizabeth Lawry)	Female	29	1	0	SC/AH 29037	26		Southampton		NA	Cornwall / Spokane, WA	Did not survive	1	15-30
+Second	Christy, Miss. Julie Rachel	Female	25	1	1	237789	30		Southampton	12	NA	London	Survived	1	15-30
+Second	Christy, Mrs. (Alice Frances)	Female	45	0	2	237789	30		Southampton	12	NA	London	Survived	1	30-45
+Second	Clarke, Mr. Charles Valentine	Male	29	1	0	2003	26		Southampton		NA	England / San Francisco, CA	Did not survive	1	15-30
+Second	Clarke, Mrs. Charles V (Ada Maria Winfield)	Female	28	1	0	2003	26		Southampton	14	NA	England / San Francisco, CA	Survived	1	15-30
+Second	Coleridge, Mr. Reginald Charles	Male	29	0	0	W./C. 14263	10.5		Southampton		NA	Hartford, Huntingdonshire	Did not survive	1	15-30
+Second	Collander, Mr. Erik Gustaf	Male	28	0	0	248740	13		Southampton		NA	Helsinki, Finland Ashtabula, Ohio	Did not survive	1	15-30
+Second	Collett, Mr. Sidney C Stuart	Male	24	0	0	28034	10.5		Southampton	9	NA	London / Fort Byron, NY	Survived	1	15-30
+Second	Collyer, Miss. Marjorie "Lottie"	Female	8	0	2	C.A. 31921	26.25		Southampton	14	NA	Bishopstoke, Hants / Fayette Valley, ID	Survived	1	0-15
+Second	Collyer, Mr. Harvey	Male	31	1	1	C.A. 31921	26.25		Southampton		NA	Bishopstoke, Hants / Fayette Valley, ID	Did not survive	1	30-45
+Second	Collyer, Mrs. Harvey (Charlotte Annie Tate)	Female	31	1	1	C.A. 31921	26.25		Southampton	14	NA	Bishopstoke, Hants / Fayette Valley, ID	Survived	1	30-45
+Second	Cook, Mrs. (Selena Rogers)	Female	22	0	0	W./C. 14266	10.5	F33	Southampton	14	NA	Pennsylvania	Survived	1	15-30
+Second	Corbett, Mrs. Walter H (Irene Colvin)	Female	30	0	0	237249	13		Southampton		NA	Provo, UT	Did not survive	1	15-30
+Second	Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)	Female	NA	0	0	F.C.C. 13534	21		Southampton		NA	Upper Burma, India Pittsburgh, PA	Did not survive	1	No age recorded
+Second	Cotterill, Mr. Henry "Harry"	Male	21	0	0	29107	11.5		Southampton		NA	Penzance, Cornwall / Akron, OH	Did not survive	1	15-30
+Second	Cunningham, Mr. Alfred Fleming	Male	NA	0	0	239853	0		Southampton		NA	Belfast	Did not survive	1	No age recorded
+Second	Davies, Master. John Morgan Jr	Male	8	1	1	C.A. 33112	36.75		Southampton	14	NA	St Ives, Cornwall / Hancock, MI	Survived	1	0-15
+Second	Davies, Mr. Charles Henry	Male	18	0	0	S.O.C. 14879	73.5		Southampton		NA	Lyndhurst, England	Did not survive	1	15-30
+Second	Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) 	Female	48	0	2	C.A. 33112	36.75		Southampton	14	NA	St Ives, Cornwall / Hancock, MI	Survived	1	45-60
+Second	Davis, Miss. Mary	Female	28	0	0	237668	13		Southampton	13	NA	London / Staten Island, NY	Survived	1	15-30
+Second	de Brito, Mr. Jose Joaquim	Male	32	0	0	244360	13		Southampton		NA	Portugal / Sau Paulo, Brazil	Did not survive	1	30-45
+Second	Deacon, Mr. Percy William	Male	17	0	0	S.O.C. 14879	73.5		Southampton		NA		Did not survive	1	15-30
+Second	del Carlo, Mr. Sebastiano	Male	29	1	0	SC/PARIS 2167	27.7208		Cherbourg		295	Lucca, Italy / California	Did not survive	1	15-30
+Second	del Carlo, Mrs. Sebastiano (Argenia Genovesi)	Female	24	1	0	SC/PARIS 2167	27.7208		Cherbourg	12	NA	Lucca, Italy / California	Survived	1	15-30
+Second	Denbury, Mr. Herbert	Male	25	0	0	C.A. 31029	31.5		Southampton		NA	Guernsey / Elizabeth, NJ	Did not survive	1	15-30
+Second	Dibden, Mr. William	Male	18	0	0	S.O.C. 14879	73.5		Southampton		NA	New Forest, England	Did not survive	1	15-30
+Second	Doling, Miss. Elsie	Female	18	0	1	231919	23		Southampton		NA	Southampton	Survived	1	15-30
+Second	Doling, Mrs. John T (Ada Julia Bone)	Female	34	0	1	231919	23		Southampton		NA	Southampton	Survived	1	30-45
+Second	Downton, Mr. William James	Male	54	0	0	28403	26		Southampton		NA	Holley, NY	Did not survive	1	45-60
+Second	Drew, Master. Marshall Brines	Male	8	0	2	28220	32.5		Southampton	10	NA	Greenport, NY	Survived	1	0-15
+Second	Drew, Mr. James Vivian	Male	42	1	1	28220	32.5		Southampton		NA	Greenport, NY	Did not survive	1	30-45
+Second	Drew, Mrs. James Vivian (Lulu Thorne Christian)	Female	34	1	1	28220	32.5		Southampton	10	NA	Greenport, NY	Survived	1	30-45
+Second	Duran y More, Miss. Asuncion	Female	27	1	0	SC/PARIS 2149	13.8583		Cherbourg	12	NA	Barcelona, Spain / Havana, Cuba	Survived	1	15-30
+Second	Duran y More, Miss. Florentina	Female	30	1	0	SC/PARIS 2148	13.8583		Cherbourg	12	NA	Barcelona, Spain / Havana, Cuba	Survived	1	15-30
+Second	Eitemiller, Mr. George Floyd	Male	23	0	0	29751	13		Southampton		NA	England / Detroit, MI	Did not survive	1	15-30
+Second	Enander, Mr. Ingvar	Male	21	0	0	236854	13		Southampton		NA	Goteborg, Sweden / Rockford, IL	Did not survive	1	15-30
+Second	Fahlstrom, Mr. Arne Jonas	Male	18	0	0	236171	13		Southampton		NA	Oslo, Norway Bayonne, NJ	Did not survive	1	15-30
+Second	Faunthorpe, Mr. Harry	Male	40	1	0	2926	26		Southampton		286	England / Philadelphia, PA	Did not survive	1	30-45
+Second	Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)	Female	29	1	0	2926	26		Southampton	16	NA		Survived	1	15-30
+Second	Fillbrook, Mr. Joseph Charles	Male	18	0	0	C.A. 15185	10.5		Southampton		NA	Cornwall / Houghton, MI	Did not survive	1	15-30
+Second	Fox, Mr. Stanley Hubert	Male	36	0	0	229236	13		Southampton		236	Rochester, NY	Did not survive	1	30-45
+Second	Frost, Mr. Anthony Wood "Archie"	Male	NA	0	0	239854	0		Southampton		NA	Belfast	Did not survive	1	No age recorded
+Second	Funk, Miss. Annie Clemmer	Female	38	0	0	237671	13		Southampton		NA	Janjgir, India / Pennsylvania	Did not survive	1	30-45
+Second	Fynney, Mr. Joseph J	Male	35	0	0	239865	26		Southampton		322	Liverpool / Montreal, PQ	Did not survive	1	30-45
+Second	Gale, Mr. Harry	Male	38	1	0	28664	21		Southampton		NA	Cornwall / Clear Creek, CO	Did not survive	1	30-45
+Second	Gale, Mr. Shadrach	Male	34	1	0	28664	21		Southampton		NA	Cornwall / Clear Creek, CO	Did not survive	1	30-45
+Second	Garside, Miss. Ethel	Female	34	0	0	243880	13		Southampton	12	NA	Brooklyn, NY	Survived	1	30-45
+Second	Gaskell, Mr. Alfred	Male	16	0	0	239865	26		Southampton		NA	Liverpool / Montreal, PQ	Did not survive	1	15-30
+Second	Gavey, Mr. Lawrence	Male	26	0	0	31028	10.5		Southampton		NA	Guernsey / Elizabeth, NJ	Did not survive	1	15-30
+Second	Gilbert, Mr. William	Male	47	0	0	C.A. 30769	10.5		Southampton		NA	Cornwall	Did not survive	1	45-60
+Second	Giles, Mr. Edgar	Male	21	1	0	28133	11.5		Southampton		NA	Cornwall / Camden, NJ	Did not survive	1	15-30
+Second	Giles, Mr. Frederick Edward	Male	21	1	0	28134	11.5		Southampton		NA	Cornwall / Camden, NJ	Did not survive	1	15-30
+Second	Giles, Mr. Ralph	Male	24	0	0	248726	13.5		Southampton		297	West Kensington, London	Did not survive	1	15-30
+Second	Gill, Mr. John William	Male	24	0	0	233866	13		Southampton		155	Clevedon, England	Did not survive	1	15-30
+Second	Gillespie, Mr. William Henry	Male	34	0	0	12233	13		Southampton		NA	Vancouver, BC	Did not survive	1	30-45
+Second	Givard, Mr. Hans Kristensen	Male	30	0	0	250646	13		Southampton		305		Did not survive	1	15-30
+Second	Greenberg, Mr. Samuel	Male	52	0	0	250647	13		Southampton		19	Bronx, NY	Did not survive	1	45-60
+Second	Hale, Mr. Reginald	Male	30	0	0	250653	13		Southampton		75	Auburn, NY	Did not survive	1	15-30
+Second	Hamalainen, Master. Viljo	Male	0.67	1	1	250649	14.5		Southampton	4	NA	Detroit, MI	Survived	1	0-15
+Second	Hamalainen, Mrs. William (Anna)	Female	24	0	2	250649	14.5		Southampton	4	NA	Detroit, MI	Survived	1	15-30
+Second	Harbeck, Mr. William H	Male	44	0	0	248746	13		Southampton		35	Seattle, WA / Toledo, OH	Did not survive	1	30-45
+Second	Harper, Miss. Annie Jessie "Nina"	Female	6	0	1	248727	33		Southampton	11	NA	Denmark Hill, Surrey / Chicago	Survived	1	0-15
+Second	Harper, Rev. John	Male	28	0	1	248727	33		Southampton		NA	Denmark Hill, Surrey / Chicago	Did not survive	1	15-30
+Second	Harris, Mr. George	Male	62	0	0	S.W./PP 752	10.5		Southampton	15	NA	London	Survived	1	over 60
+Second	Harris, Mr. Walter	Male	30	0	0	W/C 14208	10.5		Southampton		NA	Walthamstow, England	Did not survive	1	15-30
+Second	Hart, Miss. Eva Miriam	Female	7	0	2	F.C.C. 13529	26.25		Southampton	14	NA	Ilford, Essex / Winnipeg, MB	Survived	1	0-15
+Second	Hart, Mr. Benjamin	Male	43	1	1	F.C.C. 13529	26.25		Southampton		NA	Ilford, Essex / Winnipeg, MB	Did not survive	1	30-45
+Second	Hart, Mrs. Benjamin (Esther Ada Bloomfield)	Female	45	1	1	F.C.C. 13529	26.25		Southampton	14	NA	Ilford, Essex / Winnipeg, MB	Survived	1	30-45
+Second	Herman, Miss. Alice	Female	24	1	2	220845	65		Southampton	9	NA	Somerset / Bernardsville, NJ	Survived	1	15-30
+Second	Herman, Miss. Kate	Female	24	1	2	220845	65		Southampton	9	NA	Somerset / Bernardsville, NJ	Survived	1	15-30
+Second	Herman, Mr. Samuel	Male	49	1	2	220845	65		Southampton		NA	Somerset / Bernardsville, NJ	Did not survive	1	45-60
+Second	Herman, Mrs. Samuel (Jane Laver)	Female	48	1	2	220845	65		Southampton	9	NA	Somerset / Bernardsville, NJ	Survived	1	45-60
+Second	Hewlett, Mrs. (Mary D Kingcome) 	Female	55	0	0	248706	16		Southampton	13	NA	India / Rapid City, SD	Survived	1	45-60
+Second	Hickman, Mr. Leonard Mark	Male	24	2	0	S.O.C. 14879	73.5		Southampton		NA	West Hampstead, London / Neepawa, MB	Did not survive	1	15-30
+Second	Hickman, Mr. Lewis	Male	32	2	0	S.O.C. 14879	73.5		Southampton		256	West Hampstead, London / Neepawa, MB	Did not survive	1	30-45
+Second	Hickman, Mr. Stanley George	Male	21	2	0	S.O.C. 14879	73.5		Southampton		NA	West Hampstead, London / Neepawa, MB	Did not survive	1	15-30
+Second	Hiltunen, Miss. Marta	Female	18	1	1	250650	13		Southampton		NA	Kontiolahti, Finland / Detroit, MI	Did not survive	1	15-30
+Second	Hocking, Miss. Ellen "Nellie"	Female	20	2	1	29105	23		Southampton	4	NA	Cornwall / Akron, OH	Survived	1	15-30
+Second	Hocking, Mr. Richard George	Male	23	2	1	29104	11.5		Southampton		NA	Cornwall / Akron, OH	Did not survive	1	15-30
+Second	Hocking, Mr. Samuel James Metcalfe	Male	36	0	0	242963	13		Southampton		NA	Devonport, England	Did not survive	1	30-45
+Second	Hocking, Mrs. Elizabeth (Eliza Needs)	Female	54	1	3	29105	23		Southampton	4	NA	Cornwall / Akron, OH	Survived	1	45-60
+Second	Hodges, Mr. Henry Price	Male	50	0	0	250643	13		Southampton		149	Southampton	Did not survive	1	45-60
+Second	Hold, Mr. Stephen	Male	44	1	0	26707	26		Southampton		NA	England / Sacramento, CA	Did not survive	1	30-45
+Second	Hold, Mrs. Stephen (Annie Margaret Hill)	Female	29	1	0	26707	26		Southampton	10	NA	England / Sacramento, CA	Survived	1	15-30
+Second	Hood, Mr. Ambrose Jr	Male	21	0	0	S.O.C. 14879	73.5		Southampton		NA	New Forest, England	Did not survive	1	15-30
+Second	Hosono, Mr. Masabumi	Male	42	0	0	237798	13		Southampton	10	NA	Tokyo, Japan	Survived	1	30-45
+Second	Howard, Mr. Benjamin	Male	63	1	0	24065	26		Southampton		NA	Swindon, England	Did not survive	1	over 60
+Second	Howard, Mrs. Benjamin (Ellen Truelove Arman)	Female	60	1	0	24065	26		Southampton		NA	Swindon, England	Did not survive	1	45-60
+Second	Hunt, Mr. George Henry	Male	33	0	0	SCO/W 1585	12.275		Southampton		NA	Philadelphia, PA	Did not survive	1	30-45
+Second	Ilett, Miss. Bertha	Female	17	0	0	SO/C 14885	10.5		Southampton		NA	Guernsey	Survived	1	15-30
+Second	Jacobsohn, Mr. Sidney Samuel	Male	42	1	0	243847	27		Southampton		NA	London	Did not survive	1	30-45
+Second	Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)	Female	24	2	1	243847	27		Southampton	12	NA	London	Survived	1	15-30
+Second	Jarvis, Mr. John Denzil	Male	47	0	0	237565	15		Southampton		NA	North Evington, England	Did not survive	1	45-60
+Second	Jefferys, Mr. Clifford Thomas	Male	24	2	0	C.A. 31029	31.5		Southampton		NA	Guernsey / Elizabeth, NJ	Did not survive	1	15-30
+Second	Jefferys, Mr. Ernest Wilfred	Male	22	2	0	C.A. 31029	31.5		Southampton		NA	Guernsey / Elizabeth, NJ	Did not survive	1	15-30
+Second	Jenkin, Mr. Stephen Curnow	Male	32	0	0	C.A. 33111	10.5		Southampton		NA	St Ives, Cornwall / Houghton, MI	Did not survive	1	30-45
+Second	Jerwan, Mrs. Amin S (Marie Marthe Thuillard)	Female	23	0	0	SC/AH Basle 541	13.7917	D	Cherbourg	11	NA	New York, NY	Survived	1	15-30
+Second	Kantor, Mr. Sinai	Male	34	1	0	244367	26		Southampton		283	Moscow / Bronx, NY	Did not survive	1	30-45
+Second	Kantor, Mrs. Sinai (Miriam Sternin)	Female	24	1	0	244367	26		Southampton	12	NA	Moscow / Bronx, NY	Survived	1	15-30
+Second	Karnes, Mrs. J Frank (Claire Bennett)	Female	22	0	0	F.C.C. 13534	21		Southampton		NA	India / Pittsburgh, PA	Did not survive	1	15-30
+Second	Keane, Miss. Nora A	Female	NA	0	0	226593	12.35	E101	Queenstown	10	NA	Harrisburg, PA	Survived	1	No age recorded
+Second	Keane, Mr. Daniel	Male	35	0	0	233734	12.35		Queenstown		NA		Did not survive	1	30-45
+Second	Kelly, Mrs. Florence "Fannie"	Female	45	0	0	223596	13.5		Southampton	9	NA	London / New York, NY	Survived	1	30-45
+Second	Kirkland, Rev. Charles Leonard	Male	57	0	0	219533	12.35		Queenstown		NA	Glasgow / Bangor, ME	Did not survive	1	45-60
+Second	Knight, Mr. Robert J	Male	NA	0	0	239855	0		Southampton		NA	Belfast	Did not survive	1	No age recorded
+Second	Kvillner, Mr. Johan Henrik Johannesson	Male	31	0	0	C.A. 18723	10.5		Southampton		165	Sweden / Arlington, NJ	Did not survive	1	30-45
+Second	Lahtinen, Mrs. William (Anna Sylfven)	Female	26	1	1	250651	26		Southampton		NA	Minneapolis, MN	Did not survive	1	15-30
+Second	Lahtinen, Rev. William	Male	30	1	1	250651	26		Southampton		NA	Minneapolis, MN	Did not survive	1	15-30
+Second	Lamb, Mr. John Joseph	Male	NA	0	0	240261	10.7083		Queenstown		NA		Did not survive	1	No age recorded
+Second	Laroche, Miss. Louise	Female	1	1	2	SC/Paris 2123	41.5792		Cherbourg	14	NA	Paris / Haiti	Survived	1	0-15
+Second	Laroche, Miss. Simonne Marie Anne Andree	Female	3	1	2	SC/Paris 2123	41.5792		Cherbourg	14	NA	Paris / Haiti	Survived	1	0-15
+Second	Laroche, Mr. Joseph Philippe Lemercier	Male	25	1	2	SC/Paris 2123	41.5792		Cherbourg		NA	Paris / Haiti	Did not survive	1	15-30
+Second	Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)	Female	22	1	2	SC/Paris 2123	41.5792		Cherbourg	14	NA	Paris / Haiti	Survived	1	15-30
+Second	Lehmann, Miss. Bertha	Female	17	0	0	SC 1748	12		Cherbourg	12	NA	Berne, Switzerland / Central City, IA	Survived	1	15-30
+Second	Leitch, Miss. Jessie Wills	Female	NA	0	0	248727	33		Southampton	11	NA	London / Chicago, IL	Survived	1	No age recorded
+Second	Lemore, Mrs. (Amelia Milley)	Female	34	0	0	C.A. 34260	10.5	F33	Southampton	14	NA	Chicago, IL	Survived	1	30-45
+Second	Levy, Mr. Rene Jacques	Male	36	0	0	SC/Paris 2163	12.875	D	Cherbourg		NA	Montreal, PQ	Did not survive	1	30-45
+Second	Leyson, Mr. Robert William Norman	Male	24	0	0	C.A. 29566	10.5		Southampton		108		Did not survive	1	15-30
+Second	Lingane, Mr. John	Male	61	0	0	235509	12.35		Queenstown		NA		Did not survive	1	over 60
+Second	Louch, Mr. Charles Alexander	Male	50	1	0	SC/AH 3085	26		Southampton		121	Weston-Super-Mare, Somerset	Did not survive	1	45-60
+Second	Louch, Mrs. Charles Alexander (Alice Adelaide Slow)	Female	42	1	0	SC/AH 3085	26		Southampton		NA	Weston-Super-Mare, Somerset	Survived	1	30-45
+Second	Mack, Mrs. (Mary)	Female	57	0	0	S.O./P.P. 3	10.5	E77	Southampton		52	Southampton / New York, NY	Did not survive	1	45-60
+Second	Malachard, Mr. Noel	Male	NA	0	0	237735	15.0458	D	Cherbourg		NA	Paris	Did not survive	1	No age recorded
+Second	Mallet, Master. Andre	Male	1	0	2	S.C./PARIS 2079	37.0042		Cherbourg	10	NA	Paris / Montreal, PQ	Survived	1	0-15
+Second	Mallet, Mr. Albert	Male	31	1	1	S.C./PARIS 2079	37.0042		Cherbourg		NA	Paris / Montreal, PQ	Did not survive	1	30-45
+Second	Mallet, Mrs. Albert (Antoinette Magnin)	Female	24	1	1	S.C./PARIS 2079	37.0042		Cherbourg	10	NA	Paris / Montreal, PQ	Survived	1	15-30
+Second	Mangiavacchi, Mr. Serafino Emilio	Male	NA	0	0	SC/A.3 2861	15.5792		Cherbourg		NA	New York, NY	Did not survive	1	No age recorded
+Second	Matthews, Mr. William John	Male	30	0	0	28228	13		Southampton		NA	St Austall, Cornwall	Did not survive	1	15-30
+Second	Maybery, Mr. Frank Hubert	Male	40	0	0	239059	16		Southampton		NA	Weston-Super-Mare / Moose Jaw, SK	Did not survive	1	30-45
+Second	McCrae, Mr. Arthur Gordon	Male	32	0	0	237216	13.5		Southampton		209	Sydney, Australia	Did not survive	1	30-45
+Second	McCrie, Mr. James Matthew	Male	30	0	0	233478	13		Southampton		NA	Sarnia, ON	Did not survive	1	15-30
+Second	McKane, Mr. Peter David	Male	46	0	0	28403	26		Southampton		NA	Rochester, NY	Did not survive	1	45-60
+Second	Mellinger, Miss. Madeleine Violet	Female	13	0	1	250644	19.5		Southampton	14	NA	England / Bennington, VT	Survived	1	0-15
+Second	Mellinger, Mrs. (Elizabeth Anne Maidment)	Female	41	0	1	250644	19.5		Southampton	14	NA	England / Bennington, VT	Survived	1	30-45
+Second	Mellors, Mr. William John	Male	19	0	0	SW/PP 751	10.5		Southampton	B	NA	Chelsea, London	Survived	1	15-30
+Second	Meyer, Mr. August	Male	39	0	0	248723	13		Southampton		NA	Harrow-on-the-Hill, Middlesex	Did not survive	1	30-45
+Second	Milling, Mr. Jacob Christian	Male	48	0	0	234360	13		Southampton		271	Copenhagen, Denmark	Did not survive	1	45-60
+Second	Mitchell, Mr. Henry Michael	Male	70	0	0	C.A. 24580	10.5		Southampton		NA	Guernsey / Montclair, NJ and/or Toledo, Ohio	Did not survive	1	over 60
+Second	Montvila, Rev. Juozas	Male	27	0	0	211536	13		Southampton		NA	Worcester, MA	Did not survive	1	15-30
+Second	Moraweck, Dr. Ernest	Male	54	0	0	29011	14		Southampton		NA	Frankfort, KY	Did not survive	1	45-60
+Second	Morley, Mr. Henry Samuel ("Mr Henry Marshall")	Male	39	0	0	250655	26		Southampton		NA		Did not survive	1	30-45
+Second	Mudd, Mr. Thomas Charles	Male	16	0	0	S.O./P.P. 3	10.5		Southampton		NA	Halesworth, England	Did not survive	1	15-30
+Second	Myles, Mr. Thomas Francis	Male	62	0	0	240276	9.6875		Queenstown		NA	Cambridge, MA	Did not survive	1	over 60
+Second	Nasser, Mr. Nicholas	Male	32.5	1	0	237736	30.0708		Cherbourg		43	New York, NY	Did not survive	1	30-45
+Second	Nasser, Mrs. Nicholas (Adele Achem)	Female	14	1	0	237736	30.0708		Cherbourg		NA	New York, NY	Survived	1	0-15
+Second	Navratil, Master. Edmond Roger	Male	2	1	1	230080	26	F2	Southampton	D	NA	Nice, France	Survived	1	0-15
+Second	Navratil, Master. Michel M	Male	3	1	1	230080	26	F2	Southampton	D	NA	Nice, France	Survived	1	0-15
+Second	Navratil, Mr. Michel ("Louis M Hoffman")	Male	36.5	0	2	230080	26	F2	Southampton		15	Nice, France	Did not survive	1	30-45
+Second	Nesson, Mr. Israel	Male	26	0	0	244368	13	F2	Southampton		NA	Boston, MA	Did not survive	1	15-30
+Second	Nicholls, Mr. Joseph Charles	Male	19	1	1	C.A. 33112	36.75		Southampton		101	Cornwall / Hancock, MI	Did not survive	1	15-30
+Second	Norman, Mr. Robert Douglas	Male	28	0	0	218629	13.5		Southampton		287	Glasgow	Did not survive	1	15-30
+Second	Nourney, Mr. Alfred ("Baron von Drachstedt")	Male	20	0	0	SC/PARIS 2166	13.8625	D38	Cherbourg	7	NA	Cologne, Germany	Survived	1	15-30
+Second	Nye, Mrs. (Elizabeth Ramell)	Female	29	0	0	C.A. 29395	10.5	F33	Southampton	11	NA	Folkstone, Kent / New York, NY	Survived	1	15-30
+Second	Otter, Mr. Richard	Male	39	0	0	28213	13		Southampton		NA	Middleburg Heights, OH	Did not survive	1	30-45
+Second	Oxenham, Mr. Percy Thomas	Male	22	0	0	W./C. 14260	10.5		Southampton	13	NA	Pondersend, England / New Durham, NJ	Survived	1	15-30
+Second	Padro y Manent, Mr. Julian	Male	NA	0	0	SC/PARIS 2146	13.8625		Cherbourg	9	NA	Spain / Havana, Cuba	Survived	1	No age recorded
+Second	Pain, Dr. Alfred	Male	23	0	0	244278	10.5		Southampton		NA	Hamilton, ON	Did not survive	1	15-30
+Second	Pallas y Castello, Mr. Emilio	Male	29	0	0	SC/PARIS 2147	13.8583		Cherbourg	9	NA	Spain / Havana, Cuba	Survived	1	15-30
+Second	Parker, Mr. Clifford Richard	Male	28	0	0	SC 14888	10.5		Southampton		NA	St Andrews, Guernsey	Did not survive	1	15-30
+Second	Parkes, Mr. Francis "Frank"	Male	NA	0	0	239853	0		Southampton		NA	Belfast	Did not survive	1	No age recorded
+Second	Parrish, Mrs. (Lutie Davis)	Female	50	0	1	230433	26		Southampton	12	NA	Woodford County, KY	Survived	1	45-60
+Second	Pengelly, Mr. Frederick William	Male	19	0	0	28665	10.5		Southampton		NA	Gunnislake, England / Butte, MT	Did not survive	1	15-30
+Second	Pernot, Mr. Rene	Male	NA	0	0	SC/PARIS 2131	15.05		Cherbourg		NA		Did not survive	1	No age recorded
+Second	Peruschitz, Rev. Joseph Maria	Male	41	0	0	237393	13		Southampton		NA		Did not survive	1	30-45
+Second	Phillips, Miss. Alice Frances Louisa	Female	21	0	1	S.O./P.P. 2	21		Southampton	12	NA	Ilfracombe, Devon	Survived	1	15-30
+Second	Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall")	Female	19	0	0	250655	26		Southampton	11	NA	Worcester, England	Survived	1	15-30
+Second	Phillips, Mr. Escott Robert	Male	43	0	1	S.O./P.P. 2	21		Southampton		NA	Ilfracombe, Devon	Did not survive	1	30-45
+Second	Pinsky, Mrs. (Rosa)	Female	32	0	0	234604	13		Southampton	9	NA	Russia	Survived	1	30-45
+Second	Ponesell, Mr. Martin	Male	34	0	0	250647	13		Southampton		NA	Denmark / New York, NY	Did not survive	1	30-45
+Second	Portaluppi, Mr. Emilio Ilario Giuseppe	Male	30	0	0	C.A. 34644	12.7375		Cherbourg	14	NA	Milford, NH	Survived	1	15-30
+Second	Pulbaum, Mr. Franz	Male	27	0	0	SC/PARIS 2168	15.0333		Cherbourg		NA	Paris	Did not survive	1	15-30
+Second	Quick, Miss. Phyllis May	Female	2	1	1	26360	26		Southampton	11	NA	Plymouth, Devon / Detroit, MI	Survived	1	0-15
+Second	Quick, Miss. Winifred Vera	Female	8	1	1	26360	26		Southampton	11	NA	Plymouth, Devon / Detroit, MI	Survived	1	0-15
+Second	Quick, Mrs. Frederick Charles (Jane Richards)	Female	33	0	2	26360	26		Southampton	11	NA	Plymouth, Devon / Detroit, MI	Survived	1	30-45
+Second	Reeves, Mr. David	Male	36	0	0	C.A. 17248	10.5		Southampton		NA	Brighton, Sussex	Did not survive	1	30-45
+Second	Renouf, Mr. Peter Henry	Male	34	1	0	31027	21		Southampton	12	NA	Elizabeth, NJ	Did not survive	1	30-45
+Second	Renouf, Mrs. Peter Henry (Lillian Jefferys)	Female	30	3	0	31027	21		Southampton		NA	Elizabeth, NJ	Survived	1	15-30
+Second	Reynaldo, Ms. Encarnacion	Female	28	0	0	230434	13		Southampton	9	NA	Spain	Survived	1	15-30
+Second	Richard, Mr. Emile	Male	23	0	0	SC/PARIS 2133	15.0458		Cherbourg		NA	Paris / Montreal, PQ	Did not survive	1	15-30
+Second	Richards, Master. George Sibley	Male	0.83	1	1	29106	18.75		Southampton	4	NA	Cornwall / Akron, OH	Survived	1	0-15
+Second	Richards, Master. William Rowe	Male	3	1	1	29106	18.75		Southampton	4	NA	Cornwall / Akron, OH	Survived	1	0-15
+Second	Richards, Mrs. Sidney (Emily Hocking)	Female	24	2	3	29106	18.75		Southampton	4	NA	Cornwall / Akron, OH	Survived	1	15-30
+Second	Ridsdale, Miss. Lucy	Female	50	0	0	W./C. 14258	10.5		Southampton	13	NA	London, England / Marietta, Ohio and Milwaukee, WI	Survived	1	45-60
+Second	Rogers, Mr. Reginald Harry	Male	19	0	0	28004	10.5		Southampton		NA		Did not survive	1	15-30
+Second	Rugg, Miss. Emily	Female	21	0	0	C.A. 31026	10.5		Southampton	12	NA	Guernsey / Wilmington, DE	Survived	1	15-30
+Second	Schmidt, Mr. August	Male	26	0	0	248659	13		Southampton		NA	Newark, NJ	Did not survive	1	15-30
+Second	Sedgwick, Mr. Charles Frederick Waddington	Male	25	0	0	244361	13		Southampton		NA	Liverpool	Did not survive	1	15-30
+Second	Sharp, Mr. Percival James R	Male	27	0	0	244358	26		Southampton		NA	Hornsey, England	Did not survive	1	15-30
+Second	Shelley, Mrs. William (Imanita Parrish Hall)	Female	25	0	1	230433	26		Southampton	12	NA	Deer Lodge, MT	Survived	1	15-30
+Second	Silven, Miss. Lyyli Karoliina	Female	18	0	2	250652	13		Southampton	16	NA	Finland / Minneapolis, MN	Survived	1	15-30
+Second	Sincock, Miss. Maude	Female	20	0	0	C.A. 33112	36.75		Southampton	11	NA	Cornwall / Hancock, MI	Survived	1	15-30
+Second	Sinkkonen, Miss. Anna	Female	30	0	0	250648	13		Southampton	10	NA	Finland / Washington, DC	Survived	1	15-30
+Second	Sjostedt, Mr. Ernst Adolf	Male	59	0	0	237442	13.5		Southampton		NA	Sault St Marie, ON	Did not survive	1	45-60
+Second	Slayter, Miss. Hilda Mary	Female	30	0	0	234818	12.35		Queenstown	13	NA	Halifax, NS	Survived	1	15-30
+Second	Slemen, Mr. Richard James	Male	35	0	0	28206	10.5		Southampton		NA	Cornwall	Did not survive	1	30-45
+Second	Smith, Miss. Marion Elsie	Female	40	0	0	31418	13		Southampton	9	NA		Survived	1	30-45
+Second	Sobey, Mr. Samuel James Hayden	Male	25	0	0	C.A. 29178	13		Southampton		NA	Cornwall / Houghton, MI	Did not survive	1	15-30
+Second	Stanton, Mr. Samuel Ward	Male	41	0	0	237734	15.0458		Cherbourg		NA	New York, NY	Did not survive	1	30-45
+Second	Stokes, Mr. Philip Joseph	Male	25	0	0	F.C.C. 13540	10.5		Southampton		81	Catford, Kent / Detroit, MI	Did not survive	1	15-30
+Second	Swane, Mr. George	Male	18.5	0	0	248734	13	F	Southampton		294		Did not survive	1	15-30
+Second	Sweet, Mr. George Frederick	Male	14	0	0	220845	65		Southampton		NA	Somerset / Bernardsville, NJ	Did not survive	1	0-15
+Second	Toomey, Miss. Ellen	Female	50	0	0	F.C.C. 13531	10.5		Southampton	9	NA	Indianapolis, IN	Survived	1	45-60
+Second	Troupiansky, Mr. Moses Aaron	Male	23	0	0	233639	13		Southampton		NA		Did not survive	1	15-30
+Second	Trout, Mrs. William H (Jessie L)	Female	28	0	0	240929	12.65		Southampton		NA	Columbus, OH	Survived	1	15-30
+Second	Troutt, Miss. Edwina Celia "Winnie"	Female	27	0	0	34218	10.5	E101	Southampton	16	NA	Bath, England / Massachusetts	Survived	1	15-30
+Second	Turpin, Mr. William John Robert	Male	29	1	0	11668	21		Southampton		NA	Plymouth, England	Did not survive	1	15-30
+Second	Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)	Female	27	1	0	11668	21		Southampton		NA	Plymouth, England	Did not survive	1	15-30
+Second	Veal, Mr. James	Male	40	0	0	28221	13		Southampton		NA	Barre, Co Washington, VT	Did not survive	1	30-45
+Second	Walcroft, Miss. Nellie	Female	31	0	0	F.C.C. 13528	21		Southampton	14	NA	Mamaroneck, NY	Survived	1	30-45
+Second	Ware, Mr. John James	Male	30	1	0	CA 31352	21		Southampton		NA	Bristol, England / New Britain, CT	Did not survive	1	15-30
+Second	Ware, Mr. William Jeffery	Male	23	1	0	28666	10.5		Southampton		NA		Did not survive	1	15-30
+Second	Ware, Mrs. John James (Florence Louise Long)	Female	31	0	0	CA 31352	21		Southampton	10	NA	Bristol, England / New Britain, CT	Survived	1	30-45
+Second	Watson, Mr. Ennis Hastings	Male	NA	0	0	239856	0		Southampton		NA	Belfast	Did not survive	1	No age recorded
+Second	Watt, Miss. Bertha J	Female	12	0	0	C.A. 33595	15.75		Southampton	9	NA	Aberdeen / Portland, OR	Survived	1	0-15
+Second	Watt, Mrs. James (Elizabeth "Bessie" Inglis Milne)	Female	40	0	0	C.A. 33595	15.75		Southampton	9	NA	Aberdeen / Portland, OR	Survived	1	30-45
+Second	Webber, Miss. Susan	Female	32.5	0	0	27267	13	E101	Southampton	12	NA	England / Hartford, CT	Survived	1	30-45
+Second	Weisz, Mr. Leopold	Male	27	1	0	228414	26		Southampton		293	Bromsgrove, England / Montreal, PQ	Did not survive	1	15-30
+Second	Weisz, Mrs. Leopold (Mathilde Francoise Pede)	Female	29	1	0	228414	26		Southampton	10	NA	Bromsgrove, England / Montreal, PQ	Survived	1	15-30
+Second	Wells, Master. Ralph Lester	Male	2	1	1	29103	23		Southampton	14	NA	Cornwall / Akron, OH	Survived	1	0-15
+Second	Wells, Miss. Joan	Female	4	1	1	29103	23		Southampton	14	NA	Cornwall / Akron, OH	Survived	1	0-15
+Second	Wells, Mrs. Arthur Henry ("Addie" Dart Trevaskis)	Female	29	0	2	29103	23		Southampton	14	NA	Cornwall / Akron, OH	Survived	1	15-30
+Second	West, Miss. Barbara J	Female	0.92	1	2	C.A. 34651	27.75		Southampton	10	NA	Bournmouth, England	Survived	1	0-15
+Second	West, Miss. Constance Mirium	Female	5	1	2	C.A. 34651	27.75		Southampton	10	NA	Bournmouth, England	Survived	1	0-15
+Second	West, Mr. Edwy Arthur	Male	36	1	2	C.A. 34651	27.75		Southampton		NA	Bournmouth, England	Did not survive	1	30-45
+Second	West, Mrs. Edwy Arthur (Ada Mary Worth)	Female	33	1	2	C.A. 34651	27.75		Southampton	10	NA	Bournmouth, England	Survived	1	30-45
+Second	Wheadon, Mr. Edward H	Male	66	0	0	C.A. 24579	10.5		Southampton		NA	Guernsey, England / Edgewood, RI	Did not survive	1	over 60
+Second	Wheeler, Mr. Edwin "Frederick"	Male	NA	0	0	SC/PARIS 2159	12.875		Southampton		NA		Did not survive	1	No age recorded
+Second	Wilhelms, Mr. Charles	Male	31	0	0	244270	13		Southampton	9	NA	London, England	Survived	1	30-45
+Second	Williams, Mr. Charles Eugene	Male	NA	0	0	244373	13		Southampton	14	NA	Harrow, England	Survived	1	No age recorded
+Second	Wright, Miss. Marion	Female	26	0	0	220844	13.5		Southampton	9	NA	Yoevil, England / Cottage Grove, OR	Survived	1	15-30
+Second	Yrois, Miss. Henriette ("Mrs Harbeck")	Female	24	0	0	248747	13		Southampton		NA	Paris	Did not survive	1	15-30
+Third	Abbing, Mr. Anthony	Male	42	0	0	C.A. 5547	7.55		Southampton		NA		Did not survive	1	30-45
+Third	Abbott, Master. Eugene Joseph	Male	13	0	2	C.A. 2673	20.25		Southampton		NA	East Providence, RI	Did not survive	1	0-15
+Third	Abbott, Mr. Rossmore Edward	Male	16	1	1	C.A. 2673	20.25		Southampton		190	East Providence, RI	Did not survive	1	15-30
+Third	Abbott, Mrs. Stanton (Rosa Hunt)	Female	35	1	1	C.A. 2673	20.25		Southampton	A	NA	East Providence, RI	Survived	1	30-45
+Third	Abelseth, Miss. Karen Marie	Female	16	0	0	348125	7.65		Southampton	16	NA	Norway Los Angeles, CA	Survived	1	15-30
+Third	Abelseth, Mr. Olaus Jorgensen	Male	25	0	0	348122	7.65	F G63	Southampton	A	NA	Perkins County, SD	Survived	1	15-30
+Third	Abrahamsson, Mr. Abraham August Johannes	Male	20	0	0	SOTON/O2 3101284	7.925		Southampton	15	NA	Taalintehdas, Finland Hoboken, NJ	Survived	1	15-30
+Third	Abrahim, Mrs. Joseph (Sophie Halaut Easu)	Female	18	0	0	2657	7.2292		Cherbourg	C	NA	Greensburg, PA	Survived	1	15-30
+Third	Adahl, Mr. Mauritz Nils Martin	Male	30	0	0	C 7076	7.25		Southampton		72	Asarum, Sweden Brooklyn, NY	Did not survive	1	15-30
+Third	Adams, Mr. John	Male	26	0	0	341826	8.05		Southampton		103	Bournemouth, England	Did not survive	1	15-30
+Third	Ahlin, Mrs. Johan (Johanna Persdotter Larsson)	Female	40	1	0	7546	9.475		Southampton		NA	Sweden Akeley, MN	Did not survive	1	30-45
+Third	Aks, Master. Philip Frank	Male	0.83	0	1	392091	9.35		Southampton	11	NA	London, England Norfolk, VA	Survived	1	0-15
+Third	Aks, Mrs. Sam (Leah Rosen)	Female	18	0	1	392091	9.35		Southampton	13	NA	London, England Norfolk, VA	Survived	1	15-30
+Third	Albimona, Mr. Nassef Cassem	Male	26	0	0	2699	18.7875		Cherbourg	15	NA	Syria Fredericksburg, VA	Survived	1	15-30
+Third	Alexander, Mr. William	Male	26	0	0	3474	7.8875		Southampton		NA	England Albion, NY	Did not survive	1	15-30
+Third	Alhomaki, Mr. Ilmari Rudolf	Male	20	0	0	SOTON/O2 3101287	7.925		Southampton		NA	Salo, Finland Astoria, OR	Did not survive	1	15-30
+Third	Ali, Mr. Ahmed	Male	24	0	0	SOTON/O.Q. 3101311	7.05		Southampton		NA		Did not survive	1	15-30
+Third	Ali, Mr. William	Male	25	0	0	SOTON/O.Q. 3101312	7.05		Southampton		79	Argentina	Did not survive	1	15-30
+Third	Allen, Mr. William Henry	Male	35	0	0	373450	8.05		Southampton		NA	Lower Clapton, Middlesex or Erdington, Birmingham	Did not survive	1	30-45
+Third	Allum, Mr. Owen George	Male	18	0	0	2223	8.3		Southampton		259	Windsor, England New York, NY	Did not survive	1	15-30
+Third	Andersen, Mr. Albert Karvin	Male	32	0	0	C 4001	22.525		Southampton		260	Bergen, Norway	Did not survive	1	30-45
+Third	Andersen-Jensen, Miss. Carla Christine Nielsine	Female	19	1	0	350046	7.8542		Southampton	16	NA		Survived	1	15-30
+Third	Andersson, Master. Sigvard Harald Elias	Male	4	4	2	347082	31.275		Southampton		NA	Sweden Winnipeg, MN	Did not survive	1	0-15
+Third	Andersson, Miss. Ebba Iris Alfrida	Female	6	4	2	347082	31.275		Southampton		NA	Sweden Winnipeg, MN	Did not survive	1	0-15
+Third	Andersson, Miss. Ellis Anna Maria	Female	2	4	2	347082	31.275		Southampton		NA	Sweden Winnipeg, MN	Did not survive	1	0-15
+Third	Andersson, Miss. Erna Alexandra	Female	17	4	2	3101281	7.925		Southampton	D	NA	Ruotsinphyhtaa, Finland New York, NY	Survived	1	15-30
+Third	Andersson, Miss. Ida Augusta Margareta	Female	38	4	2	347091	7.775		Southampton		NA	Vadsbro, Sweden Ministee, MI	Did not survive	1	30-45
+Third	Andersson, Miss. Ingeborg Constanzia	Female	9	4	2	347082	31.275		Southampton		NA	Sweden Winnipeg, MN	Did not survive	1	0-15
+Third	Andersson, Miss. Sigrid Elisabeth	Female	11	4	2	347082	31.275		Southampton		NA	Sweden Winnipeg, MN	Did not survive	1	0-15
+Third	Andersson, Mr. Anders Johan	Male	39	1	5	347082	31.275		Southampton		NA	Sweden Winnipeg, MN	Did not survive	1	30-45
+Third	Andersson, Mr. August Edvard ("Wennerstrom")	Male	27	0	0	350043	7.7958		Southampton	A	NA		Survived	1	15-30
+Third	Andersson, Mr. Johan Samuel	Male	26	0	0	347075	7.775		Southampton		NA	Hartford, CT	Did not survive	1	15-30
+Third	Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)	Female	39	1	5	347082	31.275		Southampton		NA	Sweden Winnipeg, MN	Did not survive	1	30-45
+Third	Andreasson, Mr. Paul Edvin	Male	20	0	0	347466	7.8542		Southampton		NA	Sweden Chicago, IL	Did not survive	1	15-30
+Third	Angheloff, Mr. Minko	Male	26	0	0	349202	7.8958		Southampton		NA	Bulgaria Chicago, IL	Did not survive	1	15-30
+Third	Arnold-Franchi, Mr. Josef	Male	25	1	0	349237	17.8		Southampton		NA	Altdorf, Switzerland	Did not survive	1	15-30
+Third	Arnold-Franchi, Mrs. Josef (Josefine Franchi)	Female	18	1	0	349237	17.8		Southampton		NA	Altdorf, Switzerland	Did not survive	1	15-30
+Third	Aronsson, Mr. Ernst Axel Algot	Male	24	0	0	349911	7.775		Southampton		NA	Sweden Joliet, IL	Did not survive	1	15-30
+Third	Asim, Mr. Adola	Male	35	0	0	SOTON/O.Q. 3101310	7.05		Southampton		NA		Did not survive	1	30-45
+Third	Asplund, Master. Carl Edgar	Male	5	4	2	347077	31.3875		Southampton		NA	Sweden  Worcester, MA	Did not survive	1	0-15
+Third	Asplund, Master. Clarence Gustaf Hugo	Male	9	4	2	347077	31.3875		Southampton		NA	Sweden Worcester, MA	Did not survive	1	0-15
+Third	Asplund, Master. Edvin Rojj Felix	Male	3	4	2	347077	31.3875		Southampton	15	NA	Sweden Worcester, MA	Survived	1	0-15
+Third	Asplund, Master. Filip Oscar	Male	13	4	2	347077	31.3875		Southampton		NA	Sweden Worcester, MA	Did not survive	1	0-15
+Third	Asplund, Miss. Lillian Gertrud	Female	5	4	2	347077	31.3875		Southampton	15	NA	Sweden Worcester, MA	Survived	1	0-15
+Third	Asplund, Mr. Carl Oscar Vilhelm Gustafsson	Male	40	1	5	347077	31.3875		Southampton		142	Sweden  Worcester, MA	Did not survive	1	30-45
+Third	Asplund, Mr. Johan Charles	Male	23	0	0	350054	7.7958		Southampton	13	NA	Oskarshamn, Sweden Minneapolis, MN	Survived	1	15-30
+Third	Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)	Female	38	1	5	347077	31.3875		Southampton	15	NA	Sweden  Worcester, MA	Survived	1	30-45
+Third	Assaf Khalil, Mrs. Mariana ("Miriam")	Female	45	0	0	2696	7.225		Cherbourg	C	NA	Ottawa, ON	Survived	1	30-45
+Third	Assaf, Mr. Gerios	Male	21	0	0	2692	7.225		Cherbourg		NA	Ottawa, ON	Did not survive	1	15-30
+Third	Assam, Mr. Ali	Male	23	0	0	SOTON/O.Q. 3101309	7.05		Southampton		NA		Did not survive	1	15-30
+Third	Attalah, Miss. Malake	Female	17	0	0	2627	14.4583		Cherbourg		NA		Did not survive	1	15-30
+Third	Attalah, Mr. Sleiman	Male	30	0	0	2694	7.225		Cherbourg		NA	Ottawa, ON	Did not survive	1	15-30
+Third	Augustsson, Mr. Albert	Male	23	0	0	347468	7.8542		Southampton		NA	Krakoryd, Sweden Bloomington, IL	Did not survive	1	15-30
+Third	Ayoub, Miss. Banoura	Female	13	0	0	2687	7.2292		Cherbourg	C	NA	Syria Youngstown, OH	Survived	1	0-15
+Third	Baccos, Mr. Raffull	Male	20	0	0	2679	7.225		Cherbourg		NA		Did not survive	1	15-30
+Third	Backstrom, Mr. Karl Alfred	Male	32	1	0	3101278	15.85		Southampton	D	NA	Ruotsinphytaa, Finland New York, NY	Did not survive	1	30-45
+Third	Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)	Female	33	3	0	3101278	15.85		Southampton		NA	Ruotsinphytaa, Finland New York, NY	Survived	1	30-45
+Third	Baclini, Miss. Eugenie	Female	0.75	2	1	2666	19.2583		Cherbourg	C	NA	Syria New York, NY	Survived	1	0-15
+Third	Baclini, Miss. Helene Barbara	Female	0.75	2	1	2666	19.2583		Cherbourg	C	NA	Syria New York, NY	Survived	1	0-15
+Third	Baclini, Miss. Marie Catherine	Female	5	2	1	2666	19.2583		Cherbourg	C	NA	Syria New York, NY	Survived	1	0-15
+Third	Baclini, Mrs. Solomon (Latifa Qurban)	Female	24	0	3	2666	19.2583		Cherbourg	C	NA	Syria New York, NY	Survived	1	15-30
+Third	Badman, Miss. Emily Louisa	Female	18	0	0	A/4 31416	8.05		Southampton	C	NA	London Skanteales, NY	Survived	1	15-30
+Third	Badt, Mr. Mohamed	Male	40	0	0	2623	7.225		Cherbourg		NA		Did not survive	1	30-45
+Third	Balkic, Mr. Cerin	Male	26	0	0	349248	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Barah, Mr. Hanna Assi	Male	20	0	0	2663	7.2292		Cherbourg	15	NA		Survived	1	15-30
+Third	Barbara, Miss. Saiide	Female	18	0	1	2691	14.4542		Cherbourg		NA	Syria Ottawa, ON	Did not survive	1	15-30
+Third	Barbara, Mrs. (Catherine David)	Female	45	0	1	2691	14.4542		Cherbourg		NA	Syria Ottawa, ON	Did not survive	1	30-45
+Third	Barry, Miss. Julia	Female	27	0	0	330844	7.8792		Queenstown		NA	New York, NY	Did not survive	1	15-30
+Third	Barton, Mr. David John	Male	22	0	0	324669	8.05		Southampton		NA	England New York, NY	Did not survive	1	15-30
+Third	Beavan, Mr. William Thomas	Male	19	0	0	323951	8.05		Southampton		NA	England	Did not survive	1	15-30
+Third	Bengtsson, Mr. John Viktor	Male	26	0	0	347068	7.775		Southampton		NA	Krakudden, Sweden Moune, IL	Did not survive	1	15-30
+Third	Berglund, Mr. Karl Ivar Sven	Male	22	0	0	PP 4348	9.35		Southampton		NA	Tranvik, Finland New York	Did not survive	1	15-30
+Third	Betros, Master. Seman	Male	NA	0	0	2622	7.2292		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Betros, Mr. Tannous	Male	20	0	0	2648	4.0125		Cherbourg		NA	Syria	Did not survive	1	15-30
+Third	Bing, Mr. Lee	Male	32	0	0	1601	56.4958		Southampton	C	NA	Hong Kong New York, NY	Survived	1	30-45
+Third	Birkeland, Mr. Hans Martin Monsen	Male	21	0	0	312992	7.775		Southampton		NA	Brennes, Norway New York	Did not survive	1	15-30
+Third	Bjorklund, Mr. Ernst Herbert	Male	18	0	0	347090	7.75		Southampton		NA	Stockholm, Sweden New York	Did not survive	1	15-30
+Third	Bostandyeff, Mr. Guentcho	Male	26	0	0	349224	7.8958		Southampton		NA	Bulgaria Chicago, IL	Did not survive	1	15-30
+Third	Boulos, Master. Akar	Male	6	1	1	2678	15.2458		Cherbourg		NA	Syria Kent, ON	Did not survive	1	0-15
+Third	Boulos, Miss. Nourelain	Female	9	1	1	2678	15.2458		Cherbourg		NA	Syria Kent, ON	Did not survive	1	0-15
+Third	Boulos, Mr. Hanna	Male	NA	0	0	2664	7.225		Cherbourg		NA	Syria	Did not survive	1	No age recorded
+Third	Boulos, Mrs. Joseph (Sultana)	Female	NA	0	2	2678	15.2458		Cherbourg		NA	Syria Kent, ON	Did not survive	1	No age recorded
+Third	Bourke, Miss. Mary	Female	NA	0	2	364848	7.75		Queenstown		NA	Ireland Chicago, IL	Did not survive	1	No age recorded
+Third	Bourke, Mr. John	Male	40	1	1	364849	15.5		Queenstown		NA	Ireland Chicago, IL	Did not survive	1	30-45
+Third	Bourke, Mrs. John (Catherine)	Female	32	1	1	364849	15.5		Queenstown		NA	Ireland Chicago, IL	Did not survive	1	30-45
+Third	Bowen, Mr. David John "Dai"	Male	21	0	0	54636	16.1		Southampton		NA	Treherbert, Cardiff, Wales	Did not survive	1	15-30
+Third	Bradley, Miss. Bridget Delia	Female	22	0	0	334914	7.725		Queenstown	13	NA	Kingwilliamstown, Co Cork, Ireland Glens Falls, NY	Survived	1	15-30
+Third	Braf, Miss. Elin Ester Maria	Female	20	0	0	347471	7.8542		Southampton		NA	Medeltorp, Sweden Chicago, IL	Did not survive	1	15-30
+Third	Braund, Mr. Lewis Richard	Male	29	1	0	3460	7.0458		Southampton		NA	Bridgerule, Devon	Did not survive	1	15-30
+Third	Braund, Mr. Owen Harris	Male	22	1	0	A/5 21171	7.25		Southampton		NA	Bridgerule, Devon	Did not survive	1	15-30
+Third	Brobeck, Mr. Karl Rudolf	Male	22	0	0	350045	7.7958		Southampton		NA	Sweden Worcester, MA	Did not survive	1	15-30
+Third	Brocklebank, Mr. William Alfred	Male	35	0	0	364512	8.05		Southampton		NA	Broomfield, Chelmsford, England	Did not survive	1	30-45
+Third	Buckley, Miss. Katherine	Female	18.5	0	0	329944	7.2833		Queenstown		299	Co Cork, Ireland Roxbury, MA	Did not survive	1	15-30
+Third	Buckley, Mr. Daniel	Male	21	0	0	330920	7.8208		Queenstown	13	NA	Kingwilliamstown, Co Cork, Ireland New York, NY	Survived	1	15-30
+Third	Burke, Mr. Jeremiah	Male	19	0	0	365222	6.75		Queenstown		NA	Co Cork, Ireland Charlestown, MA	Did not survive	1	15-30
+Third	Burns, Miss. Mary Delia	Female	18	0	0	330963	7.8792		Queenstown		NA	Co Sligo, Ireland New York, NY	Did not survive	1	15-30
+Third	Cacic, Miss. Manda	Female	21	0	0	315087	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Cacic, Miss. Marija	Female	30	0	0	315084	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Cacic, Mr. Jego Grga	Male	18	0	0	315091	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Cacic, Mr. Luka	Male	38	0	0	315089	8.6625		Southampton		NA	Croatia	Did not survive	1	30-45
+Third	Calic, Mr. Jovo	Male	17	0	0	315093	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Calic, Mr. Petar	Male	17	0	0	315086	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Canavan, Miss. Mary	Female	21	0	0	364846	7.75		Queenstown		NA		Did not survive	1	15-30
+Third	Canavan, Mr. Patrick	Male	21	0	0	364858	7.75		Queenstown		NA	Ireland Philadelphia, PA	Did not survive	1	15-30
+Third	Cann, Mr. Ernest Charles	Male	21	0	0	A./5. 2152	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Caram, Mr. Joseph	Male	NA	1	0	2689	14.4583		Cherbourg		NA	Ottawa, ON	Did not survive	1	No age recorded
+Third	Caram, Mrs. Joseph (Maria Elias)	Female	NA	1	0	2689	14.4583		Cherbourg		NA	Ottawa, ON	Did not survive	1	No age recorded
+Third	Carlsson, Mr. August Sigfrid	Male	28	0	0	350042	7.7958		Southampton		NA	Dagsas, Sweden Fower, MN	Did not survive	1	15-30
+Third	Carlsson, Mr. Carl Robert	Male	24	0	0	350409	7.8542		Southampton		NA	Goteborg, Sweden Huntley, IL	Did not survive	1	15-30
+Third	Carr, Miss. Helen "Ellen"	Female	16	0	0	367231	7.75		Queenstown	16	NA	Co Longford, Ireland New York, NY	Survived	1	15-30
+Third	Carr, Miss. Jeannie	Female	37	0	0	368364	7.75		Queenstown		NA	Co Sligo, Ireland Hartford, CT	Did not survive	1	30-45
+Third	Carver, Mr. Alfred John	Male	28	0	0	392095	7.25		Southampton		NA	St Denys, Southampton, Hants	Did not survive	1	15-30
+Third	Celotti, Mr. Francesco	Male	24	0	0	343275	8.05		Southampton		NA	London	Did not survive	1	15-30
+Third	Charters, Mr. David	Male	21	0	0	A/5. 13032	7.7333		Queenstown		NA	Ireland New York, NY	Did not survive	1	15-30
+Third	Chip, Mr. Chang	Male	32	0	0	1601	56.4958		Southampton	C	NA	Hong Kong New York, NY	Survived	1	30-45
+Third	Christmann, Mr. Emil	Male	29	0	0	343276	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Chronopoulos, Mr. Apostolos	Male	26	1	0	2680	14.4542		Cherbourg		NA	Greece	Did not survive	1	15-30
+Third	Chronopoulos, Mr. Demetrios	Male	18	1	0	2680	14.4542		Cherbourg		NA	Greece	Did not survive	1	15-30
+Third	Coelho, Mr. Domingos Fernandeo	Male	20	0	0	SOTON/O.Q. 3101307	7.05		Southampton		NA	Portugal	Did not survive	1	15-30
+Third	Cohen, Mr. Gurshon "Gus"	Male	18	0	0	A/5 3540	8.05		Southampton	12	NA	London Brooklyn, NY	Survived	1	15-30
+Third	Colbert, Mr. Patrick	Male	24	0	0	371109	7.25		Queenstown		NA	Co Limerick, Ireland Sherbrooke, PQ	Did not survive	1	15-30
+Third	Coleff, Mr. Peju	Male	36	0	0	349210	7.4958		Southampton		NA	Bulgaria Chicago, IL	Did not survive	1	30-45
+Third	Coleff, Mr. Satio	Male	24	0	0	349209	7.4958		Southampton		NA		Did not survive	1	15-30
+Third	Conlon, Mr. Thomas Henry	Male	31	0	0	21332	7.7333		Queenstown		NA	Philadelphia, PA	Did not survive	1	30-45
+Third	Connaghton, Mr. Michael	Male	31	0	0	335097	7.75		Queenstown		NA	Ireland Brooklyn, NY	Did not survive	1	30-45
+Third	Connolly, Miss. Kate	Female	22	0	0	370373	7.75		Queenstown	13	NA	Ireland	Survived	1	15-30
+Third	Connolly, Miss. Kate	Female	30	0	0	330972	7.6292		Queenstown		NA	Ireland	Did not survive	1	15-30
+Third	Connors, Mr. Patrick	Male	70.5	0	0	370369	7.75		Queenstown		171		Did not survive	1	over 60
+Third	Cook, Mr. Jacob	Male	43	0	0	A/5 3536	8.05		Southampton		NA		Did not survive	1	30-45
+Third	Cor, Mr. Bartol	Male	35	0	0	349230	7.8958		Southampton		NA	Austria	Did not survive	1	30-45
+Third	Cor, Mr. Ivan	Male	27	0	0	349229	7.8958		Southampton		NA	Austria	Did not survive	1	15-30
+Third	Cor, Mr. Liudevit	Male	19	0	0	349231	7.8958		Southampton		NA	Austria	Did not survive	1	15-30
+Third	Corn, Mr. Harry	Male	30	0	0	SOTON/OQ 392090	8.05		Southampton		NA	London	Did not survive	1	15-30
+Third	Coutts, Master. Eden Leslie "Neville"	Male	9	1	1	C.A. 37671	15.9		Southampton	2	NA	England Brooklyn, NY	Survived	1	0-15
+Third	Coutts, Master. William Loch "William"	Male	3	1	1	C.A. 37671	15.9		Southampton	2	NA	England Brooklyn, NY	Survived	1	0-15
+Third	Coutts, Mrs. William (Winnie "Minnie" Treanor)	Female	36	0	2	C.A. 37671	15.9		Southampton	2	NA	England Brooklyn, NY	Survived	1	30-45
+Third	Coxon, Mr. Daniel	Male	59	0	0	364500	7.25		Southampton		NA	Merrill, WI	Did not survive	1	45-60
+Third	Crease, Mr. Ernest James	Male	19	0	0	S.P. 3464	8.1583		Southampton		NA	Bristol, England Cleveland, OH	Did not survive	1	15-30
+Third	Cribb, Miss. Laura Alice	Female	17	0	1	371362	16.1		Southampton	12	NA	Bournemouth, England Newark, NJ	Survived	1	15-30
+Third	Cribb, Mr. John Hatfield	Male	44	0	1	371362	16.1		Southampton		NA	Bournemouth, England Newark, NJ	Did not survive	1	30-45
+Third	Culumovic, Mr. Jeso	Male	17	0	0	315090	8.6625		Southampton		NA	Austria-Hungary	Did not survive	1	15-30
+Third	Daher, Mr. Shedid	Male	22.5	0	0	2698	7.225		Cherbourg		9		Did not survive	1	15-30
+Third	Dahl, Mr. Karl Edwart	Male	45	0	0	7598	8.05		Southampton	15	NA	Australia Fingal, ND	Survived	1	30-45
+Third	Dahlberg, Miss. Gerda Ulrika	Female	22	0	0	7552	10.5167		Southampton		NA	Norrlot, Sweden Chicago, IL	Did not survive	1	15-30
+Third	Dakic, Mr. Branko	Male	19	0	0	349228	10.1708		Southampton		NA	Austria	Did not survive	1	15-30
+Third	Daly, Miss. Margaret Marcella "Maggie"	Female	30	0	0	382650	6.95		Queenstown	15	NA	Co Athlone, Ireland New York, NY	Survived	1	15-30
+Third	Daly, Mr. Eugene Patrick	Male	29	0	0	382651	7.75		Queenstown	13 15 B	NA	Co Athlone, Ireland New York, NY	Survived	1	15-30
+Third	Danbom, Master. Gilbert Sigvard Emanuel	Male	0.33	0	2	347080	14.4		Southampton		NA	Stanton, IA	Did not survive	1	0-15
+Third	Danbom, Mr. Ernst Gilbert	Male	34	1	1	347080	14.4		Southampton		197	Stanton, IA	Did not survive	1	30-45
+Third	Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)	Female	28	1	1	347080	14.4		Southampton		NA	Stanton, IA	Did not survive	1	15-30
+Third	Danoff, Mr. Yoto	Male	27	0	0	349219	7.8958		Southampton		NA	Bulgaria Chicago, IL	Did not survive	1	15-30
+Third	Dantcheff, Mr. Ristiu	Male	25	0	0	349203	7.8958		Southampton		NA	Bulgaria Chicago, IL	Did not survive	1	15-30
+Third	Davies, Mr. Alfred J	Male	24	2	0	A/4 48871	24.15		Southampton		NA	West Bromwich, England Pontiac, MI	Did not survive	1	15-30
+Third	Davies, Mr. Evan	Male	22	0	0	SC/A4 23568	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Davies, Mr. John Samuel	Male	21	2	0	A/4 48871	24.15		Southampton		NA	West Bromwich, England Pontiac, MI	Did not survive	1	15-30
+Third	Davies, Mr. Joseph	Male	17	2	0	A/4 48873	8.05		Southampton		NA	West Bromwich, England Pontiac, MI	Did not survive	1	15-30
+Third	Davison, Mr. Thomas Henry	Male	NA	1	0	386525	16.1		Southampton		NA	Liverpool, England Bedford, OH	Did not survive	1	No age recorded
+Third	Davison, Mrs. Thomas Henry (Mary E Finck)	Female	NA	1	0	386525	16.1		Southampton	16	NA	Liverpool, England Bedford, OH	Survived	1	No age recorded
+Third	de Messemaeker, Mr. Guillaume Joseph	Male	36.5	1	0	345572	17.4		Southampton	15	NA	Tampico, MT	Survived	1	30-45
+Third	de Messemaeker, Mrs. Guillaume Joseph (Emma)	Female	36	1	0	345572	17.4		Southampton	13	NA	Tampico, MT	Survived	1	30-45
+Third	de Mulder, Mr. Theodore	Male	30	0	0	345774	9.5		Southampton	11	NA	Belgium Detroit, MI	Survived	1	15-30
+Third	de Pelsmaeker, Mr. Alfons	Male	16	0	0	345778	9.5		Southampton		NA		Did not survive	1	15-30
+Third	Dean, Master. Bertram Vere	Male	1	1	2	C.A. 2315	20.575		Southampton	10	NA	Devon, England Wichita, KS	Survived	1	0-15
+Third	Dean, Miss. Elizabeth Gladys "Millvina"	Female	0.17	1	2	C.A. 2315	20.575		Southampton	10	NA	Devon, England Wichita, KS	Survived	1	0-15
+Third	Dean, Mr. Bertram Frank	Male	26	1	2	C.A. 2315	20.575		Southampton		NA	Devon, England Wichita, KS	Did not survive	1	15-30
+Third	Dean, Mrs. Bertram (Eva Georgetta Light)	Female	33	1	2	C.A. 2315	20.575		Southampton	10	NA	Devon, England Wichita, KS	Survived	1	30-45
+Third	Delalic, Mr. Redjo	Male	25	0	0	349250	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Demetri, Mr. Marinko	Male	NA	0	0	349238	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Denkoff, Mr. Mitto	Male	NA	0	0	349225	7.8958		Southampton		NA	Bulgaria Coon Rapids, IA	Did not survive	1	No age recorded
+Third	Dennis, Mr. Samuel	Male	22	0	0	A/5 21172	7.25		Southampton		NA		Did not survive	1	15-30
+Third	Dennis, Mr. William	Male	36	0	0	A/5 21175	7.25		Southampton		NA		Did not survive	1	30-45
+Third	Devaney, Miss. Margaret Delia	Female	19	0	0	330958	7.8792		Queenstown	C	NA	Kilmacowen, Co Sligo, Ireland New York, NY	Survived	1	15-30
+Third	Dika, Mr. Mirko	Male	17	0	0	349232	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Dimic, Mr. Jovan	Male	42	0	0	315088	8.6625		Southampton		NA		Did not survive	1	30-45
+Third	Dintcheff, Mr. Valtcho	Male	43	0	0	349226	7.8958		Southampton		NA		Did not survive	1	30-45
+Third	Doharr, Mr. Tannous	Male	NA	0	0	2686	7.2292		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Dooley, Mr. Patrick	Male	32	0	0	370376	7.75		Queenstown		NA	Ireland New York, NY	Did not survive	1	30-45
+Third	Dorking, Mr. Edward Arthur	Male	19	0	0	A/5. 10482	8.05		Southampton	B	NA	England Oglesby, IL	Survived	1	15-30
+Third	Dowdell, Miss. Elizabeth	Female	30	0	0	364516	12.475		Southampton	13	NA	Union Hill, NJ	Survived	1	15-30
+Third	Doyle, Miss. Elizabeth	Female	24	0	0	368702	7.75		Queenstown		NA	Ireland New York, NY	Did not survive	1	15-30
+Third	Drapkin, Miss. Jennie	Female	23	0	0	SOTON/OQ 392083	8.05		Southampton		NA	London New York, NY	Survived	1	15-30
+Third	Drazenoic, Mr. Jozef	Male	33	0	0	349241	7.8958		Cherbourg		51	Austria Niagara Falls, NY	Did not survive	1	30-45
+Third	Duane, Mr. Frank	Male	65	0	0	336439	7.75		Queenstown		NA		Did not survive	1	over 60
+Third	Duquemin, Mr. Joseph	Male	24	0	0	S.O./P.P. 752	7.55		Southampton	D	NA	England Albion, NY	Survived	1	15-30
+Third	Dyker, Mr. Adolf Fredrik	Male	23	1	0	347072	13.9		Southampton		NA	West Haven, CT	Did not survive	1	15-30
+Third	Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)	Female	22	1	0	347072	13.9		Southampton	16	NA	West Haven, CT	Survived	1	15-30
+Third	Edvardsson, Mr. Gustaf Hjalmar	Male	18	0	0	349912	7.775		Southampton		NA	Tofta, Sweden Joliet, IL	Did not survive	1	15-30
+Third	Eklund, Mr. Hans Linus	Male	16	0	0	347074	7.775		Southampton		NA	Karberg, Sweden Jerome Junction, AZ	Did not survive	1	15-30
+Third	Ekstrom, Mr. Johan	Male	45	0	0	347061	6.975		Southampton		NA	Effington Rut, SD	Did not survive	1	30-45
+Third	Elias, Mr. Dibo	Male	NA	0	0	2674	7.225		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Elias, Mr. Joseph	Male	39	0	2	2675	7.2292		Cherbourg		NA	Syria Ottawa, ON	Did not survive	1	30-45
+Third	Elias, Mr. Joseph Jr	Male	17	1	1	2690	7.2292		Cherbourg		NA		Did not survive	1	15-30
+Third	Elias, Mr. Tannous	Male	15	1	1	2695	7.2292		Cherbourg		NA	Syria	Did not survive	1	0-15
+Third	Elsbury, Mr. William James	Male	47	0	0	A/5 3902	7.25		Southampton		NA	Illinois, USA	Did not survive	1	45-60
+Third	Emanuel, Miss. Virginia Ethel	Female	5	0	0	364516	12.475		Southampton	13	NA	New York, NY	Survived	1	0-15
+Third	Emir, Mr. Farred Chehab	Male	NA	0	0	2631	7.225		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Everett, Mr. Thomas James	Male	40.5	0	0	C.A. 6212	15.1		Southampton		187		Did not survive	1	30-45
+Third	Farrell, Mr. James	Male	40.5	0	0	367232	7.75		Queenstown		68	Aughnacliff, Co Longford, Ireland New York, NY	Did not survive	1	30-45
+Third	Finoli, Mr. Luigi	Male	NA	0	0	SOTON/O.Q. 3101308	7.05		Southampton	15	NA	Italy Philadelphia, PA	Survived	1	No age recorded
+Third	Fischer, Mr. Eberhard Thelander	Male	18	0	0	350036	7.7958		Southampton		NA		Did not survive	1	15-30
+Third	Fleming, Miss. Honora	Female	NA	0	0	364859	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Flynn, Mr. James	Male	NA	0	0	364851	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Flynn, Mr. John	Male	NA	0	0	368323	6.95		Queenstown		NA		Did not survive	1	No age recorded
+Third	Foley, Mr. Joseph	Male	26	0	0	330910	7.8792		Queenstown		NA	Ireland Chicago, IL	Did not survive	1	15-30
+Third	Foley, Mr. William	Male	NA	0	0	365235	7.75		Queenstown		NA	Ireland	Did not survive	1	No age recorded
+Third	Foo, Mr. Choong	Male	NA	0	0	1601	56.4958		Southampton	13	NA	Hong Kong New York, NY	Survived	1	No age recorded
+Third	Ford, Miss. Doolina Margaret "Daisy"	Female	21	2	2	W./C. 6608	34.375		Southampton		NA	Rotherfield, Sussex, England Essex Co, MA	Did not survive	1	15-30
+Third	Ford, Miss. Robina Maggie "Ruby"	Female	9	2	2	W./C. 6608	34.375		Southampton		NA	Rotherfield, Sussex, England Essex Co, MA	Did not survive	1	0-15
+Third	Ford, Mr. Arthur	Male	NA	0	0	A/5 1478	8.05		Southampton		NA	Bridgwater, Somerset, England	Did not survive	1	No age recorded
+Third	Ford, Mr. Edward Watson	Male	18	2	2	W./C. 6608	34.375		Southampton		NA	Rotherfield, Sussex, England Essex Co, MA	Did not survive	1	15-30
+Third	Ford, Mr. William Neal	Male	16	1	3	W./C. 6608	34.375		Southampton		NA	Rotherfield, Sussex, England Essex Co, MA	Did not survive	1	15-30
+Third	Ford, Mrs. Edward (Margaret Ann Watson)	Female	48	1	3	W./C. 6608	34.375		Southampton		NA	Rotherfield, Sussex, England Essex Co, MA	Did not survive	1	45-60
+Third	Fox, Mr. Patrick	Male	NA	0	0	368573	7.75		Queenstown		NA	Ireland New York, NY	Did not survive	1	No age recorded
+Third	Franklin, Mr. Charles (Charles Fardon)	Male	NA	0	0	SOTON/O.Q. 3101314	7.25		Southampton		NA		Did not survive	1	No age recorded
+Third	Gallagher, Mr. Martin	Male	25	0	0	36864	7.7417		Queenstown		NA	New York, NY	Did not survive	1	15-30
+Third	Garfirth, Mr. John	Male	NA	0	0	358585	14.5		Southampton		NA		Did not survive	1	No age recorded
+Third	Gheorgheff, Mr. Stanio	Male	NA	0	0	349254	7.8958		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Gilinski, Mr. Eliezer	Male	22	0	0	14973	8.05		Southampton		47		Did not survive	1	15-30
+Third	Gilnagh, Miss. Katherine "Katie"	Female	16	0	0	35851	7.7333		Queenstown	16	NA	Co Longford, Ireland New York, NY	Survived	1	15-30
+Third	Glynn, Miss. Mary Agatha	Female	NA	0	0	335677	7.75		Queenstown	13	NA	Co Clare, Ireland Washington, DC	Survived	1	No age recorded
+Third	Goldsmith, Master. Frank John William "Frankie"	Male	9	0	2	363291	20.525		Southampton	C D	NA	Strood, Kent, England Detroit, MI	Survived	1	0-15
+Third	Goldsmith, Mr. Frank John	Male	33	1	1	363291	20.525		Southampton		NA	Strood, Kent, England Detroit, MI	Did not survive	1	30-45
+Third	Goldsmith, Mr. Nathan	Male	41	0	0	SOTON/O.Q. 3101263	7.85		Southampton		NA	Philadelphia, PA	Did not survive	1	30-45
+Third	Goldsmith, Mrs. Frank John (Emily Alice Brown)	Female	31	1	1	363291	20.525		Southampton	C D	NA	Strood, Kent, England Detroit, MI	Survived	1	30-45
+Third	Goncalves, Mr. Manuel Estanslas	Male	38	0	0	SOTON/O.Q. 3101306	7.05		Southampton		NA	Portugal	Did not survive	1	30-45
+Third	Goodwin, Master. Harold Victor	Male	9	5	2	CA 2144	46.9		Southampton		NA	Wiltshire, England Niagara Falls, NY	Did not survive	1	0-15
+Third	Goodwin, Master. Sidney Leonard	Male	1	5	2	CA 2144	46.9		Southampton		NA	Wiltshire, England Niagara Falls, NY	Did not survive	1	0-15
+Third	Goodwin, Master. William Frederick	Male	11	5	2	CA 2144	46.9		Southampton		NA	Wiltshire, England Niagara Falls, NY	Did not survive	1	0-15
+Third	Goodwin, Miss. Jessie Allis	Female	10	5	2	CA 2144	46.9		Southampton		NA	Wiltshire, England Niagara Falls, NY	Did not survive	1	0-15
+Third	Goodwin, Miss. Lillian Amy	Female	16	5	2	CA 2144	46.9		Southampton		NA	Wiltshire, England Niagara Falls, NY	Did not survive	1	15-30
+Third	Goodwin, Mr. Charles Edward	Male	14	5	2	CA 2144	46.9		Southampton		NA	Wiltshire, England Niagara Falls, NY	Did not survive	1	0-15
+Third	Goodwin, Mr. Charles Frederick	Male	40	1	6	CA 2144	46.9		Southampton		NA	Wiltshire, England Niagara Falls, NY	Did not survive	1	30-45
+Third	Goodwin, Mrs. Frederick (Augusta Tyler)	Female	43	1	6	CA 2144	46.9		Southampton		NA	Wiltshire, England Niagara Falls, NY	Did not survive	1	30-45
+Third	Green, Mr. George Henry	Male	51	0	0	21440	8.05		Southampton		NA	Dorking, Surrey, England	Did not survive	1	45-60
+Third	Gronnestad, Mr. Daniel Danielsen	Male	32	0	0	8471	8.3625		Southampton		NA	Foresvik, Norway Portland, ND	Did not survive	1	30-45
+Third	Guest, Mr. Robert	Male	NA	0	0	376563	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Gustafsson, Mr. Alfred Ossian	Male	20	0	0	7534	9.8458		Southampton		NA	Waukegan, Chicago, IL	Did not survive	1	15-30
+Third	Gustafsson, Mr. Anders Vilhelm	Male	37	2	0	3101276	7.925		Southampton		98	Ruotsinphytaa, Finland New York, NY	Did not survive	1	30-45
+Third	Gustafsson, Mr. Johan Birger	Male	28	2	0	3101277	7.925		Southampton		NA	Ruotsinphytaa, Finland New York, NY	Did not survive	1	15-30
+Third	Gustafsson, Mr. Karl Gideon	Male	19	0	0	347069	7.775		Southampton		NA	Myren, Sweden New York, NY	Did not survive	1	15-30
+Third	Haas, Miss. Aloisia	Female	24	0	0	349236	8.85		Southampton		NA		Did not survive	1	15-30
+Third	Hagardon, Miss. Kate	Female	17	0	0	AQ/3. 30631	7.7333		Queenstown		NA		Did not survive	1	15-30
+Third	Hagland, Mr. Ingvald Olai Olsen	Male	NA	1	0	65303	19.9667		Southampton		NA		Did not survive	1	No age recorded
+Third	Hagland, Mr. Konrad Mathias Reiersen	Male	NA	1	0	65304	19.9667		Southampton		NA		Did not survive	1	No age recorded
+Third	Hakkarainen, Mr. Pekka Pietari	Male	28	1	0	STON/O2. 3101279	15.85		Southampton		NA		Did not survive	1	15-30
+Third	Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)	Female	24	1	0	STON/O2. 3101279	15.85		Southampton	15	NA		Survived	1	15-30
+Third	Hampe, Mr. Leon	Male	20	0	0	345769	9.5		Southampton		NA		Did not survive	1	15-30
+Third	Hanna, Mr. Mansour	Male	23.5	0	0	2693	7.2292		Cherbourg		188		Did not survive	1	15-30
+Third	Hansen, Mr. Claus Peter	Male	41	2	0	350026	14.1083		Southampton		NA		Did not survive	1	30-45
+Third	Hansen, Mr. Henrik Juul	Male	26	1	0	350025	7.8542		Southampton		NA		Did not survive	1	15-30
+Third	Hansen, Mr. Henry Damsgaard	Male	21	0	0	350029	7.8542		Southampton		69		Did not survive	1	15-30
+Third	Hansen, Mrs. Claus Peter (Jennie L Howard)	Female	45	1	0	350026	14.1083		Southampton	11	NA		Survived	1	30-45
+Third	Harknett, Miss. Alice Phoebe	Female	NA	0	0	W./C. 6609	7.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Harmer, Mr. Abraham (David Lishin)	Male	25	0	0	374887	7.25		Southampton	B	NA		Did not survive	1	15-30
+Third	Hart, Mr. Henry	Male	NA	0	0	394140	6.8583		Queenstown		NA		Did not survive	1	No age recorded
+Third	Hassan, Mr. Houssein G N	Male	11	0	0	2699	18.7875		Cherbourg		NA		Did not survive	1	0-15
+Third	Healy, Miss. Hanora "Nora"	Female	NA	0	0	370375	7.75		Queenstown	16	NA		Survived	1	No age recorded
+Third	Hedman, Mr. Oskar Arvid	Male	27	0	0	347089	6.975		Southampton	15	NA		Survived	1	15-30
+Third	Hee, Mr. Ling	Male	NA	0	0	1601	56.4958		Southampton	C	NA		Survived	1	No age recorded
+Third	Hegarty, Miss. Hanora "Nora"	Female	18	0	0	365226	6.75		Queenstown		NA		Did not survive	1	15-30
+Third	Heikkinen, Miss. Laina	Female	26	0	0	STON/O2. 3101282	7.925		Southampton		NA		Survived	1	15-30
+Third	Heininen, Miss. Wendla Maria	Female	23	0	0	STON/O2. 3101290	7.925		Southampton		NA		Did not survive	1	15-30
+Third	Hellstrom, Miss. Hilda Maria	Female	22	0	0	7548	8.9625		Southampton	C	NA		Survived	1	15-30
+Third	Hendekovic, Mr. Ignjac	Male	28	0	0	349243	7.8958		Southampton		306		Did not survive	1	15-30
+Third	Henriksson, Miss. Jenny Lovisa	Female	28	0	0	347086	7.775		Southampton		NA		Did not survive	1	15-30
+Third	Henry, Miss. Delia	Female	NA	0	0	382649	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Hirvonen, Miss. Hildur E	Female	2	0	1	3101298	12.2875		Southampton	15	NA		Survived	1	0-15
+Third	Hirvonen, Mrs. Alexander (Helga E Lindqvist)	Female	22	1	1	3101298	12.2875		Southampton	15	NA		Survived	1	15-30
+Third	Holm, Mr. John Fredrik Alexander	Male	43	0	0	C 7075	6.45		Southampton		NA		Did not survive	1	30-45
+Third	Holthen, Mr. Johan Martin	Male	28	0	0	C 4001	22.525		Southampton		NA		Did not survive	1	15-30
+Third	Honkanen, Miss. Eliina	Female	27	0	0	STON/O2. 3101283	7.925		Southampton		NA		Survived	1	15-30
+Third	Horgan, Mr. John	Male	NA	0	0	370377	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Howard, Miss. May Elizabeth	Female	NA	0	0	A. 2. 39186	8.05		Southampton	C	NA		Survived	1	No age recorded
+Third	Humblen, Mr. Adolf Mathias Nicolai Olsen	Male	42	0	0	348121	7.65	F G63	Southampton		120		Did not survive	1	30-45
+Third	Hyman, Mr. Abraham	Male	NA	0	0	3470	7.8875		Southampton	C	NA		Survived	1	No age recorded
+Third	Ibrahim Shawah, Mr. Yousseff	Male	30	0	0	2685	7.2292		Cherbourg		NA		Did not survive	1	15-30
+Third	Ilieff, Mr. Ylio	Male	NA	0	0	349220	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Ilmakangas, Miss. Ida Livija	Female	27	1	0	STON/O2. 3101270	7.925		Southampton		NA		Did not survive	1	15-30
+Third	Ilmakangas, Miss. Pieta Sofia	Female	25	1	0	STON/O2. 3101271	7.925		Southampton		NA		Did not survive	1	15-30
+Third	Ivanoff, Mr. Kanio	Male	NA	0	0	349201	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Jalsevac, Mr. Ivan	Male	29	0	0	349240	7.8958		Cherbourg	15	NA		Survived	1	15-30
+Third	Jansson, Mr. Carl Olof	Male	21	0	0	350034	7.7958		Southampton	A	NA		Survived	1	15-30
+Third	Jardin, Mr. Jose Neto	Male	NA	0	0	SOTON/O.Q. 3101305	7.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Jensen, Mr. Hans Peder	Male	20	0	0	350050	7.8542		Southampton		NA		Did not survive	1	15-30
+Third	Jensen, Mr. Niels Peder	Male	48	0	0	350047	7.8542		Southampton		NA		Did not survive	1	45-60
+Third	Jensen, Mr. Svend Lauritz	Male	17	1	0	350048	7.0542		Southampton		NA		Did not survive	1	15-30
+Third	Jermyn, Miss. Annie	Female	NA	0	0	14313	7.75		Queenstown	D	NA		Survived	1	No age recorded
+Third	Johannesen-Bratthammer, Mr. Bernt	Male	NA	0	0	65306	8.1125		Southampton	13	NA		Survived	1	No age recorded
+Third	Johanson, Mr. Jakob Alfred	Male	34	0	0	3101264	6.4958		Southampton		143		Did not survive	1	30-45
+Third	Johansson Palmquist, Mr. Oskar Leander	Male	26	0	0	347070	7.775		Southampton	15	NA		Survived	1	15-30
+Third	Johansson, Mr. Erik	Male	22	0	0	350052	7.7958		Southampton		156		Did not survive	1	15-30
+Third	Johansson, Mr. Gustaf Joel	Male	33	0	0	7540	8.6542		Southampton		285		Did not survive	1	30-45
+Third	Johansson, Mr. Karl Johan	Male	31	0	0	347063	7.775		Southampton		NA		Did not survive	1	30-45
+Third	Johansson, Mr. Nils	Male	29	0	0	347467	7.8542		Southampton		NA		Did not survive	1	15-30
+Third	Johnson, Master. Harold Theodor	Male	4	1	1	347742	11.1333		Southampton	15	NA		Survived	1	0-15
+Third	Johnson, Miss. Eleanor Ileen	Female	1	1	1	347742	11.1333		Southampton	15	NA		Survived	1	0-15
+Third	Johnson, Mr. Alfred	Male	49	0	0	LINE	0		Southampton		NA		Did not survive	1	45-60
+Third	Johnson, Mr. Malkolm Joackim	Male	33	0	0	347062	7.775		Southampton		37		Did not survive	1	30-45
+Third	Johnson, Mr. William Cahoone Jr	Male	19	0	0	LINE	0		Southampton		NA		Did not survive	1	15-30
+Third	Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)	Female	27	0	2	347742	11.1333		Southampton	15	NA		Survived	1	15-30
+Third	Johnston, Master. William Arthur "Willie"	Male	NA	1	2	W./C. 6607	23.45		Southampton		NA		Did not survive	1	No age recorded
+Third	Johnston, Miss. Catherine Helen "Carrie"	Female	NA	1	2	W./C. 6607	23.45		Southampton		NA		Did not survive	1	No age recorded
+Third	Johnston, Mr. Andrew G	Male	NA	1	2	W./C. 6607	23.45		Southampton		NA		Did not survive	1	No age recorded
+Third	Johnston, Mrs. Andrew G (Elizabeth "Lily" Watson)	Female	NA	1	2	W./C. 6607	23.45		Southampton		NA		Did not survive	1	No age recorded
+Third	Jonkoff, Mr. Lalio	Male	23	0	0	349204	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Jonsson, Mr. Carl	Male	32	0	0	350417	7.8542		Southampton	15	NA		Survived	1	30-45
+Third	Jonsson, Mr. Nils Hilding	Male	27	0	0	350408	7.8542		Southampton		NA		Did not survive	1	15-30
+Third	Jussila, Miss. Katriina	Female	20	1	0	4136	9.825		Southampton		NA		Did not survive	1	15-30
+Third	Jussila, Miss. Mari Aina	Female	21	1	0	4137	9.825		Southampton		NA		Did not survive	1	15-30
+Third	Jussila, Mr. Eiriik	Male	32	0	0	STON/O 2. 3101286	7.925		Southampton	15	NA		Survived	1	30-45
+Third	Kallio, Mr. Nikolai Erland	Male	17	0	0	STON/O 2. 3101274	7.125		Southampton		NA		Did not survive	1	15-30
+Third	Kalvik, Mr. Johannes Halvorsen	Male	21	0	0	8475	8.4333		Southampton		NA		Did not survive	1	15-30
+Third	Karaic, Mr. Milan	Male	30	0	0	349246	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Karlsson, Mr. Einar Gervasius	Male	21	0	0	350053	7.7958		Southampton	13	NA		Survived	1	15-30
+Third	Karlsson, Mr. Julius Konrad Eugen	Male	33	0	0	347465	7.8542		Southampton		NA		Did not survive	1	30-45
+Third	Karlsson, Mr. Nils August	Male	22	0	0	350060	7.5208		Southampton		NA		Did not survive	1	15-30
+Third	Karun, Miss. Manca	Female	4	0	1	349256	13.4167		Cherbourg	15	NA		Survived	1	0-15
+Third	Karun, Mr. Franz	Male	39	0	1	349256	13.4167		Cherbourg	15	NA		Survived	1	30-45
+Third	Kassem, Mr. Fared	Male	NA	0	0	2700	7.2292		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Katavelas, Mr. Vassilios ("Catavelas Vassilios")	Male	18.5	0	0	2682	7.2292		Cherbourg		58		Did not survive	1	15-30
+Third	Keane, Mr. Andrew "Andy"	Male	NA	0	0	12460	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Keefe, Mr. Arthur	Male	NA	0	0	323592	7.25		Southampton	A	NA		Did not survive	1	No age recorded
+Third	Kelly, Miss. Anna Katherine "Annie Kate"	Female	NA	0	0	9234	7.75		Queenstown	16	NA		Survived	1	No age recorded
+Third	Kelly, Miss. Mary	Female	NA	0	0	14312	7.75		Queenstown	D	NA		Survived	1	No age recorded
+Third	Kelly, Mr. James	Male	34.5	0	0	330911	7.8292		Queenstown		70		Did not survive	1	30-45
+Third	Kelly, Mr. James	Male	44	0	0	363592	8.05		Southampton		NA		Did not survive	1	30-45
+Third	Kennedy, Mr. John	Male	NA	0	0	368783	7.75		Queenstown		NA		Survived	1	No age recorded
+Third	Khalil, Mr. Betros	Male	NA	1	0	2660	14.4542		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Khalil, Mrs. Betros (Zahie "Maria" Elias)	Female	NA	1	0	2660	14.4542		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Kiernan, Mr. John	Male	NA	1	0	367227	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Kiernan, Mr. Philip	Male	NA	1	0	367229	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Kilgannon, Mr. Thomas J	Male	NA	0	0	36865	7.7375		Queenstown		NA		Did not survive	1	No age recorded
+Third	Kink, Miss. Maria	Female	22	2	0	315152	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Kink, Mr. Vincenz	Male	26	2	0	315151	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Kink-Heilmann, Miss. Luise Gretchen	Female	4	0	2	315153	22.025		Southampton	2	NA		Survived	1	0-15
+Third	Kink-Heilmann, Mr. Anton	Male	29	3	1	315153	22.025		Southampton	2	NA		Survived	1	15-30
+Third	Kink-Heilmann, Mrs. Anton (Luise Heilmann)	Female	26	1	1	315153	22.025		Southampton	2	NA		Survived	1	15-30
+Third	Klasen, Miss. Gertrud Emilia	Female	1	1	1	350405	12.1833		Southampton		NA		Did not survive	1	0-15
+Third	Klasen, Mr. Klas Albin	Male	18	1	1	350404	7.8542		Southampton		NA		Did not survive	1	15-30
+Third	Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)	Female	36	0	2	350405	12.1833		Southampton		NA		Did not survive	1	30-45
+Third	Kraeff, Mr. Theodor	Male	NA	0	0	349253	7.8958		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Krekorian, Mr. Neshan	Male	25	0	0	2654	7.2292	F E57	Cherbourg	10	NA		Survived	1	15-30
+Third	Lahoud, Mr. Sarkis	Male	NA	0	0	2624	7.225		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Laitinen, Miss. Kristina Sofia	Female	37	0	0	4135	9.5875		Southampton		NA		Did not survive	1	30-45
+Third	Laleff, Mr. Kristo	Male	NA	0	0	349217	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Lam, Mr. Ali	Male	NA	0	0	1601	56.4958		Southampton	C	NA		Survived	1	No age recorded
+Third	Lam, Mr. Len	Male	NA	0	0	1601	56.4958		Southampton		NA		Did not survive	1	No age recorded
+Third	Landergren, Miss. Aurora Adelia	Female	22	0	0	C 7077	7.25		Southampton	13	NA		Survived	1	15-30
+Third	Lane, Mr. Patrick	Male	NA	0	0	7935	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Lang, Mr. Fang	Male	26	0	0	1601	56.4958		Southampton	14	NA		Survived	1	15-30
+Third	Larsson, Mr. August Viktor	Male	29	0	0	7545	9.4833		Southampton		NA		Did not survive	1	15-30
+Third	Larsson, Mr. Bengt Edvin	Male	29	0	0	347067	7.775		Southampton		NA		Did not survive	1	15-30
+Third	Larsson-Rondberg, Mr. Edvard A	Male	22	0	0	347065	7.775		Southampton		NA		Did not survive	1	15-30
+Third	Leeni, Mr. Fahim ("Philip Zenni")	Male	22	0	0	2620	7.225		Cherbourg	6	NA		Survived	1	15-30
+Third	Lefebre, Master. Henry Forbes	Male	NA	3	1	4133	25.4667		Southampton		NA		Did not survive	1	No age recorded
+Third	Lefebre, Miss. Ida	Female	NA	3	1	4133	25.4667		Southampton		NA		Did not survive	1	No age recorded
+Third	Lefebre, Miss. Jeannie	Female	NA	3	1	4133	25.4667		Southampton		NA		Did not survive	1	No age recorded
+Third	Lefebre, Miss. Mathilde	Female	NA	3	1	4133	25.4667		Southampton		NA		Did not survive	1	No age recorded
+Third	Lefebre, Mrs. Frank (Frances)	Female	NA	0	4	4133	25.4667		Southampton		NA		Did not survive	1	No age recorded
+Third	Leinonen, Mr. Antti Gustaf	Male	32	0	0	STON/O 2. 3101292	7.925		Southampton		NA		Did not survive	1	30-45
+Third	Lemberopolous, Mr. Peter L	Male	34.5	0	0	2683	6.4375		Cherbourg		196		Did not survive	1	30-45
+Third	Lennon, Miss. Mary	Female	NA	1	0	370371	15.5		Queenstown		NA		Did not survive	1	No age recorded
+Third	Lennon, Mr. Denis	Male	NA	1	0	370371	15.5		Queenstown		NA		Did not survive	1	No age recorded
+Third	Leonard, Mr. Lionel	Male	36	0	0	LINE	0		Southampton		NA		Did not survive	1	30-45
+Third	Lester, Mr. James	Male	39	0	0	A/4 48871	24.15		Southampton		NA		Did not survive	1	30-45
+Third	Lievens, Mr. Rene Aime	Male	24	0	0	345781	9.5		Southampton		NA		Did not survive	1	15-30
+Third	Lindahl, Miss. Agda Thorilda Viktoria	Female	25	0	0	347071	7.775		Southampton		NA		Did not survive	1	15-30
+Third	Lindblom, Miss. Augusta Charlotta	Female	45	0	0	347073	7.75		Southampton		NA		Did not survive	1	30-45
+Third	Lindell, Mr. Edvard Bengtsson	Male	36	1	0	349910	15.55		Southampton	A	NA		Did not survive	1	30-45
+Third	Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)	Female	30	1	0	349910	15.55		Southampton	A	NA		Did not survive	1	15-30
+Third	Lindqvist, Mr. Eino William	Male	20	1	0	STON/O 2. 3101285	7.925		Southampton	15	NA		Survived	1	15-30
+Third	Linehan, Mr. Michael	Male	NA	0	0	330971	7.8792		Queenstown		NA		Did not survive	1	No age recorded
+Third	Ling, Mr. Lee	Male	28	0	0	1601	56.4958		Southampton		NA		Did not survive	1	15-30
+Third	Lithman, Mr. Simon	Male	NA	0	0	S.O./P.P. 251	7.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Lobb, Mr. William Arthur	Male	30	1	0	A/5. 3336	16.1		Southampton		NA		Did not survive	1	15-30
+Third	Lobb, Mrs. William Arthur (Cordelia K Stanlick)	Female	26	1	0	A/5. 3336	16.1		Southampton		NA		Did not survive	1	15-30
+Third	Lockyer, Mr. Edward	Male	NA	0	0	1222	7.8792		Southampton		153		Did not survive	1	No age recorded
+Third	Lovell, Mr. John Hall ("Henry")	Male	20.5	0	0	A/5 21173	7.25		Southampton		NA		Did not survive	1	15-30
+Third	Lulic, Mr. Nikola	Male	27	0	0	315098	8.6625		Southampton	15	NA		Survived	1	15-30
+Third	Lundahl, Mr. Johan Svensson	Male	51	0	0	347743	7.0542		Southampton		NA		Did not survive	1	45-60
+Third	Lundin, Miss. Olga Elida	Female	23	0	0	347469	7.8542		Southampton	10	NA		Survived	1	15-30
+Third	Lundstrom, Mr. Thure Edvin	Male	32	0	0	350403	7.5792		Southampton	15	NA		Survived	1	30-45
+Third	Lyntakoff, Mr. Stanko	Male	NA	0	0	349235	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	MacKay, Mr. George William	Male	NA	0	0	C.A. 42795	7.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Madigan, Miss. Margaret "Maggie"	Female	NA	0	0	370370	7.75		Queenstown	15	NA		Survived	1	No age recorded
+Third	Madsen, Mr. Fridtjof Arne	Male	24	0	0	C 17369	7.1417		Southampton	13	NA		Survived	1	15-30
+Third	Maenpaa, Mr. Matti Alexanteri	Male	22	0	0	STON/O 2. 3101275	7.125		Southampton		NA		Did not survive	1	15-30
+Third	Mahon, Miss. Bridget Delia	Female	NA	0	0	330924	7.8792		Queenstown		NA		Did not survive	1	No age recorded
+Third	Mahon, Mr. John	Male	NA	0	0	AQ/4 3130	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Maisner, Mr. Simon	Male	NA	0	0	A/S 2816	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Makinen, Mr. Kalle Edvard	Male	29	0	0	STON/O 2. 3101268	7.925		Southampton		NA		Did not survive	1	15-30
+Third	Mamee, Mr. Hanna	Male	NA	0	0	2677	7.2292		Cherbourg	15	NA		Survived	1	No age recorded
+Third	Mangan, Miss. Mary	Female	30.5	0	0	364850	7.75		Queenstown		61		Did not survive	1	30-45
+Third	Mannion, Miss. Margareth	Female	NA	0	0	36866	7.7375		Queenstown	16	NA		Survived	1	No age recorded
+Third	Mardirosian, Mr. Sarkis	Male	NA	0	0	2655	7.2292	F E46	Cherbourg		NA		Did not survive	1	No age recorded
+Third	Markoff, Mr. Marin	Male	35	0	0	349213	7.8958		Cherbourg		NA		Did not survive	1	30-45
+Third	Markun, Mr. Johann	Male	33	0	0	349257	7.8958		Southampton		NA		Did not survive	1	30-45
+Third	Masselmani, Mrs. Fatima	Female	NA	0	0	2649	7.225		Cherbourg	C	NA		Survived	1	No age recorded
+Third	Matinoff, Mr. Nicola	Male	NA	0	0	349255	7.8958		Cherbourg		NA		Did not survive	1	No age recorded
+Third	McCarthy, Miss. Catherine "Katie"	Female	NA	0	0	383123	7.75		Queenstown	15 16	NA		Survived	1	No age recorded
+Third	McCormack, Mr. Thomas Joseph	Male	NA	0	0	367228	7.75		Queenstown		NA		Survived	1	No age recorded
+Third	McCoy, Miss. Agnes	Female	NA	2	0	367226	23.25		Queenstown	16	NA		Survived	1	No age recorded
+Third	McCoy, Miss. Alicia	Female	NA	2	0	367226	23.25		Queenstown	16	NA		Survived	1	No age recorded
+Third	McCoy, Mr. Bernard	Male	NA	2	0	367226	23.25		Queenstown	16	NA		Survived	1	No age recorded
+Third	McDermott, Miss. Brigdet Delia	Female	NA	0	0	330932	7.7875		Queenstown	13	NA		Survived	1	No age recorded
+Third	McEvoy, Mr. Michael	Male	NA	0	0	36568	15.5		Queenstown		NA		Did not survive	1	No age recorded
+Third	McGovern, Miss. Mary	Female	NA	0	0	330931	7.8792		Queenstown	13	NA		Survived	1	No age recorded
+Third	McGowan, Miss. Anna "Annie"	Female	15	0	0	330923	8.0292		Queenstown		NA		Survived	1	0-15
+Third	McGowan, Miss. Katherine	Female	35	0	0	9232	7.75		Queenstown		NA		Did not survive	1	30-45
+Third	McMahon, Mr. Martin	Male	NA	0	0	370372	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	McNamee, Mr. Neal	Male	24	1	0	376566	16.1		Southampton		NA		Did not survive	1	15-30
+Third	McNamee, Mrs. Neal (Eileen O'Leary)	Female	19	1	0	376566	16.1		Southampton		53		Did not survive	1	15-30
+Third	McNeill, Miss. Bridget	Female	NA	0	0	370368	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Meanwell, Miss. (Marion Ogden)	Female	NA	0	0	SOTON/O.Q. 392087	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Meek, Mrs. Thomas (Annie Louise Rowley)	Female	NA	0	0	343095	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Meo, Mr. Alfonzo	Male	55.5	0	0	A.5. 11206	8.05		Southampton		201		Did not survive	1	45-60
+Third	Mernagh, Mr. Robert	Male	NA	0	0	368703	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Midtsjo, Mr. Karl Albert	Male	21	0	0	345501	7.775		Southampton	15	NA		Survived	1	15-30
+Third	Miles, Mr. Frank	Male	NA	0	0	359306	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Mineff, Mr. Ivan	Male	24	0	0	349233	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Minkoff, Mr. Lazar	Male	21	0	0	349211	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Mionoff, Mr. Stoytcho	Male	28	0	0	349207	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Mitkoff, Mr. Mito	Male	NA	0	0	349221	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Mockler, Miss. Helen Mary "Ellie"	Female	NA	0	0	330980	7.8792		Queenstown	16	NA		Survived	1	No age recorded
+Third	Moen, Mr. Sigurd Hansen	Male	25	0	0	348123	7.65	F G73	Southampton		309		Did not survive	1	15-30
+Third	Moor, Master. Meier	Male	6	0	1	392096	12.475	E121	Southampton	14	NA		Survived	1	0-15
+Third	Moor, Mrs. (Beila)	Female	27	0	1	392096	12.475	E121	Southampton	14	NA		Survived	1	15-30
+Third	Moore, Mr. Leonard Charles	Male	NA	0	0	A4. 54510	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Moran, Miss. Bertha	Female	NA	1	0	371110	24.15		Queenstown	16	NA		Survived	1	No age recorded
+Third	Moran, Mr. Daniel J	Male	NA	1	0	371110	24.15		Queenstown		NA		Did not survive	1	No age recorded
+Third	Moran, Mr. James	Male	NA	0	0	330877	8.4583		Queenstown		NA		Did not survive	1	No age recorded
+Third	Morley, Mr. William	Male	34	0	0	364506	8.05		Southampton		NA		Did not survive	1	30-45
+Third	Morrow, Mr. Thomas Rowan	Male	NA	0	0	372622	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Moss, Mr. Albert Johan	Male	NA	0	0	312991	7.775		Southampton	B	NA		Survived	1	No age recorded
+Third	Moubarek, Master. Gerios	Male	NA	1	1	2661	15.2458		Cherbourg	C	NA		Survived	1	No age recorded
+Third	Moubarek, Master. Halim Gonios ("William George")	Male	NA	1	1	2661	15.2458		Cherbourg	C	NA		Survived	1	No age recorded
+Third	Moubarek, Mrs. George (Omine "Amenia" Alexander)	Female	NA	0	2	2661	15.2458		Cherbourg	C	NA		Survived	1	No age recorded
+Third	Moussa, Mrs. (Mantoura Boulos)	Female	NA	0	0	2626	7.2292		Cherbourg		NA		Survived	1	No age recorded
+Third	Moutal, Mr. Rahamin Haim	Male	NA	0	0	374746	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Mullens, Miss. Katherine "Katie"	Female	NA	0	0	35852	7.7333		Queenstown	16	NA		Survived	1	No age recorded
+Third	Mulvihill, Miss. Bertha E	Female	24	0	0	382653	7.75		Queenstown	15	NA		Survived	1	15-30
+Third	Murdlin, Mr. Joseph	Male	NA	0	0	A./5. 3235	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Murphy, Miss. Katherine "Kate"	Female	NA	1	0	367230	15.5		Queenstown	16	NA		Survived	1	No age recorded
+Third	Murphy, Miss. Margaret Jane	Female	NA	1	0	367230	15.5		Queenstown	16	NA		Survived	1	No age recorded
+Third	Murphy, Miss. Nora	Female	NA	0	0	36568	15.5		Queenstown	16	NA		Survived	1	No age recorded
+Third	Myhrman, Mr. Pehr Fabian Oliver Malkolm	Male	18	0	0	347078	7.75		Southampton		NA		Did not survive	1	15-30
+Third	Naidenoff, Mr. Penko	Male	22	0	0	349206	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Najib, Miss. Adele Kiamie "Jane"	Female	15	0	0	2667	7.225		Cherbourg	C	NA		Survived	1	0-15
+Third	Nakid, Miss. Maria ("Mary")	Female	1	0	2	2653	15.7417		Cherbourg	C	NA		Survived	1	0-15
+Third	Nakid, Mr. Sahid	Male	20	1	1	2653	15.7417		Cherbourg	C	NA		Survived	1	15-30
+Third	Nakid, Mrs. Said (Waika "Mary" Mowad)	Female	19	1	1	2653	15.7417		Cherbourg	C	NA		Survived	1	15-30
+Third	Nancarrow, Mr. William Henry	Male	33	0	0	A./5. 3338	8.05		Southampton		NA		Did not survive	1	30-45
+Third	Nankoff, Mr. Minko	Male	NA	0	0	349218	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Nasr, Mr. Mustafa	Male	NA	0	0	2652	7.2292		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Naughton, Miss. Hannah	Female	NA	0	0	365237	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Nenkoff, Mr. Christo	Male	NA	0	0	349234	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Nicola-Yarred, Master. Elias	Male	12	1	0	2651	11.2417		Cherbourg	C	NA		Survived	1	0-15
+Third	Nicola-Yarred, Miss. Jamila	Female	14	1	0	2651	11.2417		Cherbourg	C	NA		Survived	1	0-15
+Third	Nieminen, Miss. Manta Josefina	Female	29	0	0	3101297	7.925		Southampton		NA		Did not survive	1	15-30
+Third	Niklasson, Mr. Samuel	Male	28	0	0	363611	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Nilsson, Miss. Berta Olivia	Female	18	0	0	347066	7.775		Southampton	D	NA		Survived	1	15-30
+Third	Nilsson, Miss. Helmina Josefina	Female	26	0	0	347470	7.8542		Southampton	13	NA		Survived	1	15-30
+Third	Nilsson, Mr. August Ferdinand	Male	21	0	0	350410	7.8542		Southampton		NA		Did not survive	1	15-30
+Third	Nirva, Mr. Iisakki Antino Aijo	Male	41	0	0	SOTON/O2 3101272	7.125		Southampton		NA	Finland Sudbury, ON	Did not survive	1	30-45
+Third	Niskanen, Mr. Juha	Male	39	0	0	STON/O 2. 3101289	7.925		Southampton	9	NA		Survived	1	30-45
+Third	Nosworthy, Mr. Richard Cater	Male	21	0	0	A/4. 39886	7.8		Southampton		NA		Did not survive	1	15-30
+Third	Novel, Mr. Mansouer	Male	28.5	0	0	2697	7.2292		Cherbourg		181		Did not survive	1	15-30
+Third	Nysten, Miss. Anna Sofia	Female	22	0	0	347081	7.75		Southampton	13	NA		Survived	1	15-30
+Third	Nysveen, Mr. Johan Hansen	Male	61	0	0	345364	6.2375		Southampton		NA		Did not survive	1	over 60
+Third	O'Brien, Mr. Thomas	Male	NA	1	0	370365	15.5		Queenstown		NA		Did not survive	1	No age recorded
+Third	O'Brien, Mr. Timothy	Male	NA	0	0	330979	7.8292		Queenstown		NA		Did not survive	1	No age recorded
+Third	O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey)	Female	NA	1	0	370365	15.5		Queenstown		NA		Survived	1	No age recorded
+Third	O'Connell, Mr. Patrick D	Male	NA	0	0	334912	7.7333		Queenstown		NA		Did not survive	1	No age recorded
+Third	O'Connor, Mr. Maurice	Male	NA	0	0	371060	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	O'Connor, Mr. Patrick	Male	NA	0	0	366713	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Odahl, Mr. Nils Martin	Male	23	0	0	7267	9.225		Southampton		NA		Did not survive	1	15-30
+Third	O'Donoghue, Ms. Bridget	Female	NA	0	0	364856	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	O'Driscoll, Miss. Bridget	Female	NA	0	0	14311	7.75		Queenstown	D	NA		Survived	1	No age recorded
+Third	O'Dwyer, Miss. Ellen "Nellie"	Female	NA	0	0	330959	7.8792		Queenstown		NA		Survived	1	No age recorded
+Third	Ohman, Miss. Velin	Female	22	0	0	347085	7.775		Southampton	C	NA		Survived	1	15-30
+Third	O'Keefe, Mr. Patrick	Male	NA	0	0	368402	7.75		Queenstown	B	NA		Survived	1	No age recorded
+Third	O'Leary, Miss. Hanora "Norah"	Female	NA	0	0	330919	7.8292		Queenstown	13	NA		Survived	1	No age recorded
+Third	Olsen, Master. Artur Karl	Male	9	0	1	C 17368	3.1708		Southampton	13	NA		Survived	1	0-15
+Third	Olsen, Mr. Henry Margido	Male	28	0	0	C 4001	22.525		Southampton		173		Did not survive	1	15-30
+Third	Olsen, Mr. Karl Siegwart Andreas	Male	42	0	1	4579	8.4042		Southampton		NA		Did not survive	1	30-45
+Third	Olsen, Mr. Ole Martin	Male	NA	0	0	Fa 265302	7.3125		Southampton		NA		Did not survive	1	No age recorded
+Third	Olsson, Miss. Elina	Female	31	0	0	350407	7.8542		Southampton		NA		Did not survive	1	30-45
+Third	Olsson, Mr. Nils Johan Goransson	Male	28	0	0	347464	7.8542		Southampton		NA		Did not survive	1	15-30
+Third	Olsson, Mr. Oscar Wilhelm	Male	32	0	0	347079	7.775		Southampton	A	NA		Survived	1	30-45
+Third	Olsvigen, Mr. Thor Anderson	Male	20	0	0	6563	9.225		Southampton		89	Oslo, Norway Cameron, WI	Did not survive	1	15-30
+Third	Oreskovic, Miss. Jelka	Female	23	0	0	315085	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Oreskovic, Miss. Marija	Female	20	0	0	315096	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Oreskovic, Mr. Luka	Male	20	0	0	315094	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Osen, Mr. Olaf Elon	Male	16	0	0	7534	9.2167		Southampton		NA		Did not survive	1	15-30
+Third	Osman, Mrs. Mara	Female	31	0	0	349244	8.6833		Southampton		NA		Survived	1	30-45
+Third	O'Sullivan, Miss. Bridget Mary	Female	NA	0	0	330909	7.6292		Queenstown		NA		Did not survive	1	No age recorded
+Third	Palsson, Master. Gosta Leonard	Male	2	3	1	349909	21.075		Southampton		4		Did not survive	1	0-15
+Third	Palsson, Master. Paul Folke	Male	6	3	1	349909	21.075		Southampton		NA		Did not survive	1	0-15
+Third	Palsson, Miss. Stina Viola	Female	3	3	1	349909	21.075		Southampton		NA		Did not survive	1	0-15
+Third	Palsson, Miss. Torborg Danira	Female	8	3	1	349909	21.075		Southampton		NA		Did not survive	1	0-15
+Third	Palsson, Mrs. Nils (Alma Cornelia Berglund)	Female	29	0	4	349909	21.075		Southampton		206		Did not survive	1	15-30
+Third	Panula, Master. Eino Viljami	Male	1	4	1	3101295	39.6875		Southampton		NA		Did not survive	1	0-15
+Third	Panula, Master. Juha Niilo	Male	7	4	1	3101295	39.6875		Southampton		NA		Did not survive	1	0-15
+Third	Panula, Master. Urho Abraham	Male	2	4	1	3101295	39.6875		Southampton		NA		Did not survive	1	0-15
+Third	Panula, Mr. Ernesti Arvid	Male	16	4	1	3101295	39.6875		Southampton		NA		Did not survive	1	15-30
+Third	Panula, Mr. Jaako Arnold	Male	14	4	1	3101295	39.6875		Southampton		NA		Did not survive	1	0-15
+Third	Panula, Mrs. Juha (Maria Emilia Ojala)	Female	41	0	5	3101295	39.6875		Southampton		NA		Did not survive	1	30-45
+Third	Pasic, Mr. Jakob	Male	21	0	0	315097	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Patchett, Mr. George	Male	19	0	0	358585	14.5		Southampton		NA		Did not survive	1	15-30
+Third	Paulner, Mr. Uscher	Male	NA	0	0	3411	8.7125		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Pavlovic, Mr. Stefo	Male	32	0	0	349242	7.8958		Southampton		NA		Did not survive	1	30-45
+Third	Peacock, Master. Alfred Edward	Male	0.75	1	1	SOTON/O.Q. 3101315	13.775		Southampton		NA		Did not survive	1	0-15
+Third	Peacock, Miss. Treasteall	Female	3	1	1	SOTON/O.Q. 3101315	13.775		Southampton		NA		Did not survive	1	0-15
+Third	Peacock, Mrs. Benjamin (Edith Nile)	Female	26	0	2	SOTON/O.Q. 3101315	13.775		Southampton		NA		Did not survive	1	15-30
+Third	Pearce, Mr. Ernest	Male	NA	0	0	343271	7		Southampton		NA		Did not survive	1	No age recorded
+Third	Pedersen, Mr. Olaf	Male	NA	0	0	345498	7.775		Southampton		NA		Did not survive	1	No age recorded
+Third	Peduzzi, Mr. Joseph	Male	NA	0	0	A/5 2817	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Pekoniemi, Mr. Edvard	Male	21	0	0	STON/O 2. 3101294	7.925		Southampton		NA		Did not survive	1	15-30
+Third	Peltomaki, Mr. Nikolai Johannes	Male	25	0	0	STON/O 2. 3101291	7.925		Southampton		NA		Did not survive	1	15-30
+Third	Perkin, Mr. John Henry	Male	22	0	0	A/5 21174	7.25		Southampton		NA		Did not survive	1	15-30
+Third	Persson, Mr. Ernst Ulrik	Male	25	1	0	347083	7.775		Southampton	15	NA		Survived	1	15-30
+Third	Peter, Master. Michael J	Male	NA	1	1	2668	22.3583		Cherbourg	C	NA		Survived	1	No age recorded
+Third	Peter, Miss. Anna	Female	NA	1	1	2668	22.3583	F E69	Cherbourg	D	NA		Survived	1	No age recorded
+Third	Peter, Mrs. Catherine (Catherine Rizk)	Female	NA	0	2	2668	22.3583		Cherbourg	D	NA		Survived	1	No age recorded
+Third	Peters, Miss. Katie	Female	NA	0	0	330935	8.1375		Queenstown		NA		Did not survive	1	No age recorded
+Third	Petersen, Mr. Marius	Male	24	0	0	342441	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Petranec, Miss. Matilda	Female	28	0	0	349245	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Petroff, Mr. Nedelio	Male	19	0	0	349212	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Petroff, Mr. Pastcho ("Pentcho")	Male	NA	0	0	349215	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Petterson, Mr. Johan Emil	Male	25	1	0	347076	7.775		Southampton		NA		Did not survive	1	15-30
+Third	Pettersson, Miss. Ellen Natalia	Female	18	0	0	347087	7.775		Southampton		NA		Did not survive	1	15-30
+Third	Pickard, Mr. Berk (Berk Trembisky)	Male	32	0	0	SOTON/O.Q. 392078	8.05	E10	Southampton	9	NA		Survived	1	30-45
+Third	Plotcharsky, Mr. Vasil	Male	NA	0	0	349227	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Pokrnic, Mr. Mate	Male	17	0	0	315095	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Pokrnic, Mr. Tome	Male	24	0	0	315092	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Radeff, Mr. Alexander	Male	NA	0	0	349223	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Rasmussen, Mrs. (Lena Jacobsen Solvang)	Female	NA	0	0	65305	8.1125		Southampton		NA		Did not survive	1	No age recorded
+Third	Razi, Mr. Raihed	Male	NA	0	0	2629	7.2292		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Reed, Mr. James George	Male	NA	0	0	362316	7.25		Southampton		NA		Did not survive	1	No age recorded
+Third	Rekic, Mr. Tido	Male	38	0	0	349249	7.8958		Southampton		NA		Did not survive	1	30-45
+Third	Reynolds, Mr. Harold J	Male	21	0	0	342684	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Rice, Master. Albert	Male	10	4	1	382652	29.125		Queenstown		NA		Did not survive	1	0-15
+Third	Rice, Master. Arthur	Male	4	4	1	382652	29.125		Queenstown		NA		Did not survive	1	0-15
+Third	Rice, Master. Eric	Male	7	4	1	382652	29.125		Queenstown		NA		Did not survive	1	0-15
+Third	Rice, Master. Eugene	Male	2	4	1	382652	29.125		Queenstown		NA		Did not survive	1	0-15
+Third	Rice, Master. George Hugh	Male	8	4	1	382652	29.125		Queenstown		NA		Did not survive	1	0-15
+Third	Rice, Mrs. William (Margaret Norton)	Female	39	0	5	382652	29.125		Queenstown		327		Did not survive	1	30-45
+Third	Riihivouri, Miss. Susanna Juhantytar "Sanni"	Female	22	0	0	3101295	39.6875		Southampton		NA		Did not survive	1	15-30
+Third	Rintamaki, Mr. Matti	Male	35	0	0	STON/O 2. 3101273	7.125		Southampton		NA		Did not survive	1	30-45
+Third	Riordan, Miss. Johanna "Hannah"	Female	NA	0	0	334915	7.7208		Queenstown	13	NA		Survived	1	No age recorded
+Third	Risien, Mr. Samuel Beard	Male	NA	0	0	364498	14.5		Southampton		NA		Did not survive	1	No age recorded
+Third	Risien, Mrs. Samuel (Emma)	Female	NA	0	0	364498	14.5		Southampton		NA		Did not survive	1	No age recorded
+Third	Robins, Mr. Alexander A	Male	50	1	0	A/5. 3337	14.5		Southampton		119		Did not survive	1	45-60
+Third	Robins, Mrs. Alexander A (Grace Charity Laury)	Female	47	1	0	A/5. 3337	14.5		Southampton		7		Did not survive	1	45-60
+Third	Rogers, Mr. William John	Male	NA	0	0	S.C./A.4. 23567	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Rommetvedt, Mr. Knud Paust	Male	NA	0	0	312993	7.775		Southampton		NA		Did not survive	1	No age recorded
+Third	Rosblom, Miss. Salli Helena	Female	2	1	1	370129	20.2125		Southampton		NA		Did not survive	1	0-15
+Third	Rosblom, Mr. Viktor Richard	Male	18	1	1	370129	20.2125		Southampton		NA		Did not survive	1	15-30
+Third	Rosblom, Mrs. Viktor (Helena Wilhelmina)	Female	41	0	2	370129	20.2125		Southampton		NA		Did not survive	1	30-45
+Third	Roth, Miss. Sarah A	Female	NA	0	0	342712	8.05		Southampton	C	NA		Survived	1	No age recorded
+Third	Rouse, Mr. Richard Henry	Male	50	0	0	A/5 3594	8.05		Southampton		NA		Did not survive	1	45-60
+Third	Rush, Mr. Alfred George John	Male	16	0	0	A/4. 20589	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Ryan, Mr. Edward	Male	NA	0	0	383162	7.75		Queenstown	14	NA		Survived	1	No age recorded
+Third	Ryan, Mr. Patrick	Male	NA	0	0	371110	24.15		Queenstown		NA		Did not survive	1	No age recorded
+Third	Saad, Mr. Amin	Male	NA	0	0	2671	7.2292		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Saad, Mr. Khalil	Male	25	0	0	2672	7.225		Cherbourg		NA		Did not survive	1	15-30
+Third	Saade, Mr. Jean Nassr	Male	NA	0	0	2676	7.225		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Sadlier, Mr. Matthew	Male	NA	0	0	367655	7.7292		Queenstown		NA		Did not survive	1	No age recorded
+Third	Sadowitz, Mr. Harry	Male	NA	0	0	LP 1588	7.575		Southampton		NA		Did not survive	1	No age recorded
+Third	Saether, Mr. Simon Sivertsen	Male	38.5	0	0	SOTON/O.Q. 3101262	7.25		Southampton		32		Did not survive	1	30-45
+Third	Sage, Master. Thomas Henry	Male	NA	8	2	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Master. William Henry	Male	14.5	8	2	CA. 2343	69.55		Southampton		67		Did not survive	1	0-15
+Third	Sage, Miss. Ada	Female	NA	8	2	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Miss. Constance Gladys	Female	NA	8	2	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Miss. Dorothy Edith "Dolly"	Female	NA	8	2	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Miss. Stella Anna	Female	NA	8	2	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Mr. Douglas Bullen	Male	NA	8	2	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Mr. Frederick	Male	NA	8	2	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Mr. George John Jr	Male	NA	8	2	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Mr. John George	Male	NA	1	9	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Sage, Mrs. John (Annie Bullen)	Female	NA	1	9	CA. 2343	69.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Salander, Mr. Karl Johan	Male	24	0	0	7266	9.325		Southampton		NA		Did not survive	1	15-30
+Third	Salkjelsvik, Miss. Anna Kristine	Female	21	0	0	343120	7.65		Southampton	C	NA		Survived	1	15-30
+Third	Salonen, Mr. Johan Werner	Male	39	0	0	3101296	7.925		Southampton		NA		Did not survive	1	30-45
+Third	Samaan, Mr. Elias	Male	NA	2	0	2662	21.6792		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Samaan, Mr. Hanna	Male	NA	2	0	2662	21.6792		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Samaan, Mr. Youssef	Male	NA	2	0	2662	21.6792		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Sandstrom, Miss. Beatrice Irene	Female	1	1	1	PP 9549	16.7	G6	Southampton	13	NA		Survived	1	0-15
+Third	Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)	Female	24	0	2	PP 9549	16.7	G6	Southampton	13	NA		Survived	1	15-30
+Third	Sandstrom, Miss. Marguerite Rut	Female	4	1	1	PP 9549	16.7	G6	Southampton	13	NA		Survived	1	0-15
+Third	Sap, Mr. Julius	Male	25	0	0	345768	9.5		Southampton	11	NA		Survived	1	15-30
+Third	Saundercock, Mr. William Henry	Male	20	0	0	A/5. 2151	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Sawyer, Mr. Frederick Charles	Male	24.5	0	0	342826	8.05		Southampton		284		Did not survive	1	15-30
+Third	Scanlan, Mr. James	Male	NA	0	0	36209	7.725		Queenstown		NA		Did not survive	1	No age recorded
+Third	Sdycoff, Mr. Todor	Male	NA	0	0	349222	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Shaughnessy, Mr. Patrick	Male	NA	0	0	370374	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Sheerlinck, Mr. Jan Baptist	Male	29	0	0	345779	9.5		Southampton	11	NA		Survived	1	15-30
+Third	Shellard, Mr. Frederick William	Male	NA	0	0	C.A. 6212	15.1		Southampton		NA		Did not survive	1	No age recorded
+Third	Shine, Miss. Ellen Natalia	Female	NA	0	0	330968	7.7792		Queenstown		NA		Survived	1	No age recorded
+Third	Shorney, Mr. Charles Joseph	Male	NA	0	0	374910	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Simmons, Mr. John	Male	NA	0	0	SOTON/OQ 392082	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Sirayanian, Mr. Orsen	Male	22	0	0	2669	7.2292		Cherbourg		NA		Did not survive	1	15-30
+Third	Sirota, Mr. Maurice	Male	NA	0	0	392092	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Sivic, Mr. Husein	Male	40	0	0	349251	7.8958		Southampton		NA		Did not survive	1	30-45
+Third	Sivola, Mr. Antti Wilhelm	Male	21	0	0	STON/O 2. 3101280	7.925		Southampton		NA		Did not survive	1	15-30
+Third	Sjoblom, Miss. Anna Sofia	Female	18	0	0	3101265	7.4958		Southampton	16	NA		Survived	1	15-30
+Third	Skoog, Master. Harald	Male	4	3	2	347088	27.9		Southampton		NA		Did not survive	1	0-15
+Third	Skoog, Master. Karl Thorsten	Male	10	3	2	347088	27.9		Southampton		NA		Did not survive	1	0-15
+Third	Skoog, Miss. Mabel	Female	9	3	2	347088	27.9		Southampton		NA		Did not survive	1	0-15
+Third	Skoog, Miss. Margit Elizabeth	Female	2	3	2	347088	27.9		Southampton		NA		Did not survive	1	0-15
+Third	Skoog, Mr. Wilhelm	Male	40	1	4	347088	27.9		Southampton		NA		Did not survive	1	30-45
+Third	Skoog, Mrs. William (Anna Bernhardina Karlsson)	Female	45	1	4	347088	27.9		Southampton		NA		Did not survive	1	30-45
+Third	Slabenoff, Mr. Petco	Male	NA	0	0	349214	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Slocovski, Mr. Selman Francis	Male	NA	0	0	SOTON/OQ 392086	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Smiljanic, Mr. Mile	Male	NA	0	0	315037	8.6625		Southampton		NA		Did not survive	1	No age recorded
+Third	Smith, Mr. Thomas	Male	NA	0	0	384461	7.75		Queenstown		NA		Did not survive	1	No age recorded
+Third	Smyth, Miss. Julia	Female	NA	0	0	335432	7.7333		Queenstown	13	NA		Survived	1	No age recorded
+Third	Soholt, Mr. Peter Andreas Lauritz Andersen	Male	19	0	0	348124	7.65	F G73	Southampton		NA		Did not survive	1	15-30
+Third	Somerton, Mr. Francis William	Male	30	0	0	A.5. 18509	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Spector, Mr. Woolf	Male	NA	0	0	A.5. 3236	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Spinner, Mr. Henry John	Male	32	0	0	STON/OQ. 369943	8.05		Southampton		NA		Did not survive	1	30-45
+Third	Staneff, Mr. Ivan	Male	NA	0	0	349208	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Stankovic, Mr. Ivan	Male	33	0	0	349239	8.6625		Cherbourg		NA		Did not survive	1	30-45
+Third	Stanley, Miss. Amy Zillah Elsie	Female	23	0	0	CA. 2314	7.55		Southampton	C	NA		Survived	1	15-30
+Third	Stanley, Mr. Edward Roland	Male	21	0	0	A/4 45380	8.05		Southampton		NA		Did not survive	1	15-30
+Third	Storey, Mr. Thomas	Male	60.5	0	0	3701	NA		Southampton		261		Did not survive	1	over 60
+Third	Stoytcheff, Mr. Ilia	Male	19	0	0	349205	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Strandberg, Miss. Ida Sofia	Female	22	0	0	7553	9.8375		Southampton		NA		Did not survive	1	15-30
+Third	Stranden, Mr. Juho	Male	31	0	0	STON/O 2. 3101288	7.925		Southampton	9	NA		Survived	1	30-45
+Third	Strilic, Mr. Ivan	Male	27	0	0	315083	8.6625		Southampton		NA		Did not survive	1	15-30
+Third	Strom, Miss. Telma Matilda	Female	2	0	1	347054	10.4625	G6	Southampton		NA		Did not survive	1	0-15
+Third	Strom, Mrs. Wilhelm (Elna Matilda Persson)	Female	29	1	1	347054	10.4625	G6	Southampton		NA		Did not survive	1	15-30
+Third	Sunderland, Mr. Victor Francis	Male	16	0	0	SOTON/OQ 392089	8.05		Southampton	B	NA		Survived	1	15-30
+Third	Sundman, Mr. Johan Julian	Male	44	0	0	STON/O 2. 3101269	7.925		Southampton	15	NA		Survived	1	30-45
+Third	Sutehall, Mr. Henry Jr	Male	25	0	0	SOTON/OQ 392076	7.05		Southampton		NA		Did not survive	1	15-30
+Third	Svensson, Mr. Johan	Male	74	0	0	347060	7.775		Southampton		NA		Did not survive	1	over 60
+Third	Svensson, Mr. Johan Cervin	Male	14	0	0	7538	9.225		Southampton	13	NA		Survived	1	0-15
+Third	Svensson, Mr. Olof	Male	24	0	0	350035	7.7958		Southampton		NA		Did not survive	1	15-30
+Third	Tenglin, Mr. Gunnar Isidor	Male	25	0	0	350033	7.7958		Southampton	13 15	NA		Survived	1	15-30
+Third	Theobald, Mr. Thomas Leonard	Male	34	0	0	363294	8.05		Southampton		176		Did not survive	1	30-45
+Third	Thomas, Master. Assad Alexander	Male	0.42	0	1	2625	8.5167		Cherbourg	16	NA		Survived	1	0-15
+Third	Thomas, Mr. Charles P	Male	NA	1	0	2621	6.4375		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Thomas, Mr. John	Male	NA	0	0	2681	6.4375		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Thomas, Mr. Tannous	Male	NA	0	0	2684	7.225		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Thomas, Mrs. Alexander (Thamine "Thelma")	Female	16	1	1	2625	8.5167		Cherbourg	14	NA		Survived	1	15-30
+Third	Thomson, Mr. Alexander Morrison	Male	NA	0	0	32302	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Thorneycroft, Mr. Percival	Male	NA	1	0	376564	16.1		Southampton		NA		Did not survive	1	No age recorded
+Third	Thorneycroft, Mrs. Percival (Florence Kate White)	Female	NA	1	0	376564	16.1		Southampton	10	NA		Survived	1	No age recorded
+Third	Tikkanen, Mr. Juho	Male	32	0	0	STON/O 2. 3101293	7.925		Southampton		NA		Did not survive	1	30-45
+Third	Tobin, Mr. Roger	Male	NA	0	0	383121	7.75	F38	Queenstown		NA		Did not survive	1	No age recorded
+Third	Todoroff, Mr. Lalio	Male	NA	0	0	349216	7.8958		Southampton		NA		Did not survive	1	No age recorded
+Third	Tomlin, Mr. Ernest Portage	Male	30.5	0	0	364499	8.05		Southampton		50		Did not survive	1	30-45
+Third	Torber, Mr. Ernst William	Male	44	0	0	364511	8.05		Southampton		NA		Did not survive	1	30-45
+Third	Torfa, Mr. Assad	Male	NA	0	0	2673	7.2292		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Tornquist, Mr. William Henry	Male	25	0	0	LINE	0		Southampton	15	NA		Survived	1	15-30
+Third	Toufik, Mr. Nakli	Male	NA	0	0	2641	7.2292		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Touma, Master. Georges Youssef	Male	7	1	1	2650	15.2458		Cherbourg	C	NA		Survived	1	0-15
+Third	Touma, Miss. Maria Youssef	Female	9	1	1	2650	15.2458		Cherbourg	C	NA		Survived	1	0-15
+Third	Touma, Mrs. Darwis (Hanne Youssef Razi)	Female	29	0	2	2650	15.2458		Cherbourg	C	NA		Survived	1	15-30
+Third	Turcin, Mr. Stjepan	Male	36	0	0	349247	7.8958		Southampton		NA		Did not survive	1	30-45
+Third	Turja, Miss. Anna Sofia	Female	18	0	0	4138	9.8417		Southampton	15	NA		Survived	1	15-30
+Third	Turkula, Mrs. (Hedwig)	Female	63	0	0	4134	9.5875		Southampton	15	NA		Survived	1	over 60
+Third	van Billiard, Master. James William	Male	NA	1	1	A/5. 851	14.5		Southampton		NA		Did not survive	1	No age recorded
+Third	van Billiard, Master. Walter John	Male	11.5	1	1	A/5. 851	14.5		Southampton		1		Did not survive	1	0-15
+Third	van Billiard, Mr. Austin Blyler	Male	40.5	0	2	A/5. 851	14.5		Southampton		255		Did not survive	1	30-45
+Third	Van Impe, Miss. Catharina	Female	10	0	2	345773	24.15		Southampton		NA		Did not survive	1	0-15
+Third	Van Impe, Mr. Jean Baptiste	Male	36	1	1	345773	24.15		Southampton		NA		Did not survive	1	30-45
+Third	Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)	Female	30	1	1	345773	24.15		Southampton		NA		Did not survive	1	15-30
+Third	van Melkebeke, Mr. Philemon	Male	NA	0	0	345777	9.5		Southampton		NA		Did not survive	1	No age recorded
+Third	Vande Velde, Mr. Johannes Joseph	Male	33	0	0	345780	9.5		Southampton		NA		Did not survive	1	30-45
+Third	Vande Walle, Mr. Nestor Cyriel	Male	28	0	0	345770	9.5		Southampton		NA		Did not survive	1	15-30
+Third	Vanden Steen, Mr. Leo Peter	Male	28	0	0	345783	9.5		Southampton		NA		Did not survive	1	15-30
+Third	Vander Cruyssen, Mr. Victor	Male	47	0	0	345765	9		Southampton		NA		Did not survive	1	45-60
+Third	Vander Planke, Miss. Augusta Maria	Female	18	2	0	345764	18		Southampton		NA		Did not survive	1	15-30
+Third	Vander Planke, Mr. Julius	Male	31	3	0	345763	18		Southampton		NA		Did not survive	1	30-45
+Third	Vander Planke, Mr. Leo Edmondus	Male	16	2	0	345764	18		Southampton		NA		Did not survive	1	15-30
+Third	Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)	Female	31	1	0	345763	18		Southampton		NA		Did not survive	1	30-45
+Third	Vartanian, Mr. David	Male	22	0	0	2658	7.225		Cherbourg	13 15	NA		Survived	1	15-30
+Third	Vendel, Mr. Olof Edvin	Male	20	0	0	350416	7.8542		Southampton		NA		Did not survive	1	15-30
+Third	Vestrom, Miss. Hulda Amanda Adolfina	Female	14	0	0	350406	7.8542		Southampton		NA		Did not survive	1	0-15
+Third	Vovk, Mr. Janko	Male	22	0	0	349252	7.8958		Southampton		NA		Did not survive	1	15-30
+Third	Waelens, Mr. Achille	Male	22	0	0	345767	9		Southampton		NA	Antwerp, Belgium / Stanton, OH	Did not survive	1	15-30
+Third	Ware, Mr. Frederick	Male	NA	0	0	359309	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Warren, Mr. Charles William	Male	NA	0	0	C.A. 49867	7.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Webber, Mr. James	Male	NA	0	0	SOTON/OQ 3101316	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Wenzel, Mr. Linhart	Male	32.5	0	0	345775	9.5		Southampton		298		Did not survive	1	30-45
+Third	Whabee, Mrs. George Joseph (Shawneene Abi-Saab)	Female	38	0	0	2688	7.2292		Cherbourg	C	NA		Survived	1	30-45
+Third	Widegren, Mr. Carl/Charles Peter	Male	51	0	0	347064	7.75		Southampton		NA		Did not survive	1	45-60
+Third	Wiklund, Mr. Jakob Alfred	Male	18	1	0	3101267	6.4958		Southampton		314		Did not survive	1	15-30
+Third	Wiklund, Mr. Karl Johan	Male	21	1	0	3101266	6.4958		Southampton		NA		Did not survive	1	15-30
+Third	Wilkes, Mrs. James (Ellen Needs)	Female	47	1	0	363272	7		Southampton		NA		Survived	1	45-60
+Third	Willer, Mr. Aaron ("Abi Weller")	Male	NA	0	0	3410	8.7125		Southampton		NA		Did not survive	1	No age recorded
+Third	Willey, Mr. Edward	Male	NA	0	0	S.O./P.P. 751	7.55		Southampton		NA		Did not survive	1	No age recorded
+Third	Williams, Mr. Howard Hugh "Harry"	Male	NA	0	0	A/5 2466	8.05		Southampton		NA		Did not survive	1	No age recorded
+Third	Williams, Mr. Leslie	Male	28.5	0	0	54636	16.1		Southampton		14		Did not survive	1	15-30
+Third	Windelov, Mr. Einar	Male	21	0	0	SOTON/OQ 3101317	7.25		Southampton		NA		Did not survive	1	15-30
+Third	Wirz, Mr. Albert	Male	27	0	0	315154	8.6625		Southampton		131		Did not survive	1	15-30
+Third	Wiseman, Mr. Phillippe	Male	NA	0	0	A/4. 34244	7.25		Southampton		NA		Did not survive	1	No age recorded
+Third	Wittevrongel, Mr. Camille	Male	36	0	0	345771	9.5		Southampton		NA		Did not survive	1	30-45
+Third	Yasbeck, Mr. Antoni	Male	27	1	0	2659	14.4542		Cherbourg	C	NA		Did not survive	1	15-30
+Third	Yasbeck, Mrs. Antoni (Selini Alexander)	Female	15	1	0	2659	14.4542		Cherbourg		NA		Survived	1	0-15
+Third	Youseff, Mr. Gerious	Male	45.5	0	0	2628	7.225		Cherbourg		312		Did not survive	1	45-60
+Third	Yousif, Mr. Wazli	Male	NA	0	0	2647	7.225		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Yousseff, Mr. Gerious	Male	NA	0	0	2627	14.4583		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Zabour, Miss. Hileni	Female	14.5	1	0	2665	14.4542		Cherbourg		328		Did not survive	1	0-15
+Third	Zabour, Miss. Thamine	Female	NA	1	0	2665	14.4542		Cherbourg		NA		Did not survive	1	No age recorded
+Third	Zakarian, Mr. Mapriededer	Male	26.5	0	0	2656	7.225		Cherbourg		304		Did not survive	1	15-30
+Third	Zakarian, Mr. Ortin	Male	27	0	0	2670	7.225		Cherbourg		NA		Did not survive	1	15-30
+Third	Zimmerman, Mr. Leo	Male	29	0	0	315082	7.875		Southampton		NA		Did not survive	1	15-30
