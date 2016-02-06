@@ -1,7 +1,6 @@
 # Udacity Data Visualization course
 # final project data prep code 
 
-setwd("c:/users/bonnie/desktop/mark_work/nanodegree/visualization/project")
 
 library(ggplot2)
 library(dplyr)
