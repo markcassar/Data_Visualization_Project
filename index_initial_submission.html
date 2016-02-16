@@ -15,10 +15,6 @@ http://stackoverflow.com/questions/23530434/in-dimple-how-do-you-change-the-orde
 http://stackoverflow.com/questions/30434627/how-to-change-the-position-and-size-of-the-tooltip-in-dimple-js
 
 http://annapawlicka.com/pretty-charts-with-dimple-js/
-
-http://dimplejs.org/advanced_examples_viewer.html?id=advanced_bar_labels
-
-http://stackoverflow.com/questions/35434829/get-correct-percent-in-dimplejs-vertical-100-bar-chart/35439503#35439503
   -->
 <html>
 <head>
@@ -94,6 +90,7 @@ http://stackoverflow.com/questions/35434829/get-correct-percent-in-dimplejs-vert
     <li class='active' value="Sex"><a href="#"><span>Sex</span></a></li>
     <li value="Cabin Class"><a href="#"><span>Cabin Class</span></a></li>
     <li value="Age"><a href="#"><span>Age</span></a></li>
+    <li value="Embarked"><a href="#"><span>Place of Embarkation</span></a></li>
   </ul>
   </div>
 
@@ -135,42 +132,67 @@ http://stackoverflow.com/questions/35434829/get-correct-percent-in-dimplejs-vert
       d3.tsv("data/titanic.tsv", function(data) {
 
         var myChart = new dimple.chart(svg, data);
-        var x = myChart.addCategoryAxis("x", source); 
-        x.addOrderRule(source);
-        var y = myChart.addPctAxis("y", "count");
-        var mySeries = myChart.addSeries(["Survived"], dimple.plot.bar);
+        var x = myChart.addCategoryAxis("x", ["Survived", source]); 
+        var y = myChart.addMeasureAxis("y", "count");
+        var mySeries = myChart.addSeries([source], dimple.plot.bar);
+
+        // change default tooltip style and behaviour 
+        mySeries.addEventHandler("mouseover", function (e) {
+          var cx = parseFloat(e.selectedShape.attr("x"));
+          var cxWidth = parseFloat(e.selectedShape.attr("width"));
+          var cy = parseFloat(e.selectedShape.attr("y"));
+
+          // set size and coordinates of tooltip
+          var width = 120;
+          var height = 50;
+          var xPop = (cx +width + 10 < svg.attr("width")) ? cx: cx ;
+          var yPop = (cy - height / 2 < 0) ? 15: cy - height / 2;
+
+          popup = svg.append("g");
+
+          // change style of tooltip
+          popup
+              .append("rect")
+              .attr("x", xPop + 5)
+              .attr("y", yPop - 5)
+              .attr("width", 150)
+              .attr("height", height)
+              .attr("width", width)
+              .attr("rx", 5)
+              .attr("ry", 5)
+              .style("fill", "white")
+              .style("stroke", "#36b0b6")
+              .style("stroke-width", 2);
+
+          // add appropriate text to tooltip
+          popup
+            .append('text')
+            .attr('x', xPop + 10)
+            .attr('y', yPop + 10)
+            .append('tspan')
+            .attr('x', xPop + 10)
+            .attr('y', yPop + 20)
+            .text(
+              dropdown.select(".active").attr("value") + ': ' + e.seriesValue[0])
+            .style("font-family", "sans-serif")
+            .style("font-size", 10)
+            .append('tspan')
+            .attr('x', xPop + 10)
+            .attr('y', yPop + 40)
+            .text("Count: " + e.yValue)
+            .style("font-family", "sans-serif")
+            .style("font-size", 10);
+        });
 
 
-        mySeries.afterDraw = function (shape, data) {
-                // Get the shape as a d3 selection
-                var s = d3.select(shape),
-                  rect = {
-                    x: parseFloat(s.attr("x")),
-                    y: parseFloat(s.attr("y")),
-                    width: parseFloat(s.attr("width")),
-                    height: parseFloat(s.attr("height"))
-                  };
-                // Only label bars where the text can fit
-                if (rect.height >= 8) {
-                  // Add a text label for the value
-                  svg.append("text")
-                    // Position in the centre of the shape (vertical position is
-                    // manually set due to cross-browser problems with baseline)
-                    .attr("x", rect.x + rect.width / 2)
-                    .attr("y", rect.y + rect.height / 2 + 3.5)
-                    // Centre align
-                    .style("text-anchor", "middle")
-                    .style("font-size", "15px")
-                    .style("font-family", "sans-serif")
-                    // Make it a little transparent to tone down the black
-                    .style("opacity", 0.7)
-                    // Format the number
-                    .text(d3.format(",.0f")(data.yValue ));
-                }
-              };
+        // Clear tolltip on exit
+        mySeries.addEventHandler("mouseleave", function (e) {
+            if (popup !== null) {
+              popup.remove();
+            };
+        });
 
-
-        var myLegend = myChart.addLegend("5%", "5%", "55%", "20%", "Left", mySeries);
+        var myLegend = myChart.addLegend("10%", "5%", "60%", "20%", "Right", mySeries);
 
         // change order of legend to match order of bars in chart
         myLegend._getEntries_old = myLegend._getEntries;
@@ -194,67 +216,12 @@ http://stackoverflow.com/questions/35434829/get-correct-percent-in-dimplejs-vert
 
         myChart.draw(1000);
 
-      // change default tooltip style and behaviour 
-      mySeries.shapes.on("mouseover", function (d) {
-          console.log(d);
-          // get x and y coordinates of bar for tooltip positioning
-          var cx = d3.select(this).attr('x');
-          var cy = d3.select(this).attr('y');
-
-          // set size and coordinates of tooltip
-          var width = 120;
-          var height = 50;
-          var xPop = cx; 
-          var yPop = cy - height / 2 + 35; 
-
-          popup = svg.append("g");
-
-          // change style of tooltip
-          popup
-              .append("rect")
-              .attr("x", xPop - 15)
-              .attr("y", yPop - 5)
-              .attr("width", 100)
-              .attr("height", height)
-              .attr("rx", 25)
-              .attr("ry", 5)
-              .style("fill", "white")
-              .style("stroke", "#36b0b6")
-              .style("stroke-width", 2);
-
-          //add appropriate text to tooltip
-          popup
-              .append('text')
-              //.attr('x', xPop + 50)
-              //.attr('y', yPop + 10)
-              .append('tspan')
-              .attr('x', xPop + 50)
-              .attr('y', yPop + 20)
-              .text("   " + d.aggField[0])
-              .style("font-family", "sans-serif")
-              .style("font-size", 10)
-              .append('tspan')
-              .attr('x', xPop + 80)
-              .attr('y', yPop + 40)
-              .text("Percent: " + d3.format("%")(d.height))
-              .style("font-family", "sans-serif")
-              .style("font-size", 10);
-              console.log("my text is showing up");
-        });
-
-        // Clear tolltip on exit
-        mySeries.shapes.on("mouseleave", function (d) {
-            if (popup !== null) {
-              popup.remove();
-            };
-        });
-
         // change style of axis labels
         x.titleShape.style("font-size", "20");
         x.shapes.selectAll("text").style("font-size", 15);
         x.titleShape.attr("y", height - 5);
 
-        y.titleShape.text("Percent"); 
+        y.titleShape.text("Count"); 
         y.titleShape.style("font-family", "sans-serif");
         y.titleShape.style("font-size", "20");
 
