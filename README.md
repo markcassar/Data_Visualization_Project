@@ -1,5 +1,13 @@
 # Data Visualization Final Project
 
+## Revisions
+Based on the comments in my project review I have made the following changes to my visualization project:
+1. Removed 'place of embarkation' from the chart as it did not fit the story;
+2. Switched to a vertical 100% stacked bar chart so the reader can easily see the survival rates;
+3. Added the actual survivor and fatality counts to the bars themselves so the reader can still see absolute counts;
+4. Added survival rate info to the tooltip;
+5. Reordered the x-axis so the bars now follow an order that an average reader would expect. 
+
 ## Summary
 This visualization is meant to allow someone to explore the Titanic dataset across the dimensions of sex, age, cabin class, and place of embarkation. Each dimension is split into two categories based on whether the passenger survived or did not. The data is presented in absolute counts instead of percentages so the actual loss of life is apparent. The main purposes of the visualization are: 
 - to show the actual number of people that died based on socio-economic status
